@@ -35,3 +35,7 @@ I have been teaching several topics including algorithms and programming languag
 - Natural Language Processing
 
 
+Thank you,
+Gusti Ahmad Fanshuri Alfarisy,
+gusti.alfarisy@lecturer.itk.ac.id
+
