@@ -2,5 +2,10 @@
 // 
 // Include the file _sass/_custom.scss to your site to add custom styling
 p {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
+}
+
+.profil-picture{
+  position: relative; width: 300px; height: auto; overflow: hidden; border-radius: 50% !important;
+
 }
