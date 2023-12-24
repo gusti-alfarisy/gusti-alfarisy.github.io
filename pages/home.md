@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Personal Pages
-description: All information about me ~ Gusti Ahmad Fanshuri Alfarisy
+description: Information about me ~ Gusti Ahmad Fanshuri Alfarisy
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
