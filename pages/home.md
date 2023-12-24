@@ -8,8 +8,15 @@ permalink: /
 
 [//]: # ([Petridish]&#40;https://github.com/peterdesmet/petridish&#41; is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly &#40;thanks to [Bootstrap 5]&#40;https://getbootstrap.com/docs/5.1/&#41;&#41;, free, easy to customize, and designed to work well with [GitHub Pages]&#40;https://pages.github.com/&#41;.)
 
+```python
+from world import netizens
+print("Hello world!")
+print("Greetings from Borneo Islands...!")
+```
+
 ![My picture - Gusti Ahmad Fanshuri Alfarisy](assets/theme/images/profil_pic_me.png "Hello"){:class="profil-picture"}
 
+___
 ## Research Agendas
 
 ![Current research agendas](assets/theme/images/main_illustration_final.png)
