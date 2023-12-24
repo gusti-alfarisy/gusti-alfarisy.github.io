@@ -6,12 +6,13 @@ background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
+[//]: # ([Petridish]&#40;https://github.com/peterdesmet/petridish&#41; is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly &#40;thanks to [Bootstrap 5]&#40;https://getbootstrap.com/docs/5.1/&#41;&#41;, free, easy to customize, and designed to work well with [GitHub Pages]&#40;https://pages.github.com/&#41;.)
 
-## Installation
 
-See the demo website for instructions:
+Dr. (cand.) Gusti Ahmad Fanshuri Alfarisy  is currently pursuing his Ph.D. in the School of Digital Science, Universiti Brunei Darussalam. He received his B.C.S. and M.C.S. from Brawijaya University in 2014 and 2017 respectively. He is also a Lecturer at the Department of Informatics, Institut Teknologi Kalimantan, Indonesia. His research interest includes:
 
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }})
+- Machine Learning
+- Neural Architecture Search
+- Open-World Lifelonf Machine Learning
+- Computer Vision
+- Natural Language Processing
