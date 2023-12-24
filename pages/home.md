@@ -13,7 +13,7 @@ permalink: /
 ## Research Agendas
 
 ![Current research agendas](assets/theme/images/main_illustration_final.png)
-> **We have experienced the outstanding performance of artificial intelligence surpassing human capability. Yet, they are unable to acknowledge that they do not know and learn the novel phenomenon continuously. In my current research agenda, I am exploring a technique to enhance an agent to identify unknown categories and learn them continuously in domain-specific problem.  This will make the agent become reliable and able to adapt to the open-world environment in the agent interest only. The applications can be applied to ecology, healthcare, smart cities, robotics, or intelligent systems.**
+> **We have experienced the outstanding performance of artificial intelligence surpassing human capability. Yet, they are unable to acknowledge fully that they do not know and learn the novel phenomenon continuously like humans. In my current research agenda, I am exploring a technique to enhance an agent to identify unknown categories and learn them continuously in domain-specific problem.  This will make the agent become reliable and able to adapt to the open-world environment in the agent interest only. The applications can be applied to ecology, healthcare, smart cities, robotics, or intelligent systems.**
 
 ## Short Biography
 
