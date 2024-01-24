@@ -60,7 +60,7 @@ Organel merupakan komponen dengan berbagai fungsi yang ada pada sel. Contoh orga
 Tingkatan terakhir kehidupan adalah pada tingkat molekul. Molekul merupakan struktur kimia yang terdiri dari dua atau lebih atom. Contoh molekul adalah klorofil yang jumlahnya mencapai berjuta-juta didalam organel kloroplas.
 
 ![Sumber: https://www.pmfias.com/molecule-ion-atomicity/](https://pmfias.b-cdn.net/wp-content/uploads/2021/04/carbon-methane-molecule.gif)
-*Sumber: https://www.pmfias.com/molecule-ion-atomicity/]*
+*Sumber: https://www.pmfias.com/molecule-ion-atomicity/*
 
 ## Referensi
 - Urry et al., *Campbell Biology, 12th edition*, Pearson, 2021.
