@@ -29,9 +29,9 @@ Hi, greetings from Borneo Island! I am a lecturer at Institut Teknologi Kalimant
 I have been teaching several topics including algorithms and programming languages, data structures, numerical methods, machine learning, and software engineering. I have reviewed several articles in Springer and Elsevier Journals. My research interest includes:
 
 - Open-World Lifelong Machine Learning
-- Applications of Open-World Lifelong Machine Learning on computer vision or NLP
-- Deep Learning
-- Neural Architecture Search
-- Focused Crawler
+- Machine Learning / Deep Learning
+- Neural Architecture Search / Automated Machine Learning
+- Computer Vision
+- Natural Language Processing
 
 
