@@ -33,5 +33,6 @@ I have been teaching several topics including algorithms and programming languag
 - Open-World Lifelong Machine Learning
 - Automated Machine Learning (AutoML)
 - Machine Learning Operations (MLOps)
+- Computer Vision
 
 
