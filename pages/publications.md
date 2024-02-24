@@ -9,11 +9,12 @@ permalink: /publications/
 
 ## Journal Articles
 ### 2024
+- [Preprint] Alfarisy, G.A., Malik, O.A., & Hong, O.W. (2024). *Towards Unsupervised Domain-Specific Open-World Recognition*. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4719921)
 - Alfarisy, G.A., Malik, O.A., & Hong, O.W. (2024). *Towards open domain-specific recognition using Quad-Channel Self-Attention Reciprocal Point Learning and Autoencoder*. Knowledge-Based Systems. [[link]](https://www.sciencedirect.com/science/article/pii/S0950705123010109)
 
 ### 2023
 - Alfarisy, G.A., Malik, O.A., & Hong, O.W. (2023). *Quad-Channel Contrastive Prototype Networks for Open-Set Recognition in Domain-Specific Tasks*. IEEE Access, 11, 48578-48592. [[link]](https://ieeexplore.ieee.org/document/10123937)
-- Alfarisy, G.A., Malik, O.A., & Hong, O.W. (2023). *Model Evaluation for Domain Identification of Unknown Classes in Open-World Recognition: A Proposal*. [[link]](https://arxiv.org/abs/2312.05454)
+- [Preprint] Alfarisy, G.A., Malik, O.A., & Hong, O.W. (2023). *Model Evaluation for Domain Identification of Unknown Classes in Open-World Recognition: A Proposal*. [[link]](https://arxiv.org/abs/2312.05454)
 
 ### 2018
 - Alfarisy, G.A., Mahmudy, W.F., & Natsir, M.H. (2018). *Good Parameters for PSO in Optimizing Laying Hen Diet*. International Journal of Electrical and Computer Engineering (IJECE).
