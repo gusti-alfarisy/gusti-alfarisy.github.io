@@ -9,6 +9,7 @@ permalink: /publications/
 
 ## Journal Articles
 ### 2024
+- Mochamad Denny Surindra, Gusti Ahmad Fanshuri Alfarisy, Wahyu Caesarendra, Mohamad Iskandar Petra, Totok Prasetyo, Tegoeh Tjahjowidodo, Grzegorz M. Królczyk, Adam Glowacz & Munish Kumar Gupta. (2024). *Use of machine learning models in condition monitoring of abrasive belt in robotic arm grinding process*. [Link](https://link.springer.com/article/10.1007/s10845-024-02410-6)
 - [Preprint] Alfarisy, G.A., Malik, O.A., & Hong, O.W. (2024). *Towards Unsupervised Domain-Specific Open-World Recognition*. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4719921)
 - Alfarisy, G.A., Malik, O.A., & Hong, O.W. (2024). *Towards open domain-specific recognition using Quad-Channel Self-Attention Reciprocal Point Learning and Autoencoder*. Knowledge-Based Systems. [[link]](https://www.sciencedirect.com/science/article/pii/S0950705123010109)
 
