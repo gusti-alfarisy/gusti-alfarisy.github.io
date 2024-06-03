@@ -26,7 +26,7 @@ We are interested in the domain-specific open-world recognition problems in **En
 
 ## Short Biography
 
-Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknologi Kalimantan at the Department of Informatics. Currently, I am pursuing my Ph.D. degree in Computer Science at the School of Digital Science, Universiti Brunei Darussalam under supervision of Dr. Owais Ahmed Malik and Dr. Ong Wee Hong.
+Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknologi Kalimantan at the Department of Informatics. Currently, I am pursuing my Ph.D. degree in Artificial Intelligence at the School of Digital Science, Universiti Brunei Darussalam under supervision of Dr. Owais Ahmed Malik and Dr. Ong Wee Hong.
 
 I have been teaching several topics including algorithms and programming languages, data structures, numerical methods, machine learning, and software engineering. I have reviewed several articles in Springer and Elsevier Journals. My research interest includes:
 
