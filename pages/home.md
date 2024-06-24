@@ -22,7 +22,7 @@ ___
 ![Current research agendas](assets/theme/images/main_illustration_final.png)
 > **We have experienced the outstanding performance of artificial intelligence surpassing human capability. Yet, they are unable to acknowledge fully that they do not know and learn the novel phenomenon continuously like humans. In my current research agenda, I am exploring a technique to enhance an agent to identify unknown categories and learn them continuously in domain-specific problem.  This will make the agent become reliable and able to adapt to the open-world environment in the agent interest only. The applications can be applied to ecology, healthcare, smart cities, robotics, chatbot or intelligent systems. We named this as _Domain-Specific Open-World Recognition_.**
 
-We are interested in the domain-specific open-world recognition problems in **Lifelong Chatbot**, **Web Intelligence**, **Environmental Monitoring and Conservation**, and **Healthcare**.
+We are interested in the domain-specific open-world recognition problems in **Environmental Monitoring and Conservation**, **Lifelong Chatbot**, **Web Intelligence**,  and **Healthcare**.
 
 ## Short Biography
 
@@ -31,9 +31,11 @@ Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknol
 I have been teaching several topics including algorithms and programming languages, data structures, numerical methods, machine learning, and software engineering. I have reviewed several articles in Springer and Elsevier Journals. My research interest includes:
 
 - Open-World Lifelong Machine Learning
-- Automated Machine Learning (AutoML)
-- Focused Crawler
 - Computer Vision
+- Web Intelligence
 - Natural Language Processing
+- LLM
+- Ecological and Environmental Informatics
+- Healthcare Informatics
 
 
