@@ -9,7 +9,7 @@
 - text: Blog
   href: /blog/
 - text: Course
- menu: # Dropdown menu (one level deep only)
+  menu: # Dropdown menu (one level deep only)
  - text: Kecerdasan Web
    href: /course/kw/
 #- text: Documentation
