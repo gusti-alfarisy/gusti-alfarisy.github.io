@@ -6,6 +6,7 @@ background: "https://www.encyclopedie-environnement.org/app/uploads/2016/05/Bios
 author: Gusti Ahmad Fanshuri Alfarisy
 #tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
 #tags: [Data, Shared tag]
+toc: true
 comments: true
 ---
 
