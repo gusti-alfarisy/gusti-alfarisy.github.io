@@ -9,10 +9,10 @@ author: Gusti Ahmad Fanshuri Alfarisy                    # Used for copyright st
 social:
   email:
   twitter:
-  github:               # Can also be a github_username/repository
+  github:  gusti.alfarisy             # Can also be a github_username/repository
   mastodon:
   facebook:                          # A URL
-  disqus: https://gusti-alfarisy-github-io.disqus.com            # Enable Disqus comments from disqus_sitename.disqus.com
+  disqus: gusti-alfarisy-github-io.disqus.com            # Enable Disqus comments from disqus_sitename.disqus.com
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 9                        # Show x number of latest posts on homepage, can be 0
