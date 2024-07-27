@@ -1,11 +1,11 @@
 ---
-title: How to Customize LibreOffice with GTK Themes on Ubuntu/Linux
+title: How to Customize LibreOffice with GTK Themes on Ubuntu/Linux with Light Theme
 date: 2024-07-27
 background: "https://ubunlog.com/wp-content/uploads/2016/11/libreoffice-768x370.jpg.webp"
 
 author: Gusti Ahmad Fanshuri Alfarisy
 #tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
-#tags: [Data, Shared tag]
+tags: [Linux, Ubuntu, LibreOffice]
 comments: true
 ---
 
