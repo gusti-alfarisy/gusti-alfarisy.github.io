@@ -9,8 +9,19 @@ permalink: /mk/web/
 
 ## Course Information
 
+Description: 
+
+
 Lecturer: Gusti Ahmad Fanshuri Alfarisy
+
+Assistant:
+
+- TBA
+- TBA
+
 Time: 2024
+
+Online: TBA
 
 ## Reading/Materials
 
@@ -20,3 +31,30 @@ Time: 2024
 
 ### Minggu 3: Pemrosesan Teks dan Struktur pada Halaman web
 
+### Minggu 4: Hands on Project #1: Focused Crawler + Pendalaman Materi
+
+### Minggu 5: Indexing, Ranking, dan Mesin Pencari Vertikal
+
+### Minggu 6: Summarization pada Halaman Web: Pendekatan NLP
+
+### Minggu 7: Sosiologi Pengguna Penjelajah Web: Perspektif Social Science
+
+### Minggu 8: UTS (Ujian Tulis)
+
+### Minggu 9: Analisis Sentimen pada Halaman Web dan Sosial Media
+
+### Minggu 10: Deteksi Plagiat Teks Akademik melalui sumber daya web
+
+### Minggu 11: Hands on Project #2 Deteksi Plagiat + Pendalaman Materi
+
+### Minggu 12: Chatbot: Pengantar Large Language Model (a.k.a ChatGPT)
+
+### Minggu 13: Chatbot: Retrieval-Augmented Generation (RAG) Model untuk sumber daya web
+
+### Minggu 14: Hands on Project #3 RAG + Pendalaman Materi
+
+### Minggu 15: Future Prospect: Open-World Lifelong Learning pada sumber daya web
+
+### Minggu 16: UAS (Proyek)
+
+## References
