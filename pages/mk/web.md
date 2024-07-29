@@ -1,7 +1,7 @@
 ---
 title: Web Intelligence
 description: Web Intelligence Syllabus
-background: "https://miro.medium.com/v2/resize:fit:1400/1*G_VQZcr12g15PZRLifCsGQ.jpeg"
+background: "https://essential-addons.com/wp-content/uploads/2023/02/The-Role-of-AI-in-Modern-Web-Design-Things-You-Need-to-know.png"
 permalink: /mk/web/
 ---
 
