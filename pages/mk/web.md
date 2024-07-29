@@ -3,6 +3,7 @@ title: Web Intelligence
 description: Web Intelligence Syllabus
 background: "https://essential-addons.com/wp-content/uploads/2023/02/The-Role-of-AI-in-Modern-Web-Design-Things-You-Need-to-know.png"
 permalink: /mk/web/
+toc: true
 ---
 
 # IF201504: Kecerdasan Web
