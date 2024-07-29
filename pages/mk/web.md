@@ -30,7 +30,7 @@ Online: TBA
 
 ### Minggu 2: Arsitektur Mesin Pencari dan Focused Crawler
 
-### Minggu 3: Pemrosesan Teks dan Struktur pada Halaman web
+### Minggu 3: Pemrosesan Teks dan Struktur (*DOM Tree*) pada Halaman web
 
 ### Minggu 4: Hands on Project #1: Focused Crawler + Pendalaman Materi
 
