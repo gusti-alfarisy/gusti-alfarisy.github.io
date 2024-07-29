@@ -11,9 +11,9 @@
 - text: Course
   menu: # Dropdown menu (one level deep only)
   - text: 'IF201504: Kecerdasan Web'
-    href: /publications/
+    href: /kecerdasan-web/
   - text: 'IF201421: Pemrograman Fungsional'
-    href: /publications/
+    href: /kecerdasan-web/
 #- text: Documentation
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Installation
