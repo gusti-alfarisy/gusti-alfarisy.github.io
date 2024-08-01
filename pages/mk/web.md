@@ -34,7 +34,7 @@ TBA
 
 TBA
 
-### Minggu 3: Pemrosesan Teks dan Struktur (*DOM Tree*) pada Halaman web
+### Minggu 3: Pemrosesan Teks, Struktur (*DOM Tree*), dan Citra Visual pada Halaman web
 
 TBA
 
