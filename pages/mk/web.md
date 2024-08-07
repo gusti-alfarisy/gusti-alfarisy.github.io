@@ -24,6 +24,13 @@ Time: 2024
 
 Online: TBA
 
+### Penilaian
+
+* Tugas: 20%
+* Quiz: 10%
+* UTS: 20%
+* UAS: 50% (Project based)
+
 ## Reading/Materials
 
 ### Minggu 1: Anatomi Halaman Web, XML, dan *Semantic Web* (Web 3.0)
@@ -50,7 +57,7 @@ TBA
 
 TBA
 
-### Minggu 7: Sosiologi Pengguna Penjelajah Web: Perspektif Social Science
+### Minggu 7: Sosiologi Pengguna Penjelajah Web: Perspektif *Social Science*
 
 TBA
 
