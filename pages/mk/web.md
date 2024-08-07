@@ -8,7 +8,7 @@ toc: true
 
 # IF201504: Kecerdasan Web
 
-## Course Information
+## Course Information (August 2024)
 
 Description: 
 
