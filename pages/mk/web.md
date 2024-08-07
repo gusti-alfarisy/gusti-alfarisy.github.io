@@ -50,15 +50,15 @@ UTS merupakan penentuan judul proyek (individu maupun kelompok) dengan rencana p
 
 UAS dilaksanakan dengen presentasi proyek yang berdampak (akan dijelaskan di pertemuan pertama). Jenis Proyek bervariasi, ada yang bersifat individu ataupun kelompok, sesuai minat masing-masing mahasiswa. Jenis-jenis proyek sebagai berikut:
 
-* Mengembangkan Plugin pada Aplikasi Open Source Populer | Kelompok (maks. 3 org)/Individu
-* Jurnal Ilmiah (Submission) | Kelompok (maks. 4 org)/Individu
-* Proposal Tugas Akhir (TA) beserta prototipe awal | Individu
+* Mengembangkan Plugin pada Aplikasi Open Source Populer. Kelompok (maks. 3 org)/Individu
+* Jurnal Ilmiah (Submission). Kelompok (maks. 4 org)/Individu
+* Proposal Tugas Akhir (TA) beserta prototipe awal. Individu
 * Buku dengan judul "*Scraping* Halaman Web dan Focused Crawler dengan Python" (5 orang + dosen pengampu).
 * Aplikasi atau komponen aplikasi dari startup digital yang marketnya telah tervalidasi. Dengan CEO yang jelas.
 * Pengembangan kecerdasan web dengan kerja sama mitra industri.
-* Mahasiswa mengajar terkait topik kecerdasan web | Kelompok maks 3 org.
-* Mengikuti Penelitian Dosen Pengampu dengan keluaran prototipe yang dapat diteruskan menjadi TA | Individu.
-* Mengembangkan aplikasi kecerdasan web tertanam pada aplikasi di lingkungan Institut Teknologi Kalimantan dengan manfaat yang jelas | Kelompok (maks. 3 org)/Individu
+* Mahasiswa mengajar terkait topik kecerdasan web. Kelompok maks 3 org.
+* Mengikuti Penelitian Dosen Pengampu dengan keluaran prototipe yang dapat diteruskan menjadi TA. Individu.
+* Mengembangkan aplikasi kecerdasan web tertanam pada aplikasi di lingkungan Institut Teknologi Kalimantan dengan manfaat yang jelas. Kelompok (maks. 3 org)/Individu
 * Atau potensi proyek berdampak lainnya yang dapat diusulkan oleh mahasiswa
 
 ## Reading/Materials
