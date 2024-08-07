@@ -22,7 +22,7 @@ Assistant:
 
 Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Selain itu membantu dalam kelancaran pengerjaan proyek melalui masukan-masukan yang dapat diberikan dan memonitor progress proyek. Mahasiswa dapat berkonsultasi dengan asisten ketika mengalami kesulitan salama pembelajaran.
 
-Time: **Friday, 07:30 - 10:00 WITA** 
+Time: **Friday, 08:30 - 10:00 WITA** 
 
 Online: TBA
 
