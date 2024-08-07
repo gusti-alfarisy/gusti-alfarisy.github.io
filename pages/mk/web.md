@@ -8,8 +8,8 @@ toc: true
 
 # IF201504: Kecerdasan Web
 
-> :helicopter:
-> Important annoucment will be posted here
+> 📬 **Annoucement**
+>> Important annoucment will be posted here
 
 ## Course Information (August 2024)
 
