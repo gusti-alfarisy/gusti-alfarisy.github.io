@@ -8,6 +8,9 @@ toc: true
 
 # IF201504: Kecerdasan Web
 
+> [!NOTE]
+> This is a note
+
 ## Course Information (August 2024)
 
 Description: 
