@@ -22,7 +22,7 @@ Assistant:
 
 Asisten membantu kelancaran proses belajar mengajar pada MK Kecerdasan Web. Selain itu membantu dalam kelancaran pengerjaan proyek melalui masukan-masukan yang dapat diberikan dan memonitor progress proyek mahasiswa.
 
-Time: 2024
+Time: **Friday, 07:30 - 10:00 WITA** 
 
 Online: TBA
 
