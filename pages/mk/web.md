@@ -11,13 +11,12 @@ toc: true
 > 📬 **Annoucement**
 >> **Important annoucement will be posted here**
 
-___
 ## Course Information (August 2024)
 
 Description: 
 
 
-Lecturer: Gusti Ahmad Fanshuri Alfarisy -<gusti.alfarisy@lecturer.itk.ac.id>
+Lecturer: Gusti Ahmad Fanshuri Alfarisy - (<gusti.alfarisy@lecturer.itk.ac.id>)
 
 Assistant:
 
