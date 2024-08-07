@@ -20,7 +20,7 @@ Assistant:
 - TBA
 - TBA
 
-Asisten membantu kelancaran proses belajar mengajar pada MK Kecerdasan Web. Selain itu membantu dalam kelancaran pengerjaan proyek melalui masukan-masukan yang dapat diberikan dan memonitor progress proyek mahasiswa.
+Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Selain itu membantu dalam kelancaran pengerjaan proyek melalui masukan-masukan yang dapat diberikan dan memonitor progress proyek. Mahasiswa dapat berkonsultasi dengan asisten ketika mengalami kesulitan salama pembelajaran.
 
 Time: **Friday, 07:30 - 10:00 WITA** 
 
