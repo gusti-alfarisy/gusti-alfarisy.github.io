@@ -62,7 +62,7 @@ UAS dilaksanakan dengen presentasi proyek yang berdampak (akan dijelaskan di per
 * Aplikasi atau komponen aplikasi dari startup digital yang marketnya telah tervalidasi. Dengan CEO yang jelas.
 * Pengembangan kecerdasan web dengan kerja sama mitra industri.
 * Mahasiswa mengajar terkait topik kecerdasan web berbasis proyek dengan keluaran berupa modul pembelajaran - kelompok maks 3 org.
-* Mengikuti Penelitian Dosen Pengampu dengan keluaran prototipe yang dapat diteruskan menjadi TA (atau proposal) - Individu.
+* Mengikuti Penelitian Dosen Pengampu dengan keluaran prototipe awal yang dapat diteruskan menjadi TA (atau berserta proposal) - Individu.
 * Mengembangkan aplikasi kecerdasan web tertanam pada aplikasi di lingkungan Institut Teknologi Kalimantan dengan manfaat yang jelas - Kelompok (maks. 3 org)/Individu
 * Atau potensi proyek berdampak lainnya yang dapat diusulkan oleh mahasiswa
 
