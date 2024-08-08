@@ -38,6 +38,8 @@ Online: TBA
 * UTS: 20%
 * UAS: 50% (Project based)
 
+Note: penilaian kelompok akan dipukul rata, sama untuk setiap mahasiswa (dipertimbangkan sebagai kerja sama tim).
+
 #### Tugas
 
 1. Mahasiswa menganalisis salah satu halaman web lalu mengidentifikasi jenis kecerdasan yang digunakan pada halaman web tersebut. Menjelaskan teknik yang digunakan (jika ada). Dan mengidentifikasi kekurangan pada halaman web serta memberikan rekomendasi perbaikan dalam konteks kecerdasan web. Tugas dibuat dalam bentuk esai singkat tidak lebih dari dua halaman dalam bentuk *markdown*. (Persentase: 5%)
