@@ -88,7 +88,7 @@ TBA
 
 TBA
 
-### Minggu 4: Hands on Project #1: *Focused Crawler* + Pendalaman Materi
+### 💻 Minggu 4: Hands on Project #1: *Focused Crawler* + Pendalaman Materi
 
 TBA
 
@@ -116,7 +116,7 @@ TBA
 
 TBA
 
-### Minggu 11: Hands on Project #2 Deteksi Plagiat + Pendalaman Materi
+### 💻 Minggu 11: Hands on Project #2 Deteksi Plagiat + Pendalaman Materi
 
 TBA
 
@@ -128,7 +128,7 @@ TBA
 
 TBA
 
-### Minggu 14: Hands on Project #3 RAG + Pendalaman Materi
+### 💻 Minggu 14: Hands on Project #3 RAG + Pendalaman Materi
 
 TBA
 
