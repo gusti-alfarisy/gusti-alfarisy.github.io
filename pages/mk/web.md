@@ -15,13 +15,13 @@ toc: true
 
 ## Course Information (August 2024)
 
->Description: 
+>**Description:** 
 >
->Internet, *World Wide Web*, dan media sosial kini merupakan bagian integral dari kehidupan sehari-hari, mempengaruhi berbagai aspek bisnis, pendidikan, dan hiburan. Mata kuliah ini membahas penerapan kecerdasan artifisial dalam konteks web, yang dikenal sebagai web intelligence atau kecerdasan web.
+>**Internet, *World Wide Web*, dan media sosial kini merupakan bagian integral dari kehidupan sehari-hari, mempengaruhi berbagai aspek bisnis, pendidikan, dan hiburan. Mata kuliah ini membahas penerapan kecerdasan artifisial dalam konteks web, yang dikenal sebagai web intelligence atau kecerdasan web.**
 >
->Materi yang diajarkan mencakup penerapan teknologi seperti mesin pencari vertikal, sistem rekomendasi, analisis sentimen, deteksi plagiat dalam industri pendidikan, dan pengembangan chatbot. Selain itu, mahasiswa akan dikenalkan pada konsep-konsep terkait sosiologi pengguna web browser untuk mendapatkan perspektif yang lebih luas tentang bagaimana kecerdasan web berinteraksi dengan pengguna manusia. Mata kuliah ini juga mencakup eksplorasi teknologi terbaru dalam kecerdasan web. Semua topik yang diberikan mempertimbangkan kebutuhan bisnis dan juga pemerintahan terutama perkembangan ibu kota baru nusantara.
+>**Materi yang diajarkan mencakup penerapan teknologi seperti mesin pencari vertikal, sistem rekomendasi, analisis sentimen, deteksi plagiat dalam industri pendidikan, dan pengembangan chatbot. Mahasiswa akan dibekali latar teoritis terkait kecerdasan web. Selain itu, mahasiswa akan dikenalkan pada konsep-konsep terkait sosiologi pengguna web browser untuk mendapatkan perspektif yang lebih luas tentang bagaimana kecerdasan web berinteraksi dengan pengguna manusia. Mata kuliah ini juga mencakup potensi teknologi terbaru dalam kecerdasan web. Semua topik yang diberikan mempertimbangkan kebutuhan bisnis dan juga pemerintahan terutama perkembangan ibu kota baru nusantara dalam konteks kota cerdas.**
 >
->Sebagai bagian dari pembelajaran praktis, mata kuliah ini mencakup proyek hands-on yang memberikan pengalaman langsung melalui tutorial langkah demi langkah. Metode ini dirancang untuk membantu mahasiswa memahami secara konkret bagaimana kecerdasan web dapat diimplementasikan untuk menyelesaikan masalah dunia nyata.
+>**Sebagai bagian dari pembelajaran praktis, mata kuliah ini mencakup proyek hands-on yang memberikan pengalaman langsung melalui tutorial langkah demi langkah. Metode ini dirancang untuk membantu mahasiswa memahami secara konkret bagaimana kecerdasan web dapat diimplementasikan untuk menyelesaikan masalah dunia nyata.**
 
 
 Lecturer: Gusti Ahmad Fanshuri Alfarisy - (<gusti.alfarisy@lecturer.itk.ac.id>)
