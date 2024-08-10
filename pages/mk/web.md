@@ -103,7 +103,7 @@ TBA
 
 TBA
 
-### Minggu 7: Sosiologi Pengguna Penjelajah Web: Perspektif *Social Science*
+### Minggu 7: Sosiologi Pengguna *Web Browser*: Perspektif *Social Science*
 
 TBA
 
