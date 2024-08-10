@@ -24,11 +24,11 @@ toc: true
 >**Sebagai bagian dari pembelajaran praktis, mata kuliah ini mencakup proyek hands-on yang memberikan pengalaman langsung melalui tutorial langkah demi langkah. Metode ini dirancang untuk membantu mahasiswa memahami secara konkret bagaimana kecerdasan web dapat diimplementasikan untuk menyelesaikan masalah dunia nyata.**
 
 
-Lecturer: Gusti Ahmad Fanshuri Alfarisy (Ph.D. Candidate in Artificial Intelligence) - (<gusti.alfarisy@lecturer.itk.ac.id>)
+Lecturer: **Gusti Ahmad Fanshuri Alfarisy (Ph.D. Candidate in Artificial Intelligence)** - (<gusti.alfarisy@lecturer.itk.ac.id>)
 
 Assistant:
 
-- Ersan Karimi - (<11201027@student.itk.ac.id>)
+- **Ersan Karimi** - (<11201027@student.itk.ac.id>)
 - TBA
 
 Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Utamanya dalam membantu memonitor pengerjaan proyek. Mahasiswa dapat berkonsultasi dengan asisten dalam hal administrasi perkuliahan dan proyek.
