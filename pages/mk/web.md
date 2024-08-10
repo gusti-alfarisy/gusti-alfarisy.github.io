@@ -28,10 +28,10 @@ Lecturer: Gusti Ahmad Fanshuri Alfarisy - (<gusti.alfarisy@lecturer.itk.ac.id>)
 
 Assistant:
 
-- TBA
+- Ersan Karimi - (<11201027@student.itk.ac.id>)
 - TBA
 
-Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Selain itu membantu dalam kelancaran pengerjaan proyek melalui masukan-masukan yang dapat diberikan dan memonitor progress proyek. Mahasiswa dapat berkonsultasi dengan asisten ketika mengalami kesulitan salama pembelajaran.
+Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Utamanya dalam membantu memonitor pengerjaan proyek. Mahasiswa dapat berkonsultasi dengan asisten dalam hal administrasi perkuliahan dan proyek.
 
 Time: **Friday, 08:30 - 10:00 WITA** 
 
