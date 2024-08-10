@@ -24,7 +24,9 @@ toc: true
 >**Sebagai bagian dari pembelajaran praktis, mata kuliah ini mencakup proyek hands-on yang memberikan pengalaman langsung melalui tutorial langkah demi langkah. Metode ini dirancang untuk membantu mahasiswa memahami secara konkret bagaimana kecerdasan web dapat diimplementasikan untuk menyelesaikan masalah dunia nyata.**
 
 
-Lecturer: **Gusti Ahmad Fanshuri Alfarisy (Ph.D. Candidate in Artificial Intelligence)** - (<gusti.alfarisy@lecturer.itk.ac.id>)
+Lecturer: 
+
+**Gusti Ahmad Fanshuri Alfarisy (Ph.D. Candidate in Artificial Intelligence)** - (<gusti.alfarisy@lecturer.itk.ac.id>)
 
 Assistant:
 
