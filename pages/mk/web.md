@@ -24,7 +24,7 @@ toc: true
 >**Sebagai bagian dari pembelajaran praktis, mata kuliah ini mencakup proyek hands-on yang memberikan pengalaman langsung melalui tutorial langkah demi langkah. Metode ini dirancang untuk membantu mahasiswa memahami secara konkret bagaimana kecerdasan web dapat diimplementasikan untuk menyelesaikan masalah dunia nyata.**
 
 
-Lecturer: Gusti Ahmad Fanshuri Alfarisy - (<gusti.alfarisy@lecturer.itk.ac.id>)
+Lecturer: Gusti Ahmad Fanshuri Alfarisy (Ph.D. Candidate in Artificial Intelligence) - (<gusti.alfarisy@lecturer.itk.ac.id>)
 
 Assistant:
 
@@ -72,6 +72,7 @@ UAS dilaksanakan dengen presentasi proyek yang berdampak (akan dijelaskan di per
 * Mahasiswa mengajar terkait topik kecerdasan web berbasis proyek dengan keluaran berupa modul pembelajaran - kelompok maks 3 org.
 * Mengikuti Penelitian Dosen Pengampu dengan keluaran prototipe awal yang dapat diteruskan menjadi TA (atau berserta proposal) - Individu.
 * Mengembangkan aplikasi kecerdasan web tertanam pada aplikasi di lingkungan Institut Teknologi Kalimantan dengan manfaat yang jelas - Kelompok (maks. 3 org)/Individu
+* Publikasi artikel disalah satu web populer terkait kecerdasan web berbasiskan pengerjaan proyek - Individu.
 * Atau potensi proyek berdampak lainnya yang dapat diusulkan oleh mahasiswa
 
 ## Reading/Materials
