@@ -33,7 +33,7 @@ Assistant:
 - **Ersan Karimi** - (<11201027@student.itk.ac.id>)
 - TBA
 
-Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Utamanya dalam membantu memonitor pengerjaan proyek. Mahasiswa dapat berkonsultasi dengan asisten dalam hal administrasi perkuliahan dan proyek.
+[//]: # (Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Utamanya dalam membantu memonitor pengerjaan proyek. Mahasiswa dapat berkonsultasi dengan asisten dalam hal administrasi perkuliahan dan proyek.)
 
 Time: **Friday, 08:00 - 10:00 WITA** (50-10-50), 50 minutes lecture/hands-on project, 10 minutes break
 
