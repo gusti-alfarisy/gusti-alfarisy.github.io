@@ -69,7 +69,7 @@ UTS merupakan penentuan judul proyek (individu maupun kelompok) dengan rencana p
 
 #### UAS
 
-UAS dilaksanakan dengen presentasi proyek yang berdampak (akan dijelaskan di pertemuan pertama). Jenis Proyek bervariasi, ada yang bersifat individu ataupun kelompok, sesuai minat masline: TBAing-masing mahasiswa. Jenis-jenis proyek sebagai berikut:
+UAS dilaksanakan dengen presentasi proyek yang berdampak (akan dijelaskan di pertemuan pertama). Jenis Proyek bervariasi, ada yang bersifat individu ataupun kelompok, sesuai minat masing-masing mahasiswa. Jenis-jenis proyek sebagai berikut:
 
 * Mengembangkan Plugin pada Aplikasi Open Source Populer - Kelompok (maks. 3 org)/Individu
 * Jurnal Ilmiah (Submission) - Kelompok (maks. 4 org)/Individu
