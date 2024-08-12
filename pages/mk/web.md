@@ -35,6 +35,11 @@ Assistant:
 
 [//]: # (Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Utamanya dalam membantu memonitor pengerjaan proyek. Mahasiswa dapat berkonsultasi dengan asisten dalam hal administrasi perkuliahan dan proyek.)
 
+Guest Lecture:
+
+- TBA
+- TBA
+
 Time: **Friday, 08:00 - 10:00 WITA** (50-10-50), 50 minutes lecture/hands-on project, 10 minutes break
 
 Online: TBA
@@ -63,7 +68,7 @@ UTS merupakan penentuan judul proyek (individu maupun kelompok) dengan rencana p
 
 #### UAS
 
-UAS dilaksanakan dengen presentasi proyek yang berdampak (akan dijelaskan di pertemuan pertama). Jenis Proyek bervariasi, ada yang bersifat individu ataupun kelompok, sesuai minat masing-masing mahasiswa. Jenis-jenis proyek sebagai berikut:
+UAS dilaksanakan dengen presentasi proyek yang berdampak (akan dijelaskan di pertemuan pertama). Jenis Proyek bervariasi, ada yang bersifat individu ataupun kelompok, sesuai minat masline: TBAing-masing mahasiswa. Jenis-jenis proyek sebagai berikut:
 
 * Mengembangkan Plugin pada Aplikasi Open Source Populer - Kelompok (maks. 3 org)/Individu
 * Jurnal Ilmiah (Submission) - Kelompok (maks. 4 org)/Individu
