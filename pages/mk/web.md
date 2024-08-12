@@ -40,6 +40,7 @@ Guest Lecture:
 - TBA
 - TBA
 
+
 Time: **Friday, 08:00 - 10:00 WITA** (50-10-50), 50 minutes lecture/hands-on project, 10 minutes break
 
 Online: TBA
