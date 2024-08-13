@@ -1,6 +1,6 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
+- name: Gusti Ahmad Fanshuri Alfarisy
   role: Project Leads # Will appear next to name
   image: assets/theme/images/profil_pic_me.png # Can be external link
   description: > # Can be Markdown
@@ -13,12 +13,34 @@
   github: gusti_alfarisy
   email: gusti.alfarisy@lecturer.itk.ac.id
 
-#- name: Turanga Leela
-#  role: Captain
-#  description: >
-#    Mutant cyclops. Leela is spaceship captain, pilot, and head of all
-#    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship).
-#
+- name: Koko Yuardi
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Fine-Grained Classification for Plant Species using Vision Transformer Network
+  email: 11201048@student.itk.ac.id
+
+- name: Helmi
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Focused Crawler for Informatics Journal using Shark Search, IndoBERT, and AutoML
+  email: 11211043@student.itk.ac.id
+
+- name: Ersan Karimi
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    DOM-based web classifier for Predatory Journal using Doc2Vec and AutoML
+  email: 11201027@student.itk.ac.id
+
+- name: Dimas Dewanto
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    A Comparative Analysis of Deep Learning Pre-trained Models in Plant Species Classification
+  email: 11201023@student.itk.ac.id
+
 #- name: Professor Hubert J. Farnsworth
 #  role: CEO & Owner
 #  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
