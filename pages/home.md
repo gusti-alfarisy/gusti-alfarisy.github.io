@@ -38,4 +38,10 @@ I have been teaching several topics including algorithms and programming languag
 - Ecological and Environmental Informatics
 - Healthcare Informatics
 
+## Main Projects
+
+### Open-World Lifelong Learning for Biodiversity Monitoring
+
+
+### Vertical Search Engine for Science Literature (Bahasa Indonesia)
 
