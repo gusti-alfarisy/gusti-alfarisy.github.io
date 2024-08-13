@@ -2,7 +2,7 @@
 layout: team
 title: Team
 description: People who are contributing to the projects
-background: "https://miro.medium.com/v2/resize:fit:1400/1*G_VQZcr12g15PZRLifCsGQ.jpeg"
+background: "https://communityrehabcenter.org/wp-content/uploads/2021/04/team-2048x1098.jpg"
 permalink: /team/
 ---
 
