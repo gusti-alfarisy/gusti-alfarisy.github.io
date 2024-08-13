@@ -1,7 +1,8 @@
 ---
 layout: team
 title: Team
-description: Who we are
+description: People who are contributing to the projects
+background: "https://miro.medium.com/v2/resize:fit:1400/1*G_VQZcr12g15PZRLifCsGQ.jpeg"
 permalink: /team/
 ---
 
