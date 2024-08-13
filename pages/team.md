@@ -2,7 +2,7 @@
 layout: team
 title: Team
 description: People who are contributing to the projects
-background: "https://communityrehabcenter.org/wp-content/uploads/2021/04/team-2048x1098.jpg"
+background: "https://vandamservices.ca/wp-content/uploads/2021/07/1598245576.png"
 permalink: /team/
 ---
 
