@@ -24,7 +24,7 @@
   role: Student
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
   description: >
-    Focused Web Crawler for Informatics Journal using Shark Search with IndoBERT dan KNN.
+    Focused Web Crawler for Informatics Journal using Shark Search with IndoBERT and KNN.
   email: 11211043@student.itk.ac.id
 
 - name: Ersan Karimi
@@ -40,6 +40,13 @@
   description: >
     A Comparative Analysis of Deep Learning Pre-trained Models in Plant Species Classification
   email: 11201023@student.itk.ac.id
+
+- name: Rahmat Ramadhani
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Automatic Plant Species Classification in Balikpapan Botanical Garden using ResNet with Transfer Learning
+  email: 11201079@student.itk.ac.id
 
 #- name: Professor Hubert J. Farnsworth
 #  role: CEO & Owner
