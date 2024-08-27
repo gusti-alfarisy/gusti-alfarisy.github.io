@@ -11,7 +11,8 @@ toc: true
 ## Annoucement
 
 > 📬 **Annoucement**
->> **Important annoucement will be posted here**
+>> **27 August 2024**
+> The class will be started on 13 September 2024, we will have a class through Google Meets for now.
 
 ## Course Information (August 2024)
 
@@ -31,7 +32,6 @@ Lecturer:
 Assistant:
 
 - **Ersan Karimi** - (<11201027@student.itk.ac.id>)
-- TBA
 
 [//]: # (Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Utamanya dalam membantu memonitor pengerjaan proyek. Mahasiswa dapat berkonsultasi dengan asisten dalam hal administrasi perkuliahan dan proyek.)
 
