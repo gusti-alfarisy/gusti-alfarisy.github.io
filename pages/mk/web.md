@@ -12,6 +12,7 @@ toc: true
 
 > 📬 **Annoucement**
 >> **27 August 2024**
+> 
 > The class will be started on 13 September 2024, we will have a class through Google Meets for now.
 
 ## Course Information (August 2024)
