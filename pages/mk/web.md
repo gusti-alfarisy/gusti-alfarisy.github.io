@@ -11,6 +11,14 @@ toc: true
 ## Annoucement
 
 > 📬 **Annoucement**
+>> **11 September 2024**
+> 
+> Kecerdasan Web: Kuliah Daring 
+> Friday, 8:00 – 10:00am
+> Time zone: Asia/Makassar
+> Google Meet joining info
+> Video call link: https://meet.google.com/dke-zecm-cxt
+> 
 >> **27 August 2024**
 > 
 > The class will be started on 13 September 2024, we will have a class through Google Meets for now.
