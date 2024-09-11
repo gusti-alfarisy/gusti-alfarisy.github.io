@@ -17,7 +17,7 @@ toc: true
 > Friday, 8:00 – 10:00am
 > Time zone: Asia/Makassar
 > Google Meet joining info
-> Video call link: https://meet.google.com/dke-zecm-cxt
+> Video call link: [https://meet.google.com/dke-zecm-cxt](https://meet.google.com/dke-zecm-cxt)
 > 
 >> **27 August 2024**
 > 
