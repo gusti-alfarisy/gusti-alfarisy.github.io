@@ -26,7 +26,7 @@ description: Template for team page.
         {% endif %}
       </h5>
 
-      <h5>{{ member.description | markdownify }}</h5>
+      {{ member.description | markdownify }}
 
       {% if member.cospv %}
           Co-Supervisor: {{ member.cospv | markdownify }}
