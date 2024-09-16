@@ -20,12 +20,7 @@
     Fine-Grained Classification for Plant Species using Vision Transformer Network
   email: 11201048@student.itk.ac.id
 
-- name: Riky Fernando
-  role: Student
-  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
-  description: >
-    Open-Set Recognition for Skin Cancer using ResNet through Logits and Probabilities Values
-  email: 11191065@student.itk.ac.id
+
 
 - name: Helmi
   role: Student
@@ -62,6 +57,19 @@
     Open-Set Recognition for Plant Species using Quad-Channel Contrastive Prototype Networks and MobileNetV3
   email: 11191018@student.itk.ac.id
 
+- name: Riky Fernando
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Open-Set Recognition for Skin Cancer using ResNet through Logits and Probabilities Values
+  email: 11191065@student.itk.ac.id
+
+- name: Muhammad Naufal Muhyiddin
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Sentiment Analysis for Environmental Issue in Kalimantan using IndoBERT
+  email: 11211060@student.itk.ac.id
 #- name: Professor Hubert J. Farnsworth
 #  role: CEO & Owner
 #  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
