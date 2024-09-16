@@ -28,6 +28,10 @@ description: Template for team page.
 
       {{ member.description | markdownify }}
 
+      {% if member.cospv %}
+          Co-Supervisor: {{ member.cospv | markdownify }}
+      {% endif %}
+
       <ul class="list-inline">
         {% if member.orcid %}
           <li class="list-inline-item">
