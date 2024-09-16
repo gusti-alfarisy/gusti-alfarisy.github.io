@@ -22,7 +22,7 @@ description: Template for team page.
       <h5 id="{{ member.name | strip | url_encode }}">
         {{ member.name }}
         {% if member.role %}
-        <small class="text-muted">| {{ member.role }} | {% if member.cospv %} <strong> Co-Spv: {{ member.cospv }} </strong>  {% endif %} </small>
+        <small class="text-muted">| {{ member.role }} | {% if member.cospv %}  Co-Spv: <strong> {{ member.cospv }} </strong>  {% endif %} </small>
         {% endif %}
       </h5>
 
