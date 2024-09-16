@@ -22,15 +22,11 @@ description: Template for team page.
       <h5 id="{{ member.name | strip | url_encode }}">
         {{ member.name }}
         {% if member.role %}
-          <small class="text-muted">| {{ member.role }}</small>
+          <small class="text-muted">| {{ member.role }} | Co-SPV: {{ member.cospv }} </small>
         {% endif %}
       </h5>
 
       {{ member.description | markdownify }}
-
-      {% if member.cospv %}
-          Co-Supervisor: {{ member.cospv | markdownify }}
-      {% endif %}
 
       <ul class="list-inline">
         {% if member.orcid %}
