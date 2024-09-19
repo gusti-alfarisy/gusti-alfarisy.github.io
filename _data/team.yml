@@ -43,6 +43,7 @@
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
   description: >
     A Comparative Analysis of Deep Learning Pre-trained Models in Plant Species Classification
+  cospv: Mr. Bowo Nugroho
   email: 11201023@student.itk.ac.id
 
 - name: Rahmat Ramadhani
@@ -50,6 +51,7 @@
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
   description: >
     Automatic Plant Species Classification in Balikpapan Botanical Garden using ResNet with Transfer Learning
+  cospv: Mr. Boby Mugi Pratama
   email: 11201079@student.itk.ac.id
 
 - name: Delivio Fernanda
@@ -57,6 +59,7 @@
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
   description: >
     Open-Set Recognition for Plant Species using Quad-Channel Contrastive Prototype Networks and MobileNetV3
+  cospv: Mrs. Nisa Rizqiya Fadhliana and Mr. Rizal Kusuma Putra
   email: 11191018@student.itk.ac.id
 
 - name: Riky Fernando
@@ -64,6 +67,7 @@
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
   description: >
     Open-Set Recognition for Skin Cancer using ResNet through Logits and Probabilities Values
+  cospv: Mr. Chandra Cahyo Utomo
   email: 11191065@student.itk.ac.id
 
 - name: Muhammad Naufal Muhyiddin
