@@ -36,6 +36,7 @@
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
   description: >
     DOM-based web classifier for Predatory Journal using Doc2Vec and AutoML
+  cospv: Mr. Bowo Nugroho
   email: 11201027@student.itk.ac.id
 
 - name: Dimas Dewanto
@@ -43,7 +44,6 @@
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
   description: >
     A Comparative Analysis of Deep Learning Pre-trained Models in Plant Species Classification
-  cospv: Mr. Bowo Nugroho
   email: 11201023@student.itk.ac.id
 
 - name: Rahmat Ramadhani
