@@ -112,7 +112,7 @@ TBA
 
 TBA
 
-### Minggu 5: Indexing, Ranking, dan Mesin Pencari Vertikal
+### Minggu 5: Pemeringkatan dan Mesin Pencari Vertikal
 
 TBA
 
