@@ -98,11 +98,11 @@ UAS dilaksanakan dengen presentasi proyek yang berdampak (akan dijelaskan di per
 
 ### Minggu 1: Anatomi Halaman Web, XML, dan *Semantic Web* (Web 3.0)
 
-TBA
+Lecture Notes: [Reading Material](https://mega.nz/file/e40R2ATT#UHEngxHQqHOI48tte5qLF6_xvnxiviYedzKN6BXmDQU)
 
 ### Minggu 2: Arsitektur Mesin Pencari dan *Focused Crawler*
 
-TBA
+Book: Chapter 2 dan 3 | Croft et al. Search Engines Information Retrieval in Practice 
 
 ### Minggu 3: Pemrosesan Teks dan Struktur (*DOM Tree*)
 
