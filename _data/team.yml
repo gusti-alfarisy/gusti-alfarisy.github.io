@@ -76,6 +76,15 @@
   description: >
     Sentiment Analysis for Environmental Issue in Kalimantan using IndoBERT
   email: 11211060@student.itk.ac.id
+
+- name: Rangga Hermawan
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Open-Set Recognition for Face Skin Disease using Quad-Channel Contrastive Prototype Networks and MobileNetV3
+#  cospv: Mrs. Nisa Rizqiya Fadhliana and Mr. Rizal Kusuma Putra
+  email: 11211071@student.itk.ac.id
+
 #- name: Professor Hubert J. Farnsworth
 #  role: CEO & Owner
 #  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
