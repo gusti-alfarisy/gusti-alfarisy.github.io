@@ -44,13 +44,6 @@ Assistant:
 
 [//]: # (Asisten membantu mahasiswa ihwal kelancaran proses belajar mengajar. Utamanya dalam membantu memonitor pengerjaan proyek. Mahasiswa dapat berkonsultasi dengan asisten dalam hal administrasi perkuliahan dan proyek.)
 
-[//]: # (Guest Lecture:)
-
-[//]: # ()
-[//]: # (- TBA)
-
-[//]: # (- TBA)
-
 
 Time: **Friday, 08:00 - 10:00 WITA** (50-10-50), 50 minutes lecture/hands-on project, 10 minutes break
 
@@ -104,25 +97,30 @@ Lecture Notes: [Reading Material](https://mega.nz/file/e40R2ATT#UHEngxHQqHOI48tt
 
 Book: Chapter 2 dan 3 | Croft et al. Search Engines Information Retrieval in Practice 
 
-### Minggu 3: Pemrosesan Teks dan Struktur (*DOM Tree*)
+### Minggu 3: Pemrosesan Teks untuk Estraksi Term
 
 TBA
 
-### 💻 Minggu 4: Hands on Project #1: *Focused Crawler* + Pendalaman Materi
+### Minggu 4: Pemrosesan Teks untuk Klasifikasi Teks
 
 TBA
 
-### Minggu 5: Pemeringkatan dan Mesin Pencari Vertikal
+### 💻 Minggu 5: Hands on Project #1: *Focused Crawler* + Pendalaman Materi
 
 TBA
 
-### Minggu 6: Sistem Rekomendasi Berbasis *Machine Learning* untuk Halaman Web
+### Minggu 6: Pemeringkatan dan Mesin Pencari Vertikal`
 
 TBA
 
-### Minggu 7: Sosiologi Pengguna *Web Browser*: Perspektif *Social Science*
+### Minggu 7: Sistem Rekomendasi Berbasis *Machine Learning* untuk Halaman Web
 
 TBA
+
+[//]: # (### Minggu 7: Sosiologi Pengguna *Web Browser*: Perspektif *Social Science*)
+
+[//]: # ()
+[//]: # (TBA)
 
 ### Minggu 8: UTS (Proposal Proyek)
 
