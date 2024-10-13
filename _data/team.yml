@@ -21,8 +21,6 @@
   cospv: Mr. Ramadhan Paninggalih
   email: 11201048@student.itk.ac.id
 
-
-
 - name: Helmi
   role: Student
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
@@ -43,7 +41,8 @@
   role: Student
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
   description: >
-    A Comparative Analysis of Deep Learning Pre-trained Models in Plant Species Classification
+    A Comparative Analysis of Pre-trained Deep Learning Models in Plant Species Classification
+  cospv: Mrs. Rizky Amelia
   email: 11201023@student.itk.ac.id
 
 - name: Rahmat Ramadhani
@@ -83,7 +82,15 @@
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
   description: >
     Open-Set Recognition for Face Skin Disease using Quad-Channel Contrastive Prototype Networks and MobileNetV3
-#  cospv: Mrs. Nisa Rizqiya Fadhliana and Mr. Rizal Kusuma Putra
+  cospv: Mr. Rizal Kusuma Putra
+  email: 11211071@student.itk.ac.id
+
+- name: Yossi Ezra Afriani
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    A Comparative Analysis of Pre-trained Deep Learning Models for Facial Skin Diseases
+  cospv: Mrs. Rizky Amelia
   email: 11211071@student.itk.ac.id
 
 #- name: Professor Hubert J. Farnsworth
