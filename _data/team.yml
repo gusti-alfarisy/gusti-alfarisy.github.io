@@ -93,6 +93,22 @@
   cospv: Mrs. Rizky Amelia
   email: 11211071@student.itk.ac.id
 
+- name: Dwi Savira Aprilianti
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    A Chatbot for Informatics Journal with Unknown Information Identification using Naive RAG and Lightweight LLM Model
+  cospv: Mr. Ramadhan Paninggalih
+  email: 11211033@student.itk.ac.id
+
+- name: Remet Tirzah Anatasya
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    A Comparative Analysis of Lightweight Pre-trained Deep Learning Models for Birds Species Classification
+  cospv: Mr. Rizal Kusuma Putra
+  email: 11211033@student.itk.ac.id
+
 #- name: Professor Hubert J. Farnsworth
 #  role: CEO & Owner
 #  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
