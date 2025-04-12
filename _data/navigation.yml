@@ -10,9 +10,9 @@
   href: /blog/
 - text: Course
   menu: # Dropdown menu (one level deep only)
-  - text: 'IF201504: Kecerdasan Web'
+  - text: 'Kecerdasan Web'
     href: /mk/web2025/
-  - text: 'IF201421: Pemrograman Fungsional'
+  - text: 'Pemrograman Fungsional'
     href: /mk/fungsional2024/
 #- text: Documentation
 #  menu: # Dropdown menu (one level deep only)
