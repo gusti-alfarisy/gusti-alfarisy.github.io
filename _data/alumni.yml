@@ -11,7 +11,7 @@
 
 - name: Rahmat Ramadhani
   role: Student
-  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  image: "assets/theme/images/students/dhani if 20.jpeg"
   description: >
     Automatic Plant Species Classification in Balikpapan Botanical Garden using ResNet with Transfer Learning
   cospv: Mr. Boby Mugi Pratama
