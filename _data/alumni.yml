@@ -3,7 +3,7 @@
 
 - name: Koko Yuardi
   role: Student
-  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  image: "assets/theme/images/students/koko if 20.jpeg"
   description: >
     Fine-Grained Classification for Plant Species using Vision Transformer Network
   cospv: Mr. Ramadhan Paninggalih
