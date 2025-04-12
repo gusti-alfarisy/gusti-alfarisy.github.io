@@ -13,17 +13,9 @@
   github: gusti_alfarisy
   email: gusti.alfarisy@lecturer.itk.ac.id
 
-- name: Koko Yuardi
-  role: Student
-  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
-  description: >
-    Fine-Grained Classification for Plant Species using Vision Transformer Network
-  cospv: Mr. Ramadhan Paninggalih
-  email: 11201048@student.itk.ac.id
-
 - name: Helmi
   role: Student
-  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  image: "assets/theme/images/students/helmi if 21.jpeg"
   description: >
     Focused Web Crawler for Informatics Journal using Shark Search with IndoBERT and KNN.
   cospv: Mr. Chandra Cahyo Utomo
@@ -44,14 +36,6 @@
     A Comparative Analysis of Pre-trained Deep Learning Models in Plant Species Classification
   cospv: Mrs. Rizky Amelia
   email: 11201023@student.itk.ac.id
-
-- name: Rahmat Ramadhani
-  role: Student
-  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
-  description: >
-    Automatic Plant Species Classification in Balikpapan Botanical Garden using ResNet with Transfer Learning
-  cospv: Mr. Boby Mugi Pratama
-  email: 11201079@student.itk.ac.id
 
 #- name: Delivio Fernanda
 #  role: Student
@@ -87,7 +71,7 @@
 
 - name: Yossi Ezra Afriani
   role: Student
-  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  image: "assets/theme/images/students/yossi if 21.jpeg"
   description: >
     A Comparative Analysis of Pre-trained Deep Learning Models for Facial Skin Diseases
   cospv: Mrs. Rizky Amelia
