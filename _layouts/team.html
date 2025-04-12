@@ -26,13 +26,7 @@ description: Template for team page.
         {% endif %}
       </h5>
 
-      <h2> Alumni </h2>
-<!--      <h5 id="{{ member.alumni | strip | url_encode }}">-->
-<!--        {{ member.name }}-->
-<!--        {% if member.role %}-->
-<!--        <small class="text-muted">| {{ member.role }} | {% if member.cospv %}  Co-Spv: <strong> {{ member.cospv }} </strong>  {% endif %} </small>-->
-<!--        {% endif %}-->
-<!--      </h5>-->
+
 
       {{ member.description | markdownify }}
 
@@ -80,5 +74,14 @@ description: Template for team page.
         {% endif %}
       </ul>
     </div>
+
+    <h2> Alumni </h2>
+<!--      <h5 id="{{ member.alumni | strip | url_encode }}">-->
+<!--        {{ member.name }}-->
+<!--        {% if member.role %}-->
+<!--        <small class="text-muted">| {{ member.role }} | {% if member.cospv %}  Co-Spv: <strong> {{ member.cospv }} </strong>  {% endif %} </small>-->
+<!--        {% endif %}-->
+<!--      </h5>-->
+
   </div>
 {% endfor %}
