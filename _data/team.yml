@@ -141,6 +141,21 @@
   cospv: Mr. Aninditya Anggari Nuryono
   email: 11211064@student.itk.ac.id
 
+- name: Rendi Kurniawan
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Requirement Engineering for Biodiversity and Forestry Portal in Kalimantan with LLM
+  cospv: Mrs. Sri Rahayu Natasia
+  email: 11211073@student.itk.ac.id
+
+- name: Guntur Wisnu Saputra
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Kebun Raya Balikpapan Website Development with Automatic Plant Identification
+  cospv: Mr. Riska Abdullah
+  email: 11211042@student.itk.ac.id
 
 #- name: Professor Hubert J. Farnsworth
 #  role: CEO & Owner
