@@ -93,6 +93,39 @@
   cospv: Mr. Rizal Kusuma Putra
   email: 11211033@student.itk.ac.id
 
+- name: Muhammad Erlangga Putra Hendrawan
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Open-Set Recognition for Balikpapan Botanical Garden Plant Species using Quad-Channel Contrastive Prototype Parameters and MobileNetV3
+  cospv: Mr. Rizal Kusuma Putra
+  email: 11211057@student.itk.ac.id
+
+- name: Felix Dean Janitra
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Boilerplate removal for The Main Content of The Journal using BoilerNet
+  cospv: Mr. Aninditya Anggari Nuryono
+  email: 11211040@student.itk.ac.id
+
+- name: Ariel Zakly Pratama
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Chatbot Assistant for Health Consultation using LLAMA and RAG
+  cospv: Mr. Bowo Nugroho
+  email: 11211017@student.itk.ac.id
+
+- name: Muhamad Saman
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Chatbot for Academic Information in Higher Education Institution using LLAMA and RAG
+  cospv: Mrs. Rizky Amelia
+  email: 11211052@student.itk.ac.id
+
+
 #- name: Professor Hubert J. Farnsworth
 #  role: CEO & Owner
 #  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
