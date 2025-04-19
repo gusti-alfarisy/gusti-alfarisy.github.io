@@ -125,6 +125,14 @@
   cospv: Mrs. Rizky Amelia
   email: 11211052@student.itk.ac.id
 
+- name: Muhammad Nuralimsyah
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Novel Class Discovery for Balikpapan Botanical Garden Species using Vision Transformer and FINCH
+  cospv: Mr. Boby Mugi Pratama
+  email: 11211061@student.itk.ac.id
+
 - name: Muhammad Syahrul Maulana
   role: Student
   image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
