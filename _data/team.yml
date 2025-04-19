@@ -125,6 +125,14 @@
   cospv: Mrs. Rizky Amelia
   email: 11211052@student.itk.ac.id
 
+- name: Muhammad Syahrul Maulana
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Automatic Plant Species Classification in Balikpapan Botanical Garden using MobileViT with Transfer Learning
+  cospv: Mr. Aninditya Anggari Nuryono
+  email: 11211064@student.itk.ac.id
+
 
 #- name: Professor Hubert J. Farnsworth
 #  role: CEO & Owner
