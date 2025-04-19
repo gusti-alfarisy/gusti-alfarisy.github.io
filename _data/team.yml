@@ -29,14 +29,6 @@
   cospv: Mr. Bowo Nugroho
   email: 11201027@student.itk.ac.id
 
-- name: Dimas Dewanto
-  role: Student
-  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
-  description: >
-    A Comparative Analysis of Pre-trained Deep Learning Models in Plant Species Classification
-  cospv: Mrs. Rizky Amelia
-  email: 11201023@student.itk.ac.id
-
 #- name: Delivio Fernanda
 #  role: Student
 #  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
@@ -52,6 +44,14 @@
     Open-Set Recognition for Skin Cancer using ResNet through Logits and Probabilities Values
   cospv: Mr. Chandra Cahyo Utomo
   email: 11191065@student.itk.ac.id
+
+- name: Dimas Dewanto
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    A Comparative Analysis of Pre-trained Deep Learning Models in Plant Species Classification
+  cospv: Mrs. Rizky Amelia
+  email: 11201023@student.itk.ac.id
 
 - name: Muhammad Naufal Muhyiddin
   role: Student
