@@ -1,7 +1,7 @@
 ---
 title: "Tawaran Topik TA 2025"
 date: 2025-05-20
-background: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wilson1900Fig2.jpg/250px-Wilson1900Fig2.jpg"
+background: "https://learnlibre.com/wp-content/uploads/2022/04/1-Montessori-Science-Project-Ideas-Make-a-Diorama-624x351.jpg"
 
 author: Gusti Ahmad Fanshuri Alfarisy
 #tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
@@ -11,16 +11,16 @@ comments: false
 Bagi mahasiswa yang berminat atau berdiskusi, dapat mengirimkan email ke gusti.alfarisy@lecturer.itk.ac.id
 
 
-# Kebun Raya Balikpapan
+## Kebun Raya Balikpapan
 
-## Test
+### Test
 
-# Biodiversitas dan Kehutanan
+## Biodiversitas dan Kehutanan
 
-# Sistem Jurnal Ilmiah dan Mesin Pencari Artikel ilmiah
+## Sistem Jurnal Ilmiah dan Mesin Pencari Artikel ilmiah
 
-# Chatbot
+## Chatbot
 
-# Kuliner
+## Kuliner
 
 
