@@ -9,8 +9,11 @@ tags: [Topik TA]
 comments: false
 toc: true
 ---
-Bagi mahasiswa yang berminat atau sekedar berdiskusi, dapat mengirimkan email ke gusti.alfarisy@lecturer.itk.ac.id
 
+>**OWLIFIA: Open-World Lifelong AI Research Group**
+
+> [!IMPORTANT]
+> Bagi mahasiswa yang berminat atau sekedar berdiskusi, dapat mengirimkan email ke gusti.alfarisy@lecturer.itk.ac.id
 
 ## Kebun Raya Balikpapan
 asdfsdf
