@@ -12,7 +12,9 @@ toc: true
 
 >**OWLIFIA: Open-World Lifelong AI Research Group**
 
-> [!IMPORTANT]
+::: tip
+> :green_book: Catatan
+> 
 > Bagi mahasiswa yang berminat atau sekedar berdiskusi, dapat mengirimkan email ke gusti.alfarisy@lecturer.itk.ac.id
 
 ## Kebun Raya Balikpapan
