@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Personal Pages
-description: Dr. (cand.) Gusti Ahmad Fanshuri Alfarisy
+description: Gusti Ahmad Fanshuri Alfarisy, Ph.D.
 background: "https://upload.wikimedia.org/wikipedia/id/8/85/Lukisan_Pasar_Terapung_Banjarmasin.JPG"
 permalink: /
 ---
