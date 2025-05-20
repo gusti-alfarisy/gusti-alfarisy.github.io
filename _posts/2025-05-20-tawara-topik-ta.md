@@ -10,7 +10,7 @@ comments: false
 toc: true
 ---
 
-> ## **OWLIFIA: Open-World Lifelong AI Research Group**
+> ## **🦉OWLIFIA: Open-World Lifelong AI Research Group**
 
 > 📝 Catatan
 > 
