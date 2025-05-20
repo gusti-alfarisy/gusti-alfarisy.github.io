@@ -8,19 +8,21 @@ author: Gusti Ahmad Fanshuri Alfarisy
 tags: [Topik TA]
 comments: false
 ---
-Bagi mahasiswa yang berminat atau berdiskusi, dapat mengirimkan email ke gusti.alfarisy@lecturer.itk.ac.id
+Bagi mahasiswa yang berminat atau sekedar berdiskusi, dapat mengirimkan email ke gusti.alfarisy@lecturer.itk.ac.id
 
 
 ## Kebun Raya Balikpapan
-
+asdfsdf
 ### Test
 
 ## Biodiversitas dan Kehutanan
+asdfsdf
+### Test2
 
 ## Sistem Jurnal Ilmiah dan Mesin Pencari Artikel ilmiah
-
+asdf
 ## Chatbot
-
+asdf
 ## Kuliner
 
-
+asf
