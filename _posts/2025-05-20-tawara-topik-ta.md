@@ -7,6 +7,7 @@ author: Gusti Ahmad Fanshuri Alfarisy
 #tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
 tags: [Topik TA]
 comments: false
+toc: true
 ---
 Bagi mahasiswa yang berminat atau sekedar berdiskusi, dapat mengirimkan email ke gusti.alfarisy@lecturer.itk.ac.id
 
