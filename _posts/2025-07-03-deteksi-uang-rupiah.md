@@ -33,7 +33,7 @@ Deep Learning adalah bagian dari kecerdasan buatan (AI) yang berkembang dari kon
 
 Contoh rumus matematis sebagai berikut :
 
-![Rumus sistematis](Rumus_sistematis.png)
+![Rumus sistematis](/assets/theme/images/072025/Rumus_sistematis.png)
 
 Di mana:
 
@@ -52,7 +52,7 @@ Deteksi objek adalah salah satu aplikasi utama dalam visi komputer yang bertujua
 
 Operasi fundamental dalam CNN adalah konvolusi, di mana sebuah filter atau kernel digeser ke seluruh citra input untuk menghasilkan feature map. Operasi ini secara matematis didefinisikan sebagai:
 
-![rumus sistematis](rumus_sistematis1.png)
+![rumus sistematis](/assets/theme/images/072025/rumus_sistematis1.png)
 Di mana:
 
 `I`adalah matriks piksel dari citra input.
@@ -71,7 +71,7 @@ sangat penting dalam machine learning dan deep learning, karena model hanya dapa
 mengidentifikasi pola atau fitur dalam data yang telah diberi label atau kategori yang jelas (Ibrahim et al.,
 2023).
 
-![Labeling data](labeling_data.png)
+![Labeling data](/assets/theme/images/072025/labeling_data.png)
 
 *Gambar 2: Gambar Labeling dataset*
 
@@ -79,7 +79,7 @@ mengidentifikasi pola atau fitur dalam data yang telah diberi label atau kategor
 ### 2.4 YOLOv11
 YOLO (You Only Look Once) secara luas dianggap sebagai salah satu algoritma utama untuk deteksi objek berdasarkan kerangka kerja pembelajaran mendalam. Algoritma ini memfasilitasi deteksi dan klasifikasi objek secara real-time baik dalam gambar maupun aliran video. YOLO beroperasi dengan mempartisi gambar input ke dalam grid dan secara bersamaan mengidentifikasi kotak pembatas dan kelas objek yang sesuai dalam setiap sel grid. Pemrosesan simultan ini memungkinkan YOLO untuk mencapai kecepatan dan efisiensi yang lebih unggul jika dibandingkan dengan metodologi deteksi objek konvensional (Redmon et al., 2016) . YOLOv11 adalah versi terbaru dari teknologi deteksi objek yang lebih cepat, lebih akurat, dan lebih ringan dibanding versi sebelumnya. Teknologi ini bisa digunakan di berbagai perangkat, mulai dari yang sederhana seperti kamera kecil hingga sistem besar berbasis cloud. Selain mendeteksi objek, YOLOv11 juga bisa mengenali posisi tubuh (pose), membedakan objek serupa (segmentasi), dan cocok untuk banyak bidang, seperti kesehatan dan deteksi emosi. Karena mudah diintegrasikan dan efisien, YOLOv11 menjadi pilihan yang baik untuk perusahaan atau pengembang yang ingin membangun sistem pengenalan gambar yang canggih dan praktis.
 (Khanam et al., 2024)
-![rsitektur yolo](architecture.png)
+![rsitektur yolo](/assets/theme/images/072025/architecture.png)
 
 *Gambar 3: Gambar  Arsitekture YOLOv11*
 
@@ -92,11 +92,11 @@ Untuk mengukur performa model deteksi objek secara kuantitatif, metrik standar i
 
 - Precision: Mengukur akurasi prediksi positif. Dari semua objek yang diprediksi model, berapa persen yang benar?
 
-![Precision](rumus_precision.png)
+![Precision](/assets/theme/images/072025/rumus_precision.png)
 
 - Recall: Mengukur kelengkapan deteksi. Dari semua objek yang seharusnya terdeteksi, berapa persen yang berhasil ditemukan oleh model?
 
-![Precision](rumus_Recall.png)
+![Precision](/assets/theme/images/072025/rumus_Recall.png)
 
 dimana:
 
@@ -121,7 +121,7 @@ Pelatihan ini bertujuan untuk menyediakan solusi yang akurat dan efisien dalam m
  2. Pelabelan Dataset: Memberikan label pada gambar uang secara manual untuk memastikan data siap digunakan untuk pelatihan model. 
  3. Pelatihan Model: Melatih YOLOv11 dengan dataset yang telah dilabeli, dengan pengaturan parameter yang dioptimalkan untuk mendeteksi uang rupiah dengan baik.
  4. Evaluasi Model: Menganalisis hasil model menggunakan metrik evaluasi standar, seperti akurasi dan kecepatan deteksi, untuk menilai performa dalam mengenali uang kertas rupiah secara real-time.
-![alur penelitian](alur_penelitian.png)
+![alur penelitian](/assets/theme/images/072025/alur_penelitian.png)
 
 *Gambar 4: Gambar Alur Pelatihan*
 
@@ -143,7 +143,7 @@ Dataset ini berisi **1.142 gambar uang Rupiah emisi tahun 2022**, yang mencakup 
 
 Setiap gambar dikelompokkan ke dalam folder berdasarkan nilai nominalnya. Struktur ini mempermudah proses pelabelan dan pelatihan model **deteksi atau klasifikasi visual**.
 
-![data kaggle](data_kaggle.png)
+![data kaggle](/assets/theme/images/072025/data_kaggle.png)
 *Gambar 5: Gambar dataset*
 
 > Dataset ini sangat relevan untuk pengembangan sistem pengenalan uang otomatis berbasis **kecerdasan buatan (AI)**, 
@@ -165,7 +165,7 @@ Masing-masing gambar diberi label sesuai **nominal pecahan uang**:
 - 50.000 rupiah
 - 100.000 rupiah
 
-![Pelabelan dataset](pelebelan_Dataset.png)
+![Pelabelan dataset](/assets/theme/images/072025/pelebelan_Dataset.png)
 *Gambar 6: Gambar pelebelan dataset*
 
 > Keakuratan dalam pelabelan sangat krusial. Label yang tepat memastikan model deteksi dapat membedakan setiap pecahan secara akurat, yang langsung berpengaruh terhadap performa model dalam mengenali uang di dunia nyata.
@@ -198,7 +198,7 @@ Berikut merupakan langkah awal untuk memulai kode pelatihan model **YOLOv11**, l
 ### 1. Download Dataset 
 langkah awal pada pelatihan model adalah mendownload dataset yang telah diolah di roboflow dan telah dibagi menjadi dataset Train,valid,dan test untuk selanjutya di latih pada Yolov11
 
-![download dataset roboflow](download_dataset_roboflow.png)
+![download dataset roboflow](/assets/theme/images/072025/download_dataset_roboflow.png)
 *Gambar 7: Gambar  dataset*
 
 
@@ -343,15 +343,15 @@ Hasil dan pembahasan dalam Pelatihan ini mencakup implementasi model **YOLOv11**
 Uji coba dilakukan menggunakan gambar uang sebagai input untuk mendeteksi nominal pecahannya.  
 
 
-![pecahan uang RP.2000](2k.png)
+![pecahan uang RP.2000](/assets/theme/images/072025/2k.png)
 
 *Gambar 8: pecahan uang RP.2000*
 
-![pecahan uang RP.5000](5k.png)
+![pecahan uang RP.5000](/assets/theme/images/072025/5k.png)
 
 *Gambar 9: pecahan uang RP.5000*
 
-![pecahan uang RP.10000](10k.png)
+![pecahan uang RP.10000](/assets/theme/images/072025/10k.png)
 *Gambar 10: pecahan uang RP.10000*
 
 
@@ -374,7 +374,7 @@ Tahap selanjutnya pada evaluasi model, dilakukan menggunakan tiga metrik utama: 
 
 #### 🔹 Precision
 
-![Precision](precision.png)
+![Precision](/assets/theme/images/072025/precision.png)
 *Gambar 11: Precision*
 
  **Grafik Precision-Confidence menunjukkan bahwa:**
@@ -389,7 +389,7 @@ Tahap selanjutnya pada evaluasi model, dilakukan menggunakan tiga metrik utama: 
 #### 🔹 Recall
 
 
-![ Recall](recall.png)
+![ Recall](/assets/theme/images/072025/recall.png)
 *Gambar 12:  Recall*
 
 **Grafik Recall-Confidence menunjukkan:**
@@ -403,7 +403,7 @@ Tahap selanjutnya pada evaluasi model, dilakukan menggunakan tiga metrik utama: 
 
 #### 🔹 mAP (mean Average Precision)
 
-![ mAP](map.png)
+![ mAP](/assets/theme/images/072025/map.png)
 *Gambar 13:  mAP*
 
 
