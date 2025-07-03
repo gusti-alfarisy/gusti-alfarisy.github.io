@@ -14,20 +14,5 @@ toc: true
 
 > 📝 Catatan
 > 
+> Topik sudah diberikan via WAG
 > Bagi mahasiswa yang berminat atau sekedar berdiskusi, dapat mengirimkan email ke gusti.alfarisy@lecturer.itk.ac.id
-
-## Kebun Raya Balikpapan
-asdfsdf
-### Test
-
-## Biodiversitas dan Kehutanan
-asdfsdf
-### Test2
-
-## Sistem Jurnal Ilmiah dan Mesin Pencari Artikel ilmiah
-asdf
-## Chatbot
-asdf
-## Kuliner
-
-asf
