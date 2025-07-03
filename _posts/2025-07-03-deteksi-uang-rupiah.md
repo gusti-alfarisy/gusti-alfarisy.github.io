@@ -20,7 +20,7 @@ Salah satu objek yang memiliki nilai penting yang bisa bisa dikenali secara otom
 
 Deteksi objek pada gambar uang rupiah bukan hanya soal teknis, tapi juga bisa jadi solusi untuk berbagai kebutuhan seperti edukasi, bantuan bagi penyandang disabilitas, dan pengembangan teknologi keuangan digital. Dengan menggunakan metode YOLOv11, sistem ini ditujukan untuk mengenali berbagai pecahan uang kertas rupiah dalam kondisi gambar yang beragam, seperti pencahayaan, warna, dan sudut pandang. Pendekatan ini diharapkan bisa membantu membangun sistem deteksi uang yang cepat, akurat, dan mudah diterapkan.
 
-![Imgur](images/072025/100k.jpg)
+![Imgur](assets/images/072025/100k.jpg)
 
 *Gambar 1: Ilustrasi sistem deteksi objek uang menggunakan YOLOv11*
 
