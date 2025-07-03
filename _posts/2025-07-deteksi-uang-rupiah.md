@@ -1,7 +1,7 @@
 ---
 title: "Deteksi Objek Citra Uang Rupiah Menggunakan YOLOv11"
 date: 2025-07-03
-background: "https://learnlibre.com/wp-content/uploads/2022/04/1-Montessori-Science-Project-Ideas-Make-a-Diorama-624x351.jpg"
+background: "https://cdn.prod.website-files.com/624ac40503a527cf47af4192/6355c00cd7135d206b033692_Object%20Detection%20and%20Person%20Detection%20in%20Computer%20Vision-p-800.png"
 
 author: Muhammad Aldiansyah, Rendy Pernanda
 #tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
