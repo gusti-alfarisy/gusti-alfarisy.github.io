@@ -87,9 +87,7 @@ Inovasi Utama MobileNetV3:
 ## Persamaan Matematis
 
 Operasi Konvolusi:
-$$
-O(i,j) = \sum_m \sum_n I(i+m, j+n) \cdot K(m,n)
-$$
+$$O(i,j) = \sum_m \sum_n I(i+m, j+n) \cdot K(m,n)$$
 
 Keterangan:
 - O(i,j): Nilai output dari hasil konvolusi di posisi baris ke-𝑖 dan kolom ke-𝑗
