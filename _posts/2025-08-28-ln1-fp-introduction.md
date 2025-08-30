@@ -34,6 +34,7 @@ Before we dive into real programming, we need to understand what a function is. 
 $$
 f: A \to B
 $$
+
 A is domain and B is codomain
 
 $$
