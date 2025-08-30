@@ -10,10 +10,12 @@
   href: /blog/
 - text: Course
   menu: # Dropdown menu (one level deep only)
-  - text: 'Kecerdasan Web'
+  - text: 'Web Intelligence'
     href: /mk/web2025/
-  - text: 'Pemrograman Fungsional'
+  - text: 'Functional Programming'
     href: /mk/fungsional2025/
+  - text: 'Artificial Intelligence'
+    href: /mk/ai2025/
 #- text: Documentation
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Installation
