@@ -2,7 +2,7 @@
 layout: team
 title: Team
 description: People who are contributing to the projects
-#background: "https://img.freepik.com/free-vector/partners-holding-big-jigsaw-puzzle-pieces_74855-5278.jpg"
+background: "https://mum.id/upload/thumbnail/thumbnail1744789497.png"
 permalink: /team/
 ---
 
