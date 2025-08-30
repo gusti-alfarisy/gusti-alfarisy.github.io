@@ -51,7 +51,7 @@ $$
 The mapping of infinite set:
 
 $$
-g: \R \to \R
+g: \mathbb{R} \to \mathbb{R}
 $$
 
 ## Function as First Class Citizen
