@@ -16,7 +16,7 @@ Turing machine
 
 Lambda calculus, alonzo church (1930)
 
-# Betha-reduction
+## Betha-reduction
 
 operation that allows us to simplify or evaluate lambda expression. It is applying a function to its arguments.
 
@@ -36,7 +36,7 @@ $$
 5 + 10 = 15
 $$
 
-# Currying
+## Currying
 
 Functions with multiple arguments are treated as a series of single-argument function.
 
@@ -60,7 +60,7 @@ $$
 5+10=15
 $$
 
-# Defining TRUE and FALSE
+## Defining TRUE and FALSE
 
 Turing Machine: single bit
 
@@ -112,7 +112,7 @@ $$
 
 how about NOT TRUE?
 
-# AND operator
+## AND operator
 
 $$
 AND:=\lambda xy. (x y F)
@@ -120,6 +120,6 @@ $$
 
 how if AND operator receive TRUE and FALSE?
 
-# Exercise
+## Exercise
 
-Try  to create lambda expression for OR and XOR
+Try to create lambda expression for OR and XOR
