@@ -1,5 +1,5 @@
 ---
-title: "Lecture Notes 2: Lambda Calculus"
+title: "Lecture Notes 2: Introduction to Lambda Calculus"
 date: 2025-09-03
 background: "https://www-codecademy-com.translate.goog/resources/blog/wp-content/uploads/2022/12/programming-languages.png"
 
@@ -9,8 +9,6 @@ tags: [Functional Programming, Lambda Calculus]
 comments: true
 toc: true
 ---
-
-# Lecture Notes 2: Introduction to Lambda Calculus
 
 Turing machine
 
