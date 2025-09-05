@@ -109,7 +109,7 @@ $$
 \sum_{t=1}^T= |P|^t
 $$
 
-Where $P$ is all possible percepts in a set and $T$ is the lifetime of an agent.
+Where $$P$$ is all possible percepts in a set and $$T$$ is the lifetime of an agent.
 
 
 Automated taxi driver with 8 cameras:
