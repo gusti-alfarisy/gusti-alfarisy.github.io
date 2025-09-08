@@ -12,11 +12,17 @@ toc: true
 
 Turing machine
 
-Lambda calculus, alonzo church (1930)
+Lambda calculus, alonzo church (1930), is a universal computational method, similar to the turing machine.
 
-## Betha-reduction
+Lambda caluclus is important as theorotical fondation of many functional programming including haskell, lisp, rust iterators, etc.
 
-operation that allows us to simplify or evaluate lambda expression. It is applying a function to its arguments.
+## The Syntax
+
+* variable: x, y, z
+* abstraction: $$\lambda x. M$$ which is a function with a body M
+* application: (M N), function M applied to argument N
+
+Example:
 
 $$
 f(x) = x + 10
@@ -26,12 +32,40 @@ $$
 \lambda x. x+10
 $$
 
+Identity function
+
 $$
-(\lambda x. x+10) 5
+\lambda x. x
+$$
+
+## Betha-reduction
+
+operation that allows us to simplify or evaluate lambda expression. It is applying a function to its arguments.
+
+$$
+(\lambda x. x+10) \: 5
+$$
+
+$$
+(x+10) \: [x:=5]
 $$
 
 $$
 5 + 10 = 15
+$$
+
+## Alpha-conversion
+
+The problem in lamdba calculus (y is free variable):
+
+$$
+(λx.λy.x)y
+$$
+
+with the $$\alpha-conversion$$, the dependent variable $$\lambda y$$ is converted into $$z$$ which becomes:
+
+$$
+(λx.λz.x)y
 $$
 
 ## Currying
