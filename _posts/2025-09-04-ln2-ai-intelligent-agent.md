@@ -115,7 +115,7 @@ Where $$P$$ is all possible percepts in a set and $$T$$ is the lifetime of an ag
 Automated taxi driver with 8 cameras:
 * 70 megabytes per second (30 frames per second, 1080 × 720 pixels with 24 bits of color information)
 * yielding a lookup table with over $$10^{600,000,000,000}$$ entries for an hour’s driving
-* compared to the number of atoms in the observable universe is less than 1080
+* compared to the number of atoms in the observable universe is less than $$10^{80}$$
 
 
 * (a) no physical agent in this universe will have the space to store the table; 
