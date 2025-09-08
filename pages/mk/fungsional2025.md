@@ -11,3 +11,6 @@ Lecture Notes (LN)
 
 ### Week 1: Introduction to Functional Programming!
 [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln1-fp-introduction/)
+
+### Week 2: Introduction to Lambda Calculus
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln2-fp-lambda-calculus/)
