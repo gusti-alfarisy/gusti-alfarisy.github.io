@@ -53,7 +53,7 @@ Omniscient for an agent is impossible in reality.
 
 Example: Walking on the road to say hello to an old friend across the street
 
-**Rationality $\neq$ Perfection**
+**Rationality $$\neq$$ Perfection**
 
 Don't you think being aware of unknown is beneficial? Open-World Lifelong Learning?
 
@@ -192,18 +192,18 @@ Then, specify the different structure of the agents based on your choice of AI a
 
 Please submit next week on LMS week 2, before **17 September 2025**!
 
-* Automatic plant species identification through mobile device
+### Automatic plant species identification through mobile device
 
 The users can use their mobile phone to take a picture of plant in any environment and the agent can predict what species it is with the relevant information. The agent can provide unidentified species if the species is not available in the agent knowledge. 
 
-* Chatbot for Academic Information in University
+### Chatbot for Academic Information in University
 
 The students in university can ask/query for retrieving relevant information. For example when discussing about the timeline of academic calender, querying about when the final proposal can be submitted, or any other academic information like how to write the proposal or final projects.
 
-* Automatic Biodiversity Monitoring using Camera sensors
+### Automatic Biodiversity Monitoring using Camera sensors
 
 The camera can capture different living species on an environment and map the biodiversity level in that environment along with the number of species found in that area. The system can provide information about low, medium, or high biodiversiy along with the availability of the invasive species.
 
-* Focused Web Crawler for Academic Journal
+### Focused Web Crawler for Academic Journal
 
 The users can query about the topic of journal (e.g. "kecerdasan buatan untuk chatbot") that return a list of clickable journal that related to the topic. The user can leave the bot for several ours or even days, and the users will receive the collected relevant journals.
