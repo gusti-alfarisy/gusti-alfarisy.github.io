@@ -79,7 +79,7 @@ h = compose f g
 h x = f (g x)
 
 
-This allows **cleaner, reusable code** without writing intermediate variables.
+This allows cleaner, reusable code without writing intermediate variables.
 
 ---
 
