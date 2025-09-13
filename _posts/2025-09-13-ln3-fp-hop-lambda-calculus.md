@@ -1,6 +1,6 @@
 ---
 title: "Lecture Notes 3: Higher-Order Functions in Lambda Calculus"
-date: 2025-09-03
+date: 2025-09-13
 background: "https://www-codecademy-com.translate.goog/resources/blog/wp-content/uploads/2022/12/programming-languages.png"
 
 author: Gusti Ahmad Fanshuri Alfarisy
