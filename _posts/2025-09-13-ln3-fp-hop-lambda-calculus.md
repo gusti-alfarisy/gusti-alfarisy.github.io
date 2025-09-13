@@ -19,6 +19,10 @@ This is different from **first-class functions**. HOFs go further, they use thos
 
 ---
 
+Formal notations of HOF: (λf. λx. f x)
+
+---
+
 ## `map` – Transforming Lists
 
 `map` takes a function `f` and a list, then applies `f` to each element of the list.  
@@ -87,6 +91,12 @@ With `compose`, we can build new functions by combining smaller ones, leading to
 Example like trimming and uppercasing the text
 
 ---
+
+## Discussions
+
+Please create a flip function that change the order of function applications. Suppose you have SUB function that substract two elements let say SUB 20 10 which resulting 10, with flip it becomes -10.
+
+Please create HOF of composition in lambda expression in Python..!
 
 
 
