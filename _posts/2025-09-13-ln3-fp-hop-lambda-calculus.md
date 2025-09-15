@@ -11,11 +11,9 @@ toc: true
 ---
 
 ## Introduction to Higher-Order Functions
-In functional programming and lambda calculus, **higher-order functions (HOFs)** are functions that:
-- **Take other functions as input**
-- **Return a function as output**
+In functional programming and lambda calculus, higher-order functions (HOFs) are functions that take other functions as input and return a function as output
 
-This is different from **first-class functions**. HOFs go further, they use those functions to *transform data* or *build new functions*.
+This is different from first-class functions. HOFs go further, they use those functions to transform data or build new functions.
 
 ---
 
@@ -23,7 +21,7 @@ Formal notations of HOF: (λf. λx. f x)
 
 ---
 
-## `map` – Transforming Lists
+## map – Transforming Lists
 
 `map` takes a function `f` and a list, then applies `f` to each element of the list.  
 In lambda calculus (simplified):
@@ -45,7 +43,7 @@ map f [1,2,3]
 
 ---
 
-## `filter` – Selecting Elements
+## filter – Selecting Elements
 
 `filter` takes a predicate function `p` (returns True or False) and a list, and keeps only elements where `p` is True.
 
@@ -67,7 +65,7 @@ filter p [1,2,3,4]
 
 ---
 
-## `compose` – Function Composition
+## compose – Function Composition
 
 
 Composition allows us to combine multiple functions into one which can be defined as:
