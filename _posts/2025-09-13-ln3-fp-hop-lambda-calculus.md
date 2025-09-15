@@ -73,9 +73,10 @@ Composition allows us to combine multiple functions into one which can be define
 
 above expression is similar with the composition in functions
 
+```
 h = compose f g
 h x = f (g x)
-
+```
 
 This allows cleaner, reusable code without writing intermediate variables.
 
