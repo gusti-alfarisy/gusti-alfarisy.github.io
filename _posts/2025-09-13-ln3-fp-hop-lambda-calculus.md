@@ -1,7 +1,7 @@
 ---
 title: "Lecture Notes 3: Higher-Order Functions in Lambda Calculus"
 date: 2025-09-13
-background: "https://www-codecademy-com.translate.goog/resources/blog/wp-content/uploads/2022/12/programming-languages.png"
+background: "https://www.delftstack.com/img/Kotlin/higher-order-function.webp"
 
 author: Gusti Ahmad Fanshuri Alfarisy
 #tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
