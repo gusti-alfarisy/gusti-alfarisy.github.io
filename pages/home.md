@@ -22,7 +22,7 @@ ___
 ![Current research agendas](assets/theme/images/main_illustration_final.png)
 > **We have experienced the outstanding performance of artificial intelligence surpassing human capability. Yet, they are unable to acknowledge fully that they do not know and learn the novel phenomenon continuously like humans. In my current research agenda, I am exploring a technique to enhance an agent to identify unknown categories and learn them continuously in domain-specific problem.  This will make the agent become reliable and able to adapt to the open-world environment in the agent interest only. The applications can be applied to ecology, healthcare, smart cities, robotics, chatbot or intelligent systems. We named this as _Domain-Specific Open-World Recognition_.**
 
-We are interested in the domain-specific open-world recognition problems in **Environmental Monitoring and Conservation**, **Lifelong Chatbot**, **Web Intelligence**,  and **Healthcare**.
+We are interested in the domain-specific open-world recognition problems in **Environmental/Biodiversity Monitoring and Conservation**, **Lifelong Chatbot**, **Web Intelligence**,  and **Agriculture/Food**.
 
 ## Short Biography
 
@@ -36,7 +36,6 @@ I have been teaching several topics including algorithms and programming languag
 - Natural Language Processing
 - LLM
 - Ecological and Environmental Informatics
-- Healthcare Informatics
 
 ## Main Projects
 

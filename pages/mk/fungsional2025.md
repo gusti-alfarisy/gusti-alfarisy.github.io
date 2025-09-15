@@ -14,3 +14,6 @@ Lecture Notes (LN)
 
 ### Week 2: Introduction to Lambda Calculus
 [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln2-fp-lambda-calculus/)
+
+### Week 2: Higher-Order Functions in Lambda Calculus
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln3-fp-hop-lambda-calculus/)
