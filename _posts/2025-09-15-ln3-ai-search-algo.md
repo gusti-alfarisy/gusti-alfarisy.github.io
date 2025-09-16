@@ -161,3 +161,4 @@ The chapter should includes:
 - **Solution Representation, Objective, and Genetic Operators** (how solution is being presented? how the objective/fitness function is defined? how genetic operator behave on your solution representation?)
 - **Implementation** (the code with the line numbers, the students have to explain the code by the line numbers)
 - **Results** (the students should show the results of the program, how it can be used? until it produce the solution)
+- **Conclusion**
