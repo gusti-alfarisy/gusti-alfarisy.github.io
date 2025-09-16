@@ -138,4 +138,9 @@ function REPRODUCE(parent1, parent2) returns an individual
 
 Please submit the assingment before **7 October 2025**.
 
-Please implement the genetic algorithm to solve the problem of animal husbandry feed mix! The students need to elaborate on the nutrition needed for the animal and also the nutrient in a feed. Then, the objective function need to be defined. Run genetic algorithm to obtain the solution.
+Please implement the genetic algorithm to find the optimal course schedule in informatics! The students need to specify the solution representation, the objective function, reprduction/recomendation mecanism, and mutation mechanism. Please run for several generation (let say 30-100).
+
+The chapter should includes:
+- **Solution Representation, Objective, and Genetic Operators** (how solution is being presented? how the objective/fitness function is defined? how genetic operator behave on your solution representation?)
+- **Implementation** (the code with the line numbers, the students have to explain the code by the line numbers)
+- **Results** (the students should show the results of the program, how it can be used? until it produce the solution)
