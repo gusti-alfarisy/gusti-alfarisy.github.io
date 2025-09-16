@@ -64,15 +64,32 @@ function EXPAND( problem, node) yields nodes
 ## Measuring Problem-Solving Performance
 
 - *Completeness*: This measurement ensure that the algorithm will return a solution or return "not found" if it does not have a solution.
-- *Cost Optimality*:This will measure the cost or path to the solution. Ideally, low cost is preferrable
+- *Cost Optimality*: This will measure the cost or path to the solution. Ideally, low cost is preferrable
 - *Time Complexity*: This will measure the duration or time for finding the solution.
 - *Space Complexity*: This measure the space or memory to find the desired solution.
 
 
 ## Informed (Heuristic) Search
 
+The heuristic function is an estimated cost/fitness to the solution. For shortest distance, it can be the stright line.
+
+Example of heuristic function for the shortest distance:
+
+![An example of heuristic function for the shortest distance](/assets/theme/images/posts/hf_shortest.png)
+
 - Greedy best-first search
+
+![Greedy Best-First Search illustration](/assets/theme/images/posts/greedy_example.png)
+
 - A* search
+
+$$
+f(n) = g(n) + h(n)
+$$
+
+$$g(n)$$ is the actual cost and $$h(n)$$ is the heuristic/estimated function
+
+![A* search illustration](/assets/theme/images/posts/astar_example.png)
 
 ## Local Search and Optimization Problem
 
@@ -136,9 +153,9 @@ function REPRODUCE(parent1, parent2) returns an individual
 ```
 ## Exercise
 
-Please submit the assingment before **7 October 2025**.
+Please submit the assingment before **7 October 2025** (Week 5).
 
-Please implement the genetic algorithm to find the optimal course schedule in informatics! The students need to specify the solution representation, the objective function, reprduction/recomendation mecanism, and mutation mechanism. Please run for several generation (let say 30-100).
+Please implement the genetic algorithm to find the optimal course schedule in informatics! The students need to specify the solution representation, the objective function, reproduction/recombination mechanism, and mutation mechanism. Please run for several generation (let say 30-100).
 
 The chapter should includes:
 - **Solution Representation, Objective, and Genetic Operators** (how solution is being presented? how the objective/fitness function is defined? how genetic operator behave on your solution representation?)
