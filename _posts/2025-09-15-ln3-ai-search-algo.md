@@ -19,8 +19,7 @@ Can we solve the route problem from city A to city B using simple search like BF
 A node in a tree typically have:
 - STATE
 - PARENT
-- LEFT
-- RIGHT
+- CHILDREN
 
 ### Best-First Search
 
@@ -95,7 +94,11 @@ function HILL-CLIMBING(problem) returns a state that is a local maximum
 
 Please define the objective function..!?
 
-### Simulated Annealing
+
+## Global Search
+
+### Simulated Annealing: Single-Based Solution
+
 
 ```
 function SIMULATED-ANNEALING(problem, schedule) returns a solution state
@@ -108,10 +111,31 @@ function SIMULATED-ANNEALING(problem, schedule) returns a solution state
         if ∆E > 0 then current ← next
         else current ← next only with probability e^{∆E/T}
 ```
+### Genetic Algorithm: Population-Based Solution
 
+![8queen genetic algorithm](/assets/theme/images/posts/8queen_ga.png)
 
+```
+function GENETIC-ALGORITHM(population, fitness) returns an individual
+repeat
+    weights ← WEIGHTED-BY(population, fitness)
+    population2 ← empty list
+    for i = 1 to SIZE(population) do
+    parent1, parent2 ← WEIGHTED-RANDOM-CHOICES(population, weights, 2)
+    child ← REPRODUCE(parent1, parent2)
+    if (small random probability) then child ← MUTATE(child)
+    add child to population2
+    population ← population2
+until some individual is fit enough, or enough time has elapsed
+return the best individual in population, according to fitness
+
+function REPRODUCE(parent1, parent2) returns an individual
+    n ← LENGTH(parent1)
+    c ← random number from 1 to n
+    return APPEND(SUBSTRING(parent1, 1, c), SUBSTRING(parent2, c + 1, n))
+```
 ## Exercise
 
-Please submit the assingment before **30 September 2025**.
+Please submit the assingment before **7 October 2025**.
 
 Please implement the genetic algorithm to solve the problem of animal husbandry feed mix! The students need to elaborate on the nutrition needed for the animal and also the nutrient in a feed. Then, the objective function need to be defined. Run genetic algorithm to obtain the solution.
