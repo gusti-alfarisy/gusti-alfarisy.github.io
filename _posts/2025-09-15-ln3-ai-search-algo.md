@@ -12,3 +12,106 @@ toc: true
 
 ## Search
 
+![simplified road map of part of Romania](/assets/theme/images/posts/map_romania.png)
+
+Can we solve the route problem from city A to city B using simple search like BFS?
+
+A node in a tree typically have:
+- STATE
+- PARENT
+- LEFT
+- RIGHT
+
+### Best-First Search
+
+A node in Best-First Search typically have:
+- STATE: the state in current node
+- PARENT: the path or reference to the parent node consisting similar properties
+- ACTION: the action of node that carried out
+- PATH-COST: total cost from inital node until current node
+
+Frontier is a queue that consist of:
+- IS-EMPTY(frontier)
+- POP(frontier)
+- TOP(frontier)
+- ADD(node, frontier)
+
+The algorithm:
+
+```
+function BEST-FIRST-SEARCH(problem, f) returns a solution node or failure
+
+    node ← NODE(S TATE=problem.INITIAL)
+    frontier ← a priority queue ordered by f , with node as an element
+    reached ← a lookup table, with one entry with key problem.INITIAL and value node
+    while not IS-EMPTY(frontier) do
+        node ← POP(frontier)
+        if problem.IS-GOAL(node.STATE) then return node
+        for each child in EXPAND(problem, node) do
+            s ← child.STATE
+        if s is not in reached or child.PATH-COST < reached[s].PATH-COST then
+            reached[s] ← child
+            add child to frontier
+    return failure
+
+function EXPAND( problem, node) yields nodes
+    s ← node.S TATE
+    for each action in problem.ACTIONS(s) do
+        s' ← problem.RESULT(s, action)
+        cost ← node.PATH-COST + problem.ACTION-COST(s, action, s0)
+        yield NODE(STATE=s' , PARENT=node, ACTION=action, PATH-COST=cost)
+```
+
+## Measuring Problem-Solving Performance
+
+- *Completeness*: This measurement ensure that the algorithm will return a solution or return "not found" if it does not have a solution.
+- *Cost Optimality*:This will measure the cost or path to the solution. Ideally, low cost is preferrable
+- *Time Complexity*: This will measure the duration or time for finding the solution.
+- *Space Complexity*: This measure the space or memory to find the desired solution.
+
+
+## Informed (Heuristic) Search
+
+- Greedy best-first search
+- A* search
+
+## Local Search and Optimization Problem
+
+![state space landscape](/assets/theme/images/posts/ss_landscape.png)
+
+
+### Hill-Climbing Search
+
+```
+function HILL-CLIMBING(problem) returns a state that is a local maximum
+    current ← problem.INITIAL
+    while true do
+        neighbor ← a highest-valued successor state of current
+        if VALUE(neighbor) ≤ VALUE(current) then return current
+        current ← neighbor
+```
+
+![8-queen problem](/assets/theme/images/posts/8queen_problem.png)
+
+Please define the objective function..!?
+
+### Simulated Annealing
+
+```
+function SIMULATED-ANNEALING(problem, schedule) returns a solution state
+    current ← problem.INITIAL
+    for t = 1 to ∞ do
+        T ← schedule(t)
+        if T = 0 then return current
+        next ← a randomly selected successor of current
+        ∆E ← VALUE(current) – VALUE(next)
+        if ∆E > 0 then current ← next
+        else current ← next only with probability e^{∆E/T}
+```
+
+
+## Exercise
+
+Please submit the assingment before **30 September 2025**.
+
+Please implement the genetic algorithm to solve the problem of animal husbandry feed mix! The students need to elaborate on the nutrition needed for the animal and also the nutrient in a feed. Then, the objective function need to be defined. Run genetic algorithm to obtain the solution.
