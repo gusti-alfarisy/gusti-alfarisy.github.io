@@ -117,17 +117,17 @@ function SIMULATED-ANNEALING(problem, schedule) returns a solution state
 
 ```
 function GENETIC-ALGORITHM(population, fitness) returns an individual
-repeat
-    weights ← WEIGHTED-BY(population, fitness)
-    population2 ← empty list
-    for i = 1 to SIZE(population) do
-    parent1, parent2 ← WEIGHTED-RANDOM-CHOICES(population, weights, 2)
-    child ← REPRODUCE(parent1, parent2)
-    if (small random probability) then child ← MUTATE(child)
-    add child to population2
-    population ← population2
-until some individual is fit enough, or enough time has elapsed
-return the best individual in population, according to fitness
+    repeat
+        weights ← WEIGHTED-BY(population, fitness)
+        population2 ← empty list
+        for i = 1 to SIZE(population) do
+        parent1, parent2 ← WEIGHTED-RANDOM-CHOICES(population, weights, 2)
+        child ← REPRODUCE(parent1, parent2)
+        if (small random probability) then child ← MUTATE(child)
+        add child to population2
+        population ← population2
+    until some individual is fit enough, or enough time has elapsed
+    return the best individual in population, according to fitness
 
 function REPRODUCE(parent1, parent2) returns an individual
     n ← LENGTH(parent1)
