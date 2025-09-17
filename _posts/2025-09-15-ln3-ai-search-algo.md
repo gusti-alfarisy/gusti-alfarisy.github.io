@@ -1,6 +1,6 @@
 ---
 title: "Lecture Notes 3: Solving Problem by Searching"
-date: 2025-09-04
+date: 2025-09-12
 background: "https://pharmacelera.com/wp-content/uploads/2022/03/Mesa-de-trabajo-1-768x410.png"
 
 author: Gusti Ahmad Fanshuri Alfarisy
