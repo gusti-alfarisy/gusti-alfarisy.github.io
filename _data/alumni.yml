@@ -40,3 +40,75 @@
     A Comparative Analysis of Pre-trained Deep Learning Models for Facial Skin Diseases
   cospv: Mrs. Rizky Amelia
   email: 11211087@student.itk.ac.id
+
+- name: Rendi Kurniawan
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Requirement Engineering for Biodiversity and Forestry Portal in Kalimantan with LLM
+  cospv: Mrs. Sri Rahayu Natasia
+  email: 11211073@student.itk.ac.id
+
+- name: Guntur Wisnu Saputra
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Kebun Raya Balikpapan Website Development with Automatic Plant Identification
+  cospv: Mr. Riska Abdullah
+  email: 11211042@student.itk.ac.id
+
+- name: Muhammad Erlangga Putra Hendrawan
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Open-Set Recognition for Balikpapan Botanical Garden Plant Species using Quad-Channel Contrastive Prototype Parameters and MobileNetV3
+  cospv: Mr. Rizal Kusuma Putra
+  email: 11211057@student.itk.ac.id
+
+- name: Felix Dean Janitra
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Boilerplate removal for The Main Content of The Journal using BoilerNet
+  cospv: Mr. Aninditya Anggari Nuryono
+  email: 11211040@student.itk.ac.id
+
+- name: Ariel Zakly Pratama
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Chatbot Assistant for Health Consultation using LLAMA and RAG
+  cospv: Mr. Bowo Nugroho
+  email: 11211017@student.itk.ac.id
+
+- name: Muhamad Saman
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Chatbot for Academic Information in Higher Education Institution using LLAMA and RAG
+  cospv: Mrs. Rizky Amelia
+  email: 11211052@student.itk.ac.id
+
+- name: Muhammad Nuralimsyah
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Novel Class Discovery for Balikpapan Botanical Garden Species using Vision Transformer and FINCH
+  cospv: Mr. Boby Mugi Pratama
+  email: 11211061@student.itk.ac.id
+
+- name: Muhammad Naufal Muhyiddin
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Sentiment Analysis for Environmental Issue in Kalimantan using IndoBERT
+  cospv: Mrs. Rizky Amelia
+  email: 11211060@student.itk.ac.id
+
+- name: Rangga Hermawan
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Open-Set Recognition for Face Skin Disease using Quad-Channel Contrastive Prototype Networks and MobileNetV3
+  cospv: Mr. Rizal Kusuma Putra
+  email: 11211071@student.itk.ac.id
