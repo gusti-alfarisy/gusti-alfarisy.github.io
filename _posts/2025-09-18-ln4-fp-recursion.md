@@ -86,7 +86,7 @@ $$
 
 ---
 $$
-F:= \lambda g. \lambda n. (iszero) n 1 n*g(n-1)
+F:= \lambda g. \lambda n. (iszero) \: n \: 1 \: n*g(n-1)
 $$
 
 $$
@@ -102,7 +102,7 @@ $$
 $$ -->
 
 $$
-(\lambda x . (isone x) 1 x* (Y F) (x-1) ) 3
+(\lambda x . (isone x) \: 1 \: x* (Y F) (x-1) ) 3
 $$
 
 back here:
@@ -115,7 +115,7 @@ $$
 
 
 $$
-(\lambda g. \lambda n. (iszero) n 1 n*g(n-1)) (Y F) 3
+(\lambda g. \lambda n. (iszero) \: n \: 1 \: n*g(n-1)) (Y F) 3
 $$
 
 $$
