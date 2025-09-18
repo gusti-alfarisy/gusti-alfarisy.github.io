@@ -11,6 +11,59 @@ description: Template for team page.
 
 {{ content }}
 
+
+{% if team and team.size > 0 %}
+  {% assign lead = team[0] %}
+  <!-- Project Lead (Full Row) -->
+  <div class="card shadow-sm border-0 mb-4">
+    <div class="row g-0 align-items-center">
+      <div class="col-md-3 text-center">
+        {% if lead.image %}
+          <img src="{{ lead.image | relative_url }}" alt="{{ lead.name }}" class="img-fluid rounded-circle p-3" style="max-width:200px;object-fit:cover;">
+        {% endif %}
+      </div>
+      <div class="col-md-9">
+        <div class="card-body">
+          <h4 class="card-title mb-1">
+            {{ lead.name }}
+            {% if lead.role %}
+              <small class="text-muted d-block">{{ lead.role }}</small>
+              {% if lead.cospv %}
+                <small class="text-muted d-block">Co-Spv: <strong>{{ lead.cospv }}</strong></small>
+              {% endif %}
+            {% endif %}
+          </h4>
+          <p class="card-text">{{ lead.description | markdownify }}</p>
+          <ul class="list-inline mb-0">
+            {% if lead.orcid %}
+              <li class="list-inline-item"><a href="https://orcid.org/{{ lead.orcid }}"><i class="ai ai-orcid"></i></a></li>
+            {% endif %}
+            {% if lead.researchgate %}
+              <li class="list-inline-item"><a href="https://researchgate.net/profile/{{ lead.researchgate }}"><i class="ai ai-researchgate"></i></a></li>
+            {% endif %}
+            {% if lead.googlescholar %}
+              <li class="list-inline-item"><a href="https://scholar.google.com/citations?user={{ lead.googlescholar }}"><i class="ai ai-google-scholar"></i></a></li>
+            {% endif %}
+            {% if lead.twitter %}
+              <li class="list-inline-item"><a href="https://twitter.com/{{ lead.twitter }}"><i class="fab fa-twitter"></i></a></li>
+            {% endif %}
+            {% if lead.mastodon %}
+              <li class="list-inline-item"><a href="{{ lead.mastodon }}"><i class="fab fa-mastodon"></i></a></li>
+            {% endif %}
+            {% if lead.github %}
+              <li class="list-inline-item"><a href="https://github.com/{{ lead.github }}"><i class="fab fa-github"></i></a></li>
+            {% endif %}
+            {% if lead.email %}
+              <li class="list-inline-item"><a href="mailto:{{ lead.email }}"><i class="far fa-envelope"></i></a></li>
+            {% endif %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+
 <!-- Team Members in Grid -->
 <div class="row">
 {% for member in team %}
