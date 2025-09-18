@@ -173,7 +173,7 @@ $$
 
 ## Exercise
 
-1. Create a recursive lambda function that print the pattern "*" like this:
+* Create a recursive lambda function that print the pattern "*" like this:
 
 ```
 *****
@@ -189,17 +189,17 @@ STAR(3) will print *** on the screen
 PRINT("a") will print a character "a" on the screen
 ```
 
-2. Please create the recursion for the fibbonaci using lambda expression!
+* Please create the recursion for the fibbonaci using lambda expression!
 
-3. Generalized forward loop using the Y-combinator, that:
+* Generalized forward loop using the Y-combinator, that:
 
-* Takes start and stop (so we go from start to stop, inclusive).
+    * Takes start and stop (so we go from start to stop, inclusive).
 
-* Takes a function F that will run at each step (and can accept the current index).
+    * Takes a function F that will run at each step (and can accept the current index).
 
-* Stops when start > stop.
+    * Stops when start > stop.
 
-* This is basically a functional for (i=start; i<=stop; i++) but expressed with Y-combinator.
+    * This is basically a functional for (i=start; i<=stop; i++) but expressed with Y-combinator.
 
 
 
