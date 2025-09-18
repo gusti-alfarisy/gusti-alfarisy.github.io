@@ -11,6 +11,16 @@ description: Template for team page.
 
 {{ content }}
 
+{% if team %}
+  <div class="text-center mb-5">
+    <h2 class="fw-bold">Our Team</h2>
+    <p class="text-muted mb-0">
+      Total Members: <strong>{{ team | size }}</strong> 
+      {% if team | size > 1 %}people{% else %}person{% endif %}
+    </p>
+  </div>
+{% endif %}
+
 
 {% if team and team.size > 0 %}
   {% assign lead = team[0] %}
