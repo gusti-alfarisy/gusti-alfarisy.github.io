@@ -53,65 +53,142 @@ $$
 Y = \lambda f . (\lambda x . f (x x)) (\lambda x . f (x x))
 $$
 
-Let say we have a function called FAC.
+Let say we have a function called F.
 
 $$
-Y FAC
-$$
-
-$$
-(\lambda x . f (x x)) (\lambda x . f (x x))[f:=FAC]
+Y F
 $$
 
 $$
-(\lambda x . FAC (x x)) (\lambda x . FAC (x x))
+(\lambda x . f (x x)) (\lambda x . f (x x))[f:=F]
 $$
 
 $$
-FACTORIAL := Y FAC
+(\lambda x . F (x x)) (\lambda x . F (x x))
+$$
+
+When we substitute $$(\lambda x . F (x x))$$, the expression is:
+
+$$
+F (x x) [x:=\lambda x . F (x x)]
 $$
 
 $$
-FACTORIAL 5 = (Y FAC) 5
+F (\lambda x . F (x x)) (\lambda x . F (x x))
+$$
+
+which is equivalent to:
+
+$$
+F (Y F)
+$$
+
+
+---
+$$
+F:= \lambda g. \lambda n. (iszero) n 1 n*g(n-1)
 $$
 
 $$
-FAC (Y FAC) 5
-$$
-
-Lets define the FAC
-
-$$
-FAC := \lambda x . (isone x) 1 x*FAC(x-1)
+(Y F) 3
 $$
 
 $$
-F := \lambda f . \lambda x . (isone x) 1 x*FAC(x-1)
+F (Y F) 3
 $$
 
-$$
-Y F 5
-$$
-
-$$
-F (Y F) 5
-$$
-
-$$
-\lambda f . \lambda x . (isone x) 1 x*f(x-1) (Y F) 3
-$$
+<!-- $$
+\lambda g . \lambda n . (iszero n) 1 n*g(n-1) (Y F) 3
+$$ -->
 
 $$
 (\lambda x . (isone x) 1 x* (Y F) (x-1) ) 3
 $$
 
+back here:
+
 $$
-(isone 3) 1 3 * (Y F) (2)
+F (Y F) 3
+$$
+
+
+
+
+$$
+(\lambda g. \lambda n. (iszero) n 1 n*g(n-1)) (Y F) 3
 $$
 
 $$
-3 * (Y F) (2)
+(\lambda n. (iszero) n 1 n*g(n-1)) [g:= Y F] 3
 $$
+
+$$
+(\lambda n. (iszero) n 1 n*(Y F)(n-1)) 3
+$$
+
+$$
+(iszero) n 1 n*(Y F)(n-1) [n:=3]
+$$
+
+$$
+(iszero) 3 1 3*(Y F)(3-1)
+$$
+
+$$
+3*(Y F) 2
+$$
+
+$$
+3 * F (Y F) 2
+$$
+
+$$
+3 * 2 * (Y F) 1
+$$
+
+$$
+3 * 2 * F (Y F) 1
+$$
+
+$$
+3 * 2 * 1 * F (Y F) 0
+$$
+
+
+$$
+3 * 2 * 1 * \lambda g. \lambda n. (iszero) n 1 n*g(n-1) (Y F) 0
+$$
+
+$$
+3 * 2 * 1 * \lambda n. (iszero) n 1 n*(Y F)(n-1)  0
+$$
+
+$$
+3 * 2 * 1 * (iszero) 0 1 0*(Y F)(n-1)
+$$
+
+$$
+3 * 2 * 1 * 1 = 6
+$$
+
+## Exercise
+
+1. Please create the recursion for the fibbonaci using lambda expression!
+2. Create a recursive lambda function that print the pattern "*" like this:
+
+```
+*****
+****
+***
+**
+*
+```
+
+Given the function:
+```
+STAR(3) will print *** on the screen
+PRINT("a") will print a character "a" on the screen
+```
 
 
 
