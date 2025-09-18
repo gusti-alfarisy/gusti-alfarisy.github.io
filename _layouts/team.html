@@ -11,73 +11,37 @@ description: Template for team page.
 
 {{ content }}
 
-{% if team %}
-  <div class="d-flex justify-content-between align-items-center mb-4">
-    <h2 class="fw-bold mb-0">Our Team</h2>
-    <span class="text-muted small d-flex align-items-center">
-      <i class="fas fa-users me-1"></i>
-      {{ team | size }}
-    </span>
-  </div>
-{% endif %}
-
 
 {% if team and team.size > 0 %}
   {% assign lead = team[0] %}
-  <!-- Project Lead (Full Row, Elegant Design) -->
-  <div class="card shadow-sm border-0 mb-5" style="background: #f9f9f9; border-radius: 1rem;">
+  <!-- Project Lead with Total Team Count -->
+  <div class="card shadow-sm border-0 mb-5" style="border-radius: 1rem; background: #fafafa;">
     <div class="row g-0 align-items-center">
       <div class="col-md-3 text-center p-4">
         {% if lead.image %}
           <img src="{{ lead.image | relative_url }}" 
                alt="{{ lead.name }}" 
                class="img-fluid rounded-circle shadow-sm"
-               style="max-width: 180px; height: 180px; object-fit: cover;">
+               style="max-width: 150px; height: 150px; object-fit: cover;">
         {% endif %}
       </div>
       <div class="col-md-9">
-        <div class="card-body p-4">
-          <h3 class="fw-bold mb-2" style="color:#222;">
-            {{ lead.name }}
-          </h3>
-          {% if lead.role %}
-            <p class="text-muted mb-3">
-              {{ lead.role }}
-              {% if lead.cospv %}
-                · Co-Spv: <strong>{{ lead.cospv }}</strong>
-              {% endif %}
-            </p>
-          {% endif %}
-
-          <div class="mb-3">
-            {{ lead.description | markdownify }}
-          </div>
-
+        <div class="card-body d-flex justify-content-between align-items-start">
           <div>
-            <ul class="list-inline mb-0">
-              {% if lead.orcid %}
-                <li class="list-inline-item"><a href="https://orcid.org/{{ lead.orcid }}"><i class="ai ai-orcid fs-4"></i></a></li>
-              {% endif %}
-              {% if lead.researchgate %}
-                <li class="list-inline-item"><a href="https://researchgate.net/profile/{{ lead.researchgate }}"><i class="ai ai-researchgate fs-4"></i></a></li>
-              {% endif %}
-              {% if lead.googlescholar %}
-                <li class="list-inline-item"><a href="https://scholar.google.com/citations?user={{ lead.googlescholar }}"><i class="ai ai-google-scholar fs-4"></i></a></li>
-              {% endif %}
-              {% if lead.twitter %}
-                <li class="list-inline-item"><a href="https://twitter.com/{{ lead.twitter }}"><i class="fab fa-twitter fs-4"></i></a></li>
-              {% endif %}
-              {% if lead.mastodon %}
-                <li class="list-inline-item"><a href="{{ lead.mastodon }}"><i class="fab fa-mastodon fs-4"></i></a></li>
-              {% endif %}
-              {% if lead.github %}
-                <li class="list-inline-item"><a href="https://github.com/{{ lead.github }}"><i class="fab fa-github fs-4"></i></a></li>
-              {% endif %}
-              {% if lead.email %}
-                <li class="list-inline-item"><a href="mailto:{{ lead.email }}"><i class="far fa-envelope fs-4"></i></a></li>
-              {% endif %}
-            </ul>
+            <h4 class="fw-bold mb-1">{{ lead.name }}</h4>
+            <p class="text-muted mb-3">{{ lead.role }}</p>
+            <p class="mb-3">{{ lead.description | markdownify }}</p>
+            <div>
+              {% if lead.orcid %}<a href="https://orcid.org/{{ lead.orcid }}" class="me-2"><i class="ai ai-orcid fs-5"></i></a>{% endif %}
+              {% if lead.github %}<a href="https://github.com/{{ lead.github }}" class="me-2"><i class="fab fa-github fs-5"></i></a>{% endif %}
+              {% if lead.googlescholar %}<a href="https://scholar.google.com/citations?user={{ lead.googlescholar }}" class="me-2"><i class="ai ai-google-scholar fs-5"></i></a>{% endif %}
+              {% if lead.email %}<a href="mailto:{{ lead.email }}"><i class="far fa-envelope fs-5"></i></a>{% endif %}
+            </div>
           </div>
+          <!-- Team Count Badge -->
+          <span class="badge rounded-pill bg-primary shadow-sm fs-6 px-3 py-2">
+            <i class="fas fa-users me-1"></i> {{ team | size }}
+          </span>
         </div>
       </div>
     </div>
