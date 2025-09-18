@@ -17,3 +17,7 @@ Lecture Notes (LN)
 
 ### Week 3: Higher-Order Functions in Lambda Calculus
 [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln3-fp-hop-lambda-calculus/)
+
+### Week 4: Recursion and Y-Combinator
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln4-fp-recursion/)
+
