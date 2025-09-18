@@ -119,19 +119,19 @@ $$
 $$
 
 $$
-(\lambda n. (iszero) n 1 n*g(n-1)) [g:= Y F] 3
+(\lambda n. (iszero) \: n \: 1 \: n*g(n-1)) [g:= Y F] 3
 $$
 
 $$
-(\lambda n. (iszero) n 1 n*(Y F)(n-1)) 3
+(\lambda n. (iszero) \: n \: 1 \: n*(Y F)(n-1)) 3
 $$
 
 $$
-(iszero) n 1 n*(Y F)(n-1) [n:=3]
+(iszero) \: n \: 1 \: n*(Y F)(n-1) [n:=3]
 $$
 
 $$
-(iszero) 3 1 3*(Y F)(3-1)
+(iszero) \: 3 \: 1 \: 3*(Y F)(3-1)
 $$
 
 $$
@@ -156,15 +156,15 @@ $$
 
 
 $$
-3 * 2 * 1 * \lambda g. \lambda n. (iszero) n 1 n*g(n-1) (Y F) 0
+3 * 2 * 1 * \lambda g. \lambda n. (iszero) \: n \: 1 \: n*g(n-1) (Y F) 0
 $$
 
 $$
-3 * 2 * 1 * \lambda n. (iszero) n 1 n*(Y F)(n-1)  0
+3 * 2 * 1 * \lambda n. (iszero) \: n \: 1 \: n*(Y F)(n-1)  0
 $$
 
 $$
-3 * 2 * 1 * (iszero) 0 1 0*(Y F)(n-1)
+3 * 2 * 1 * (iszero) \: 0 \: 1 \: 0*(Y F)(n-1)
 $$
 
 $$
@@ -188,6 +188,7 @@ Given the function:
 STAR(3) will print *** on the screen
 PRINT("a") will print a character "a" on the screen
 ```
+
 2. Please create the recursion for the fibbonaci using lambda expression!
 
 3. Generalized forward loop using the Y-combinator, that:
