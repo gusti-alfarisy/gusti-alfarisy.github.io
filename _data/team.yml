@@ -69,6 +69,14 @@
   cospv: Mr. Aninditya Anggari Nuryono
   email: 11211064@student.itk.ac.id
 
+- name: Bagus Triyudanto
+  role: Student
+  image: https://cdn.pixabay.com/photo/2018/11/13/21/43/avatar-3814049_640.png
+  description: >
+    Evaluating LLaMA and IndoBERT Word Embeddings in a Retrieval-Augmented Chatbot for Criminal Law
+  cospv: Mr. Riska Abdullah
+  email: 11211021@student.itk.ac.id
+
 
 
 #- name: Professor Hubert J. Farnsworth
