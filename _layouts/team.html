@@ -12,12 +12,12 @@ description: Template for team page.
 {{ content }}
 
 {% if team %}
-  <div class="text-center mb-5">
-    <h2 class="fw-bold">Our Team</h2>
-    <p class="text-muted mb-0">
-      Total Members: <strong>{{ team | size }}</strong> 
-      {% if team | size > 1 %}people{% else %}person{% endif %}
-    </p>
+  <div class="d-flex justify-content-between align-items-center mb-4">
+    <h2 class="fw-bold mb-0">Our Team</h2>
+    <span class="text-muted small d-flex align-items-center">
+      <i class="fas fa-users me-1"></i>
+      {{ team | size }}
+    </span>
   </div>
 {% endif %}
 
