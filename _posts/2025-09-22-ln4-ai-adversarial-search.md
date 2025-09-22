@@ -174,7 +174,7 @@ $$
 
 where:
 
-- $\bar{X}_j$ = average reward for child $j$  
-- $n$ = number of times the parent node has been visited  
-- $n_j$ = number of times child $j$ has been visited  
-- $c$ = exploration constant (typically $\sqrt{2}$)
+- $$\bar{X}_j$$ = average reward for child $$j$$  
+- $$n$$ = number of times the parent node has been visited  
+- $$n_j$$ = number of times child $$j$$ has been visited  
+- $$c$$ = exploration constant (typically $$\sqrt{2}$$)
