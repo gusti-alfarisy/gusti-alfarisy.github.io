@@ -59,7 +59,7 @@ function MAX-VALUE(game, state) returns a (utility, move) pair
     return v, move
 
 function MIN-VALUE(game, state) returns a (utility, move) pair
-    if game.I S -T ERMINAL(state) then return game.U TILITY(state, player), null
+    if game.IS-TERMINAL(state) then return game.UTILITY(state, player), null
     v, move ← +∞
     for each a in game.ACTIONS(state) do
         v2, a2 ← MAX-VALUE(game, game.RESULT(state, a))
