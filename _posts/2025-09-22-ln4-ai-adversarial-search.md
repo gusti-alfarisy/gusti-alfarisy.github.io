@@ -45,8 +45,8 @@ The algorithm:
 
 ```
 function MINIMAX-SEARCH(game, state) returns an action
-    player ← game.T O -M OVE(state)
-    value, move ← M AX -VALUE(game, state)
+    player ← game.TO-MOVE(state)
+    value, move ← MAX-VALUE(game, state)
     return move
 
 function MAX-VALUE(game, state) returns a (utility, move) pair
