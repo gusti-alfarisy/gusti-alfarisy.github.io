@@ -36,7 +36,7 @@ $$
 \text{MINIMAX}(s) =
 \begin{cases}
 \text{UTILITY}(s, \text{MAX}), & \text{if $s$ is terminal} \\[6pt]
-\max\limits_{a \in \text{Actions}(s)} \text{MINIMAX}(\text{RESULT}(s,a)), & \text{if TO-MOVE}(s) = \text{MAX} \\[6pt]
-\min\limits_{a \in \text{Actions}(s)} \text{MINIMAX}(\text{RESULT}(s,a)), & \text{if TO-MOVE}(s) = \text{MIN}
+\max\limits_{a \in \text{ACTIONS}(s)} \text{MINIMAX}(\text{RESULT}(s,a)), & \text{if TO-MOVE}(s) = \text{MAX} \\[6pt]
+\min\limits_{a \in \text{ACTIONS}(s)} \text{MINIMAX}(\text{RESULT}(s,a)), & \text{if TO-MOVE}(s) = \text{MIN}
 \end{cases}
 $$
