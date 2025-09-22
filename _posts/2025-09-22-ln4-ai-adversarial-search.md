@@ -81,3 +81,58 @@ In MINIMAX search wihthout pruning, all tree must be visited. In alpha-beta prun
 β = the value of the best (i.e., lowest-value) choice we have found so far at any choice point along the path for MIN. Think: β = “at most.”
 
 Let see an example...
+
+The algorithm:
+
+```
+function ALPHA-BETA-SEARCH(game, state) returns an action
+    player ← game.TO-MOVE(state)
+    value, move ← MAX-VALUE(game, state, −∞, +∞)
+    return move
+
+function MAX-VALUE(game, state, α, β) returns a (utility, move) pair
+    if game.IS-TERMINAL(state) then return game.UTILITY(state, player), null
+    v ← −∞
+    for each a in game.ACTIONS(state) do
+        v2, a2 ← MIN-VALUE(game, game.RESULT(state, a), α, β)
+        if v2 > v then
+            v, move ← v2, a
+            α ← MAX(α, v)
+        if v ≥ β then return v, move
+    return v, move
+
+function MIN-VALUE(game, state, α, β) returns a (utility, move) pair
+    if game.IS-TERMINAL(state) then return game.UTILITY(state, player), null
+    v ← +∞
+    for each a in game.ACTIONS(state) do
+        v2, a2 ← MAX-VALUE(game, game.RESULT(state, a), α, β)
+        if v2 < v then
+        v, move ← v2, a
+        β ← MIN(β, v)
+        if v ≤ α then return v, move
+    return v, move
+```
+
+"If this could be done perfectly, alpha–beta would need to examine only $$\mathcal{O}(b^{\frac{m}{2}})$$ nodes to m pick the best move, instead of O(b) for minimax."
+
+## Heuristic Alpha–Beta Tree Search
+
+$$
+\text{H-MINIMAX}(s, d) =
+\begin{cases}
+\text{EVAL}(s, \text{MAX}), & \text{if IS-CUTOFF}(s, d) \\[6pt]
+\displaystyle \max\limits_{a \in \text{ACTIONS}(s)} 
+\text{H-MINIMAX}(\text{RESULT}(s, a), d+1), 
+& \text{if TO-MOVE}(s) = \text{MAX} \\[8pt]
+\displaystyle \min\limits_{a \in \text{ACTIONS}(s)} 
+\text{H-MINIMAX}(\text{RESULT}(s, a), d+1), 
+& \text{if TO-MOVE}(s) = \text{MIN}
+\end{cases}
+$$
+
+### Evaluation Functions
+
+What the things to consider to form a good evaluation functions?
+
+1. The eval function should not take too long.
+2. The eval function should highly related to the chance of winning.
