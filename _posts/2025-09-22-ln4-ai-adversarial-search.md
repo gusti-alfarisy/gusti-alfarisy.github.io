@@ -148,4 +148,33 @@ $$
 
 for example in chess book, approximate material value: pawn worth 1, knight or bishop worth 3, a rook 5, a queen 9.
 
-each $$f_i$$ is a feature of the position (such as “number of white bishops”)and each $$w_i$$ is a weight (saying how important that feature is). The weights should be normalized so that the sum is always within the range of a loss (0) to a win (+1).
+each $$f_i$$ is a feature of the position (such as “number of white bishops”) and each $$w_i$$ is a weight (saying how important that feature is). The weights should be normalized so that the sum is always within the range of a loss (0) to a win (+1).
+
+## Monte Carlo tree search (MCTS)
+
+![Monte Carlo tree search (MCTS)](/assets/theme/images/posts/mcts.png)
+
+Algorithm of MCTS:
+
+```
+function MONTE-CARLO-TREE-SEARCH(state) returns an action
+    tree ← NODE(state)
+    while IS-TIME-REMAINING() do
+    leaf ← SELECT(tree)
+    child ← EXPAND(leaf)
+    result ← SIMULATE(child)
+    BACK-PROPAGATE(result, child)
+    return the move in ACTIONS(state) whose node has highest number of playouts
+```
+
+$$
+\text{UCB1}(n_j) = 
+\bar{X}_j + c \sqrt{\frac{2 \ln n}{n_j}}
+$$
+
+where:
+
+- $\bar{X}_j$ = average reward for child $j$  
+- $n$ = number of times the parent node has been visited  
+- $n_j$ = number of times child $j$ has been visited  
+- $c$ = exploration constant (typically $\sqrt{2}$)
