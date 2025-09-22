@@ -1,7 +1,7 @@
 ---
 title: "Lecture Notes 4: Adversarial Search and Games"
-date: 2025-09-12
-background: "https://pharmacelera.com/wp-content/uploads/2022/03/Mesa-de-trabajo-1-768x410.png"
+date: 2025-09-22
+background: "https://news.northeastern.edu/wp-content/uploads/2024/10/Game-AI-1400x933-1.jpg"
 
 author: Gusti Ahmad Fanshuri Alfarisy
 #tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
