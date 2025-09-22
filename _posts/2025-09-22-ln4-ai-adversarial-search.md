@@ -117,6 +117,8 @@ function MIN-VALUE(game, state, α, β) returns a (utility, move) pair
 
 ## Heuristic Alpha–Beta Tree Search
 
+s = state; d = depth
+
 $$
 \text{H-MINIMAX}(s, d) =
 \begin{cases}
@@ -136,3 +138,14 @@ What the things to consider to form a good evaluation functions?
 
 1. The eval function should not take too long.
 2. The eval function should highly related to the chance of winning.
+
+weighted linear function:
+
+$$
+\text{EVAL}(s) = w_1 f_1(s) + w_2 f_2(s) + \cdots + w_n f_n(s) 
+= \sum_{i=1}^{n} w_i f_i(s)
+$$
+
+for example in chess book, approximate material value: pawn worth 1, knight or bishop worth 3, a rook 5, a queen 9.
+
+each $$f_i$$ is a feature of the position (such as “number of white bishops”)and each $$w_i$$ is a weight (saying how important that feature is). The weights should be normalized so that the sum is always within the range of a loss (0) to a win (+1).
