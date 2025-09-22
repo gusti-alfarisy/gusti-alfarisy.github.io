@@ -35,7 +35,7 @@ For agent in games the synonym for action and state are move and position respec
 $$
 \text{MINIMAX}(s) =
 \begin{cases}
-\text{UTILITY}(s, \text{MAX}), & \text{if $s$ is terminal} \\[6pt]
+\text{UTILITY}(s, \text{MAX}), & \text{if IS-TERMINAL(s)} \\[6pt]
 \max\limits_{a \in \text{ACTIONS}(s)} \text{MINIMAX}(\text{RESULT}(s,a)), & \text{if TO-MOVE}(s) = \text{MAX} \\[6pt]
 \min\limits_{a \in \text{ACTIONS}(s)} \text{MINIMAX}(\text{RESULT}(s,a)), & \text{if TO-MOVE}(s) = \text{MIN}
 \end{cases}
