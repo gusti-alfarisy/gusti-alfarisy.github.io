@@ -40,3 +40,34 @@ $$
 \min\limits_{a \in \text{ACTIONS}(s)} \text{MINIMAX}(\text{RESULT}(s,a)), & \text{if TO-MOVE}(s) = \text{MIN}
 \end{cases}
 $$
+
+The algorithm:
+
+```
+function MINIMAX-SEARCH(game, state) returns an action
+    player ← game.T O -M OVE(state)
+    value, move ← M AX -VALUE(game, state)
+    return move
+
+function MAX-VALUE(game, state) returns a (utility, move) pair
+    if game.IS-TERMINAL(state) then return game.UTILITY(state, player), null
+    v, move ← −∞
+    for each a in game.ACTIONS(state) do
+        v2, a2 ← MIN-VALUE(game, game.RESULT(state, a))
+        if v2 > v then
+            v, move ← v2, a
+    return v, move
+
+function MIN-VALUE(game, state) returns a (utility, move) pair
+    if game.I S -T ERMINAL(state) then return game.U TILITY(state, player), null
+    v, move ← +∞
+    for each a in game.ACTIONS(state) do
+        v2, a2 ← MAX-VALUE(game, game.RESULT(state, a))
+        if v2 < v then
+            v, move ← v2, a
+    return v, move
+```
+
+If there is $$b$$ legal move with the maximum depth of a tree $$m$$, then the time complexity is $$\mathcal{O}(b^m)$$
+
+"The space complexity is $$\mathcal{O}(bm)$$ for an algorithm that generates all actions at once"
