@@ -71,3 +71,13 @@ function MIN-VALUE(game, state) returns a (utility, move) pair
 If there is $$b$$ legal move with the maximum depth of a tree $$m$$, then the time complexity is $$\mathcal{O}(b^m)$$
 
 "The space complexity is $$\mathcal{O}(bm)$$ for an algorithm that generates all actions at once"
+
+## Alpha–Beta Pruning in MINIMAX search
+
+In MINIMAX search wihthout pruning, all tree must be visited. In alpha-beta pruning, only reasonable node that will be visited, avoiding unnecessary computation.
+
+α = the value of the best (i.e., highest-value) choice we have found so far at any choice point along the path for MAX. Think: α = “at least.”
+
+β = the value of the best (i.e., lowest-value) choice we have found so far at any choice point along the path for MIN. Think: β = “at most.”
+
+Let see an example...
