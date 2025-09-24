@@ -214,7 +214,7 @@ print(result)   # 56  (4 + 16 + 36)
 
 ## Exercise
 
-Let say we have this data after querying to a non-sql database with json format:
+Let say we have this data after querying to a non-sql database receiving the json format and converted into map in python:
 
 ```python
 orders = [
