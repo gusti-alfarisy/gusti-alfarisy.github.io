@@ -1,7 +1,7 @@
 ---
 title: "Lecture Notes 5: Generator, Decorator, and HOFs in Python"
 date: 2025-09-24
-background: "https://www.cybersuccess.biz/wp-content/uploads/2021/03/uses-of-python-programming-language.jpg"
+background: "https://campus.epam.com/static/news/240/self-study%20(1)_03400068.png"
 
 author: Gusti Ahmad Fanshuri Alfarisy
 #tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
