@@ -105,7 +105,10 @@ print(list(combinations([1,2,3], 2)))
 ```
 
 ### Others
-???
+
+The complete itertools functionality can be found in the official documentation:
+
+[itertools official docs](https://docs.python.org/3/library/itertools.html)
 
 
 ## functools
@@ -266,7 +269,51 @@ def to_string(obj):
     else:
         return str(obj) #this will returning string, instead of the correct json format
 ```
+### Others
+
+The complete official documentation of functools can be found here:
+
+[functools official docs](https://docs.python.org/3/library/functools.html)
 
 ## Assignment
 
 Please submit before 13 October!
+
+---
+General expression:
+
+``
+T := λxy.x <-- TRUE
+``
+
+``
+F := λxy.y <-- FALSE
+``
+---
+1. What are the benefits that the functional programming paradigm can offer, in your opinion? (points: 5)
+2. Given `AND := λxy.xyF`, please apply this function to three boolean expression which are True (T), True (T), and False (F). (points: 10)
+3. Please create HOFs named "ON" in which taking a function to apply into two different values and compare the results using binary function that return true or false. For example:
+```
+ON EQUAL LEN "saya" "kamu"
+```
+
+Above lambda expression will return TRUE due to the True value of the equal that len applied to both arguments: "saya" (4) and "kamu" (4). This is just an example, in real-world EQUAL can be any binary function and LEN can be any function. (points: 15)
+4. Using the Y-Combinator, write a recursive lambda expression that sums values from n down to 0! (points: 15)
+5. Using the Y-Combinator, write a recursive lambda expression that can reverse the order of the character. For example, 'kenapa' will be reversed into "apanek". You can utilize a function: (points: 15)
+```
+HEAD "abcde" -> "a"
+LAST "abcde" -> "e"
+TAIL "abcde" -> "bcde"
+LEN "abcde" -> 5
+```
+6. Given a list of numbers in Python, use the map, filter, and reduce functions to: (1) map each value into its half and rounded, (2) filter the number to keep only even numbers, and reduce the list by subtracting all values. **(points: 10)**
+7. What are the benefits of lru_cache in the functools module? Please provide an example to illustrate. **(points: 10)**
+8. Given a list of numbers [[5,6], [7], [0, 3, 4]], transform it into a flat list [5, 6, 7, 0, 3, 4] using itertools! **(points: 10)**
+9. Write a decorator cache that remembers previous results of a function (like memoization). For example: **(points: 10)**
+
+```python
+@cache
+def fib(n):
+    if n <= 1: return n
+    return fib(n-1) + fib(n-2)
+```
