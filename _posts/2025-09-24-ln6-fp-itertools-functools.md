@@ -279,8 +279,9 @@ The complete official documentation of functools can be found here:
 
 Please submit before 13 October!
 
----
+
 General expression:
+---
 
 ``
 T := λxy.x <-- TRUE
@@ -289,7 +290,8 @@ T := λxy.x <-- TRUE
 ``
 F := λxy.y <-- FALSE
 ``
----
+
+
 
 1. What are the benefits that the functional programming paradigm can offer, in your opinion? (points: 5)
 2. Given `AND := λxy.xyF`, please apply this function to three boolean expression which are True (T), True (T), and False (F). (points: 10)
