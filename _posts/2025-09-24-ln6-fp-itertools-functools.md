@@ -316,6 +316,7 @@ LEN "abcde" -> 5
 7. What are the benefits of lru_cache in the functools module? Please provide an example to illustrate. **(points: 10)**
 8. Given a list of numbers [[5,6], [7], [0, 3, 4]], transform it into a flat list [5, 6, 7, 0, 3, 4] using itertools! **(points: 10)**
 9. Write a decorator cache that remembers previous results of a function (like memoization). For example: **(points: 10)**
+{: start="4"}
 
 ```python
 @cache
@@ -323,4 +324,3 @@ def fib(n):
     if n <= 1: return n
     return fib(n-1) + fib(n-2)
 ```
-{: start="4"}
