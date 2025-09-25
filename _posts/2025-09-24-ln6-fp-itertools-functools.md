@@ -309,7 +309,6 @@ LAST "abcde" -> "e"
 TAIL "abcde" -> "bcde"
 LEN "abcde" -> 5
 ```
-{: start="4"}
 
 6. Given a list of numbers in Python, use the map, filter, and reduce functions to: (1) map each value into its half and rounded, (2) filter the number to keep only even numbers, and reduce the list by subtracting all values. **(points: 10)**
 7. What are the benefits of lru_cache in the functools module? Please provide an example to illustrate. **(points: 10)**
@@ -322,3 +321,4 @@ def fib(n):
     if n <= 1: return n
     return fib(n-1) + fib(n-2)
 ```
+{: start="4"}
