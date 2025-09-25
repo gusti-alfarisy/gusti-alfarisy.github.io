@@ -290,6 +290,7 @@ T := λxy.x <-- TRUE
 F := λxy.y <-- FALSE
 ``
 ---
+
 1. What are the benefits that the functional programming paradigm can offer, in your opinion? (points: 5)
 2. Given `AND := λxy.xyF`, please apply this function to three boolean expression which are True (T), True (T), and False (F). (points: 10)
 3. Please create HOFs named "ON" in which taking a function to apply into two different values and compare the results using binary function that return true or false. For example:
