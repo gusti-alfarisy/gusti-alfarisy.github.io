@@ -21,3 +21,9 @@ Lecture Notes (LN)
 ### Week 4: Recursion and Y-Combinator
 [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln4-fp-recursion/)
 
+### Week 5: Generator, Decorator, and HOFs in Python
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln5-functional-programming-python/)
+
+### Week 6: Itertools and Functools
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln6-fp-itertools-functools/)
+
