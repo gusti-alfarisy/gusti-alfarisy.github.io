@@ -304,8 +304,8 @@ ON EQUAL LEN "saya" "kamu"
 Above lambda expression will return TRUE due to the True value of the equal that len applied to both arguments: "saya" (4) and "kamu" (4). This is just an example, in real-world EQUAL can be any binary function and LEN can be any function. 
 ```
 {:start="4"}
-4. Using the Y-Combinator, write a recursive lambda expression that sums values from n down to 0! **(points: 15)**
-5. Using the Y-Combinator, write a recursive lambda expression that can reverse the order of the character. For example, 'kenapa' will be reversed into "apanek". You can utilize a function: **(points: 15)**
+1. Using the Y-Combinator, write a recursive lambda expression that sums values from n down to 0! **(points: 15)**
+2. Using the Y-Combinator, write a recursive lambda expression that can reverse the order of the character. For example, 'kenapa' will be reversed into "apanek". You can utilize a function: **(points: 15)**
 
 ```
 HEAD "abcde" -> "a"
