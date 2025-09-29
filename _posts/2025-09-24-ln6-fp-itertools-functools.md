@@ -303,6 +303,7 @@ ON EQUAL LEN "saya" "kamu"
 -------
 Above lambda expression will return TRUE due to the True value of the equal that len applied to both arguments: "saya" (4) and "kamu" (4). This is just an example, in real-world EQUAL can be any binary function and LEN can be any function. 
 ```
+
 {:start="4"}
 1. Using the Y-Combinator, write a recursive lambda expression that sums values from n down to 0! **(points: 15)**
 2. Using the Y-Combinator, write a recursive lambda expression that can reverse the order of the character. For example, 'kenapa' will be reversed into "apanek". You can utilize a function: **(points: 15)**
@@ -313,11 +314,12 @@ LAST "abcde" -> "e"
 TAIL "abcde" -> "bcde"
 LEN "abcde" -> 5
 ```
+
 {:start="6"}
-6. Given a list of numbers in Python, use the map, filter, and reduce functions to: (1) map each value into its half and rounded, (2) filter the number to keep only even numbers, and reduce the list by subtracting all values. **(points: 10)**
-7. What are the benefits of lru_cache in the functools module? Please provide an example to illustrate. **(points: 10)**
-8. Given a list of numbers [[5,6], [7], [0, 3, 4]], transform it into a flat list [5, 6, 7, 0, 3, 4] using itertools! **(points: 10)**
-9. Write a decorator cache that remembers previous results of a function (like memoization). For example: **(points: 10)**
+1. Given a list of numbers in Python, use the map, filter, and reduce functions to: (1) map each value into its half and rounded, (2) filter the number to keep only even numbers, and reduce the list by subtracting all values. **(points: 10)**
+2. What are the benefits of lru_cache in the functools module? Please provide an example to illustrate. **(points: 10)**
+3. Given a list of numbers [[5,6], [7], [0, 3, 4]], transform it into a flat list [5, 6, 7, 0, 3, 4] using itertools! **(points: 10)**
+4. Write a decorator cache that remembers previous results of a function (like memoization). For example: **(points: 10)**
 
 ```python
 @cache
