@@ -58,3 +58,5 @@ Please hit the books...!
 ### Week 15: Rust/Project-based learning
 [Group Assignment]() Functional Concurrency & Multi-Processing; Asynchronous & Functional Streams; Higher-Order Functions in Concurrency
 
+### Week 16: Final Exam (Project Presentation)
+Good Luck..!
