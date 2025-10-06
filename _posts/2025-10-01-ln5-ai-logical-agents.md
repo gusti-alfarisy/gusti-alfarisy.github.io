@@ -168,7 +168,6 @@ The words below are literally taken from the original book:
 
 
 ```python
-# kinship_kanren.py
 from kanren import Relation, facts, run, var, conde
 # create relations
 parent = Relation()
