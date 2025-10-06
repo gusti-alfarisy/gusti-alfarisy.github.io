@@ -179,6 +179,7 @@ female = Relation()
 facts(parent,
       ('john', 'mary'),
       ('anna', 'mary'),
+      ('john', 'andy'),
       ('mary', 'susan'))
 
 facts(male, ('john',))
@@ -192,10 +193,12 @@ print("Grandparents of susan:", grandparents)
 
 # Query: siblings of 'mary' (share a parent)
 S = var()
+P = var()
 # find S where exists P: parent(P, S) and parent(P, 'mary') and S != 'mary'
 siblings = run(0, S,
-               conde((parent(var(), S), parent(var(), 'mary'))))
-# Note: simple conde above will return also 'mary' itself; to exclude identical you'd filter in python.
+               conde((parent(P, S), parent(P, 'mary'))))
+
 print("Raw siblings (may include mary):", siblings)
+print("Raw siblings:", set([x for x in siblings if x not in ['mary']]))
 
 ```
