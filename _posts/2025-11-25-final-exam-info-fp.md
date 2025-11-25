@@ -26,6 +26,9 @@ Before the final examination, **each group is required to obtain feedback from t
 
 > **Note:** The feedback stage contributes **20% of your final exam score**. The score will be assigned in Week 16 based on the quality of your revisions after receiving feedback.
 
+### If You Have a Schedule Conflict
+If you have a serious scheduling conflict, **you must inform the lecturer *before* the presentation day** so an alternative can be arranged.  
+Late communication cannot be accommodated.
 ---
 
 ## Class A Presentation  
@@ -44,3 +47,47 @@ Before the final examination, **each group is required to obtain feedback from t
 
 **Important:** Students who arrive late or miss their scheduled time will **not** be allowed to participate in the feedback session. Missing this session results in losing the **20% component** of the overall course score.
 
+## Markdown Format
+
+```markdown
+# Title of the Project
+_A Functional Programming Approach with Rust_  
+**Authors:** Name 1, Name 2, Name 3
+
+---
+
+## Abstract
+Provide a concise summary of the project, its goals, the technologies used (Rust + Axum/Rocket/GTK4+/Tauri), and how functional programming principles were applied.
+
+---
+
+## Introduction
+Explain the motivation behind the project:
+
+- What problem does your application solve?
+- Why did you choose Rust?
+- Why integrate functional programming concepts?
+- What makes your solution unique or interesting?
+
+---
+
+## Background and Concepts
+Introduce key concepts relevant to the project:
+
+### Technology Stack
+- Rust  
+- Framework (Axum, Rocket, GTK4+, Tauri, or CLI)  
+- Async runtime (Tokio, if used)  
+- Supporting crates (serde, anyhow, thiserror, etc.)
+
+Each concept should give readers enough context to understand your design.
+
+---
+
+## Source Code and Explanation
+
+## Screenshot
+
+## Conclusion
+
+```
