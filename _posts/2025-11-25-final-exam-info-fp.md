@@ -76,7 +76,7 @@ Introduce key concepts relevant to the project:
 
 ### Technology Stack
 - Rust  
-- Framework (Axum, Rocket, GTK4+, Tauri, or CLI)  
+- Framework (Axum, Rocket, GTK4+, or Tauri)  
 - Async runtime (Tokio, if used)  
 - Supporting crates (serde, anyhow, thiserror, etc.)
 
