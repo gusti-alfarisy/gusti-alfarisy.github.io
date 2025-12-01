@@ -45,6 +45,21 @@ Late communication cannot be accommodated.
 | 7     | 15:00 | 15:20 |
 | 8     | 15:20 | 15:40 |
 
+## Class B Presentation  
+**4 December 2025**
+
+| Group | Start | End   |
+|-------|-------|-------|
+| 1     | 07:20 | 07:40 |
+| 2     | 07:40 | 08:00 |
+| 3     | 08:00 | 08:20 |
+| 4     | 08:20 | 08:40 |
+| 5     | 08:40 | 09:00 |
+| 6     | 09:00 | 09:20 |
+| 7     | 09:20 | 09:40 |
+| 8     | 09:40 | 10:00 |
+| 9     | 10:00 | 10:20 |
+
 **Important:** Students who arrive late or miss their scheduled time will **not** be allowed to participate in the feedback session. Missing this session results in losing the **20% component** of the overall course score.
 
 ## Markdown Format
@@ -82,6 +97,9 @@ Introduce key concepts relevant to the project:
 
 Each concept should give readers enough context to understand your design.
 
+## Important...!
+
+*Avoid LLM/ChatGPT/Claude code..! any unethical conduct will results in E overall score!*
 ---
 
 ## Source Code and Explanation
