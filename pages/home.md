@@ -32,7 +32,7 @@ Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknol
 - Web Intelligence
 - Retrieval-Augmented Generation with OWLML
 - Ecological and Environmental Informatics
-- AI Generated Detection System
+- AI Generated Content (AIGC) Detection System
 
 ## Main Projects
 
