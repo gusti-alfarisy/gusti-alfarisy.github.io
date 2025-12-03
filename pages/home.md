@@ -40,11 +40,23 @@ Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknol
 
 In a world teeming with diverse ecosystems, continuous and adaptive biodiversity monitoring is vital, as biodiversity plays a crucial role in our sustainability as humans. Open-world lifelong learning offers an innovative approach to monitoring that evolves alongside the environment. Unlike traditional models, which require retraining with new data and struggle to identify unknown classes, open-world lifelong learning systems autonomously learn and adapt over time, recognizing and integrating new species and ecological changes without restarting from scratch. The primary challenge lies in mitigating catastrophic interference to achieve true open-world capability.
 
+Ongoing:
+
+1. Open-Set Recognition with Continual Learning for Plant Species Recognition
+2. Active Learning for Plant Species Recognition
+3. Biodiversity and Forestry Portal for Borneo Island
 
 ### Adaptive Hybrid Multi-Modal RAG for Open-World Environments via Lifelong Learning
 
+Ongoing:
 
-### Lifelong Detection of LLM-Generated Text in Open-World Scenarios
+1. Advanced RAG for academic information
+
+### Lifelong Detection of LLM-Generated Content in Open-World Scenarios
+
+Ongoing:
+
+1. Fake Product Detection
 
 [//]: # (### Lifelong Learning Chatbot for Academic Services and SMEs)
 
