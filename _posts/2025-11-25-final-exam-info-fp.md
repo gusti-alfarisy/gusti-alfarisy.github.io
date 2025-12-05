@@ -10,6 +10,53 @@ comments: false
 toc: true
 ---
 
+## Final Exam - Week 16
+
+### Submission Deadlines
+
+Please submit the revised version of your code in the markdown file. **We will only check the markdown file for taking the overall scores of your final projects**.
+
+- **Class A:** 7 December 2025  
+- **Class B:** 10 December 2025 
+
+[Submission Class A](https://drive.google.com/drive/folders/1sRTKtqmRNLWPUhZKBmBwKBE8H7msdpiJ?usp=sharing) | [Submission Class B](https://drive.google.com/drive/folders/1r9Y0noO48L5FsuwzHAxHv5NHUmTAKGyc?usp=sharing)
+
+## Class A Presentation  
+**8 December 2025**
+
+| Group | Start | End   |
+|-------|-------|-------|
+| 1     | 13:00 | 13:30 |
+| 2     | 13:30 | 14:00 |
+| 3     | 14:00 | 14:30 |
+| 4     | 14:30 | 15:00 |
+| 5     | 15:00 | 15:30 |
+| 6     | 15:30 | 16:00 |
+| 7     | 16:00 | 16:30 |
+| 8     | 16:30 | 17:00 |
+
+## Class B Presentation  
+**11 December 2025**
+
+| Group | Start | End   |
+|-------|-------|-------|
+| 1     | 07:30 | 08:00 |
+| 2     | 08:00 | 08:30 |
+| 3     | 08:30 | 09:00 |
+| 4     | 09:00 | 09:30 |
+| 5     | 09:30 | 10:00 |
+| 6     | 10:00 | 10:30 |
+
+**13 December 2025**
+
+| Group | Start | End   |
+|-------|-------|-------|
+| 7     | 08:30 | 09:00 |
+| 8     | 09:00 | 09:30 |
+| 9     | 09:30 | 10:00 |
+
+**Important:** Students who arrive late or miss their scheduled time will **not** be allowed to participate in the final exam. If you have a serious scheduling conflict, **you must inform the lecturer *before* the presentation day** so an alternative can be arranged. Late communication cannot be accommodated!
+
 ## Preparation – Week 15
 
 Before the final examination, **each group is required to obtain feedback from the lecturer during Week 15**. To accomplish this, you must **print your source code** and **submit the corresponding Markdown file** through the provided link.
