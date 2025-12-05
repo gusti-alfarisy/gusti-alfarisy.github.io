@@ -19,7 +19,10 @@ Please submit the revised version of your code in the markdown file. **We will o
 - **Class A:** 7 December 2025  
 - **Class B:** 11 & 13 December 2025 
 
-[Submission Class A](https://drive.google.com/drive/folders/1sRTKtqmRNLWPUhZKBmBwKBE8H7msdpiJ?usp=sharing) | [Submission Class B](https://drive.google.com/drive/folders/1r9Y0noO48L5FsuwzHAxHv5NHUmTAKGyc?usp=sharing)
+
+[Submission Class A](https://drive.google.com/drive/folders/1sRTKtqmRNLWPUhZKBmBwKBE8H7msdpiJ?usp=sharing)
+
+[Submission Class B](https://drive.google.com/drive/folders/1r9Y0noO48L5FsuwzHAxHv5NHUmTAKGyc?usp=sharing)
 
 ## Class A Presentation  
 **8 December 2025**
