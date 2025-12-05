@@ -12,7 +12,7 @@ toc: true
 
 ## Final Exam - Week 17
 
-Final exam will be conducted into two stages. First stage is conventional exam by using LMS (multiple choice) with 20 questions starting at 7:30 AM. The students should finish all the questions within 30 minutes. The topic includes agent and its environment, local search (hill climbing, SA), global search (Genetic Algorithm), Adversarial Search, Logical programming, Bayesian Network, Machine Learning (Decision tree, logistic regression, clustering), Artificial Neural Networks, Basic CV and NLP, and Ethic and Bias in AI.
+Final exam will be conducted into two stages. First stage is conventional exam by using LMS (multiple choice) with 20 questions starting at 7:30 AM. The students should finish all the questions within 30 minutes. The topic includes agent and its environment, local search (hill climbing, SA), global search (Genetic Algorithm), Adversarial Search, Logical programming, Probabilistic reasoning (Bayesian Network), Machine Learning (Decision tree, logistic regression, clustering), Artificial Neural Networks, Basic CV and NLP, and Ethic and Bias in AI.
 
 The students who cannot attend the exam in the class will get zero score which account for 15% of total score in this course.
 
