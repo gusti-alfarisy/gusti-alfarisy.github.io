@@ -17,7 +17,7 @@ toc: true
 Please submit the revised version of your code in the markdown file. **We will only check the markdown file for taking the overall scores of your final projects**.
 
 - **Class A:** 7 December 2025  
-- **Class B:** 10 December 2025 
+- **Class B:** 11 & 13 December 2025 
 
 [Submission Class A](https://drive.google.com/drive/folders/1sRTKtqmRNLWPUhZKBmBwKBE8H7msdpiJ?usp=sharing) | [Submission Class B](https://drive.google.com/drive/folders/1r9Y0noO48L5FsuwzHAxHv5NHUmTAKGyc?usp=sharing)
 
