@@ -29,6 +29,7 @@ Please submit the revised version of your code in the markdown file. **We will o
 
 | Group | Start | End   |
 |-------|-------|-------|
+| 8     | 12:30 | 13:00 |
 | 1     | 13:00 | 13:30 |
 | 2     | 13:30 | 14:00 |
 | 3     | 14:00 | 14:30 |
@@ -36,7 +37,7 @@ Please submit the revised version of your code in the markdown file. **We will o
 | 5     | 15:00 | 15:30 |
 | 6     | 15:30 | 16:00 |
 | 7     | 16:00 | 16:30 |
-| 8     | 16:30 | 17:00 |
+
 
 ## Class B Presentation  
 **11 December 2025**
