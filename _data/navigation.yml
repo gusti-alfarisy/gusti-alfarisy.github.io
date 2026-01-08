@@ -11,7 +11,7 @@
 - text: Course
   menu: # Dropdown menu (one level deep only)
   - text: 'Web Intelligence'
-    href: /mk/web2025/
+    href: /mk/web2026/
   - text: 'Functional Programming'
     href: /mk/fungsional2025/
   - text: 'Artificial Intelligence'
