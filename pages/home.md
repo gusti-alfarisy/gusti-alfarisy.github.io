@@ -29,10 +29,9 @@ We are interested in the domain-specific open-world recognition problems in **En
 Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknologi Kalimantan at the Department of Informatics. I have been teaching several topics including algorithms and programming languages, data structures, functional programming, numerical methods, machine learning, artificial intelligence, deep learning, web intelligence, and software engineering. I have reviewed several articles in Springer and Elsevier Journals. My research interest includes:
 
 - Open-World Lifelong Machine Learning (OWLML)
-- Web Intelligence
-- Retrieval-Augmented Generation with OWLML
 - Ecological and Environmental Informatics
 - AI Generated Content (AIGC) Detection System
+- Chatbot with OWLML
 
 ## Main Projects
 
@@ -42,21 +41,26 @@ In a world teeming with diverse ecosystems, continuous and adaptive biodiversity
 
 Ongoing:
 
-1. Open-Set Recognition with Continual Learning for Plant Species Recognition
-2. Active Learning for Plant Species Recognition
-3. Biodiversity and Forestry Portal for Borneo Island
+1. Open-Set Plant Species Recognition with Continual Learning
+2. Active Learning Strategies for Plant Species Classification
+3. An Integrated Biodiversity and Forestry Portal for Borneo
+4. Large-Scale Open-Set Plant-Species Recognition using Lightweight Deep-Learning Models
 
-### Adaptive Hybrid Multi-Modal RAG for Open-World Environments via Lifelong Learning
+[//]: # (### Adaptive Hybrid Multi-Modal RAG for Open-World Environments via Lifelong Learning)
+
+[//]: # ()
+[//]: # (Ongoing:)
+
+[//]: # ()
+[//]: # (1. Advanced RAG for academic information)
+
+### Open-World Detection of LLM-Generated Content
+
+With the rapid advancement of Large Language Models (LLMs), an increasing amount of AI-generated and potentially misleading content has emerged online. As LLMs continuously evolve and improve their generalization capabilities, detecting machine-generated content becomes increasingly challenging in dynamic and open environments. This project aims to address this issue by leveraging open-world and lifelong learning approaches to develop adaptive detection systems capable of identifying LLM-generated content under continuously changing conditions.
 
 Ongoing:
 
-1. Advanced RAG for academic information
-
-### Lifelong Detection of LLM-Generated Content in Open-World Scenarios
-
-Ongoing:
-
-1. Fake Product Detection
+1. Open-Set Recognition for AI-Generated Image Detection
 
 [//]: # (### Lifelong Learning Chatbot for Academic Services and SMEs)
 
