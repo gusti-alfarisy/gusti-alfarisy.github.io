@@ -30,7 +30,6 @@ Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknol
 
 - Open-World Lifelong Machine Learning (OWLML)
 - Ecological and Environmental Informatics
-- AI Generated Content (AIGC) Detection System
 - Chatbot with OWLML
 
 ## Main Projects
