@@ -1,5 +1,5 @@
 ---
-title: "Final Exam Information (Wawasan Umum dan Gagasan Informatika)"
+title: "Final Exam Information (Machine Learning B and C)"
 date: 2026-05-24
 background: "https://caltechsites-prod-assets.resources.caltech.edu/scienceexchange/images/AI-vs-ML_b63MzqT.2e16d0ba.fill-933x525-c100.format-avif.avif"
 
