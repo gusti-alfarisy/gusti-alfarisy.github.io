@@ -16,7 +16,7 @@ Silakan mencetak rubrik penilaian saat simulasi UAS.
 
 
 ### Kelas A
-Selasa, 2 Juni 2026
+Selasa, 9 Juni 2026
 Kelas E-106
 
 | Group | Start | End   | 
@@ -27,7 +27,7 @@ Kelas E-106
 | 4     | 11:30 | 12:00 |
 | 5     | 12:00 | 12:30 |
 
-Sabtu, 6 Juni 2026
+Sabtu, 13 Juni 2026
 
 | Group | Start | End   | 
 |-------|-------|-------|
@@ -37,7 +37,7 @@ Sabtu, 6 Juni 2026
 
 ### Kelas B
 
-Rabu, 3 Juni 2026
+Rabu, 10 Juni 2026
 Kelas E-201
 
 | Group | Start | End   | 
@@ -48,7 +48,7 @@ Kelas E-201
 | 4     | 11:30 | 12:00 |
 | 5     | 12:00 | 12:30 |
 
-Sabtu, 6 Juni 2026
+Sabtu, 13 Juni 2026
 
 | Group | Start | End   | 
 |-------|-------|-------|
