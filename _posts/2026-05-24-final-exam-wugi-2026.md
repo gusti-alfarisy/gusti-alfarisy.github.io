@@ -10,6 +10,65 @@ comments: false
 toc: true
 ---
 
+## Jadwal UAS WUGI 2026
+
+Silakan membawa lembar asistensi pada saat UAS
+
+Nama-nama yang tidak diperkenankan untuk menghadiri UAS yaitu:
+
+1.Cinta (Kelas A)
+
+Nama-nama yang absensi lebih dari 2x kehadiran yaitu (nama-nama tersebut akan diberikan maksimal nilai D):
+
+1. Silakan ditunggu
+
+
+### Lanjutan simulasi UAS:
+
+Selasa, 16 Juni 2026
+
+**Kelas B**
+
+| Group | Start | End   | 
+|-------|-------|-------|
+| 6     | 08:00 | 08:30 |
+| 7     | 08:30 | 09:00 |
+
+### Kelas A
+
+UAS:
+Selasa, 16 Juni 2026
+
+| Group | Start | End   | 
+|-------|-------|-------|
+| 1     | 09:00 | 09:20 |
+| 2     | 09:20 | 09:40 |
+| 3     | 09:40 | 10:00 |
+| 4     | 10:00 | 10:20 |
+| 5     | 10:20 | 10:40 |
+
+### Kelas B
+
+UAS:
+Selasa, 16 Juni 2026
+
+| Group | Start | End   | 
+|-------|-------|-------|
+| 1     | 10:40 | 11:00 |
+| 2     | 11:00 | 11:20 |
+| 3     | 11:20 | 11:40 |
+| 4     | 11:40 | 12:00 |
+| ISHOMA     | 12:00 | 13:00 |
+| 5    | 13:00 | 13:20 |
+| 8    | 13:20 | 13:40 |
+| 9    | 13:40 | 14:00 |
+
+Rabu, 16 Juni 2026
+| Group | Start | End   | 
+|-------|-------|-------|
+| 6     | 10:20 | 10:40 |
+| 7     | 10:40 | 11:00 |
+
 ## Simulasi UAS WUGI 2026
 
 Silakan mencetak rubrik penilaian saat simulasi UAS.
@@ -31,9 +90,9 @@ Sabtu, 13 Juni 2026
 
 | Group | Start | End   | 
 |-------|-------|-------|
-| 6     | 12:00 | 12:30 |
-| 7     | 12:30 | 13:00 |
-| 8     | 13:00 | 13:30 |
+| 6     | 13:00 | 13:30 |
+| 7     | 13:30 | 14:00 |
+| 8     | 14:00 | 14:30 |
 
 ### Kelas B
 
