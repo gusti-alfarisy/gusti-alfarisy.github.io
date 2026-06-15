@@ -16,11 +16,25 @@ Silakan membawa lembar asistensi pada saat UAS
 
 Nama-nama yang tidak diperkenankan untuk menghadiri UAS yaitu:
 
-1.Cinta (Kelas A)
+1. Cinta (Kelas A)
 
 Nama-nama yang absensi lebih dari 2x kehadiran yaitu (nama-nama tersebut akan diberikan maksimal nilai D):
 
-1. Sedang dalam proses
+### Kelas A:
+
+11241025 (Tidak hadir 4x)
+11241075 (Tidak hadir 3x)
+11241079 (Tidak hadir 3x)
+11241029 (Tidak hadir 3x)
+11221071 (Tidak hadir 3x)
+
+### Kelas B:
+
+11231049 (Tidak hadir 3x)
+11231052 (Tidak hadir 5x)
+11241053 (Tidak hadir 3x)
+11231029 (Tidak hadir 6x)
+11231042 (Tidak hadir 4x)
 
 
 ### Lanjutan simulasi UAS:
