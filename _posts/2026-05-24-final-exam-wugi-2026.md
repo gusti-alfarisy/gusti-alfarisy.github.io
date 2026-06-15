@@ -50,7 +50,7 @@ Selasa, 16 Juni 2026
 ### Kelas B
 
 UAS:
-Selasa, 16 Juni 2026
+*Selasa, 16 Juni 2026*
 
 | Group     | Start | End   | 
 |-----------|-------|-------|
@@ -63,7 +63,8 @@ Selasa, 16 Juni 2026
 | 8         | 13:20 | 13:40 |
 | 9         | 13:40 | 14:00 |
 
-Rabu, 16 Juni 2026
+*Rabu, 16 Juni 2026*
+
 | Group | Start | End   | 
 |-------|-------|-------|
 | 6     | 10:20 | 10:40 |
