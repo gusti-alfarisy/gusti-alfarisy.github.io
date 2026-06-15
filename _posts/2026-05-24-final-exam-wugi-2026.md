@@ -18,7 +18,7 @@ Nama-nama yang tidak diperkenankan untuk menghadiri UAS yaitu:
 
 1. Cinta | 11221071 (Kelas A)
 
-Nama-nama yang absensi lebih dari 2x kehadiran yaitu (nama-nama tersebut akan diberikan maksimal nilai D):
+Nama-nama yang absensi lebih dari 3x kehadiran yaitu (nama-nama tersebut akan diberikan maksimal nilai D):
 
 ### Kelas A:
 
