@@ -20,7 +20,7 @@ Nama-nama yang tidak diperkenankan untuk menghadiri UAS yaitu:
 
 Nama-nama yang absensi lebih dari 2x kehadiran yaitu (nama-nama tersebut akan diberikan maksimal nilai D):
 
-1. Silakan ditunggu
+1. Mohon ditunggu
 
 
 ### Lanjutan simulasi UAS:
