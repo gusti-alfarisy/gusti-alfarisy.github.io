@@ -22,19 +22,19 @@ Nama-nama yang absensi lebih dari 2x kehadiran yaitu (nama-nama tersebut akan di
 
 ### Kelas A:
 
-11241025 (Tidak hadir 4x)
-11241075 (Tidak hadir 3x)
-11241079 (Tidak hadir 3x)
-11241029 (Tidak hadir 3x)
-11221071 (Tidak hadir 3x)
+* 11241025 (Tidak hadir 4x)
+* 11241075 (Tidak hadir 3x)
+* 11241079 (Tidak hadir 3x)
+* 11241029 (Tidak hadir 3x)
+* 11221071 (Tidak hadir 3x)
 
 ### Kelas B:
 
-11231049 (Tidak hadir 3x)
-11231052 (Tidak hadir 5x)
-11241053 (Tidak hadir 3x)
-11231029 (Tidak hadir 6x)
-11231042 (Tidak hadir 4x)
+* 11231049 (Tidak hadir 3x)
+* 11231052 (Tidak hadir 5x)
+* 11241053 (Tidak hadir 3x)
+* 11231029 (Tidak hadir 6x)
+* 11231042 (Tidak hadir 4x)
 
 
 ### Lanjutan simulasi UAS:
