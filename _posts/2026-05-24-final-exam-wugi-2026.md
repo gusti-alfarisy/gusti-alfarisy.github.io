@@ -26,7 +26,7 @@ Nama-nama yang absensi lebih dari 3x kehadiran yaitu (nama-nama tersebut akan di
 
 ### Kelas B:
 
-* 11231052 (Tidak hadir 5x)
+* 11231052 (Tidak hadir 4x)
 * 11231042 (Tidak hadir 4x)
 
 
