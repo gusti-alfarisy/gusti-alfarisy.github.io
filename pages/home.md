@@ -20,17 +20,18 @@ ___
 ## Research Agendas
 
 ![Current research agendas](assets/theme/images/main_illustration_final.png)
-> **We have experienced the outstanding performance of artificial intelligence surpassing human capability. Yet, they are unable to acknowledge fully that they do not know and learn the novel phenomenon continuously like humans. In my current research agenda, I am exploring a technique to enhance an agent to identify unknown categories and learn them continuously in domain-specific problem.  This will make the agent become reliable and able to adapt to the open-world environment in the agent interest only. The applications can be applied to ecology, healthcare, smart cities, robotics, chatbot or intelligent systems. We named this as _Domain-Specific Open-World Recognition_.**
+> **We have experienced the outstanding performance of artificial intelligence surpassing human capability. Yet, they are unable to acknowledge fully that they do not know and learn the novel phenomenon continuously like humans. In my current research agenda, I am exploring a technique to enhance an agent to identify unknown categories and learn them continuously in domain-specific problem.  This will make the agent become reliable and able to adapt to the open-world environment in the agent interest only. The applications can be applied to ecology, agriculture, healthcare, robotics, chatbot systems or intelligent systems. We named this as _Domain-Specific Open-World Recognition_.**
 
-We are interested in the domain-specific open-world recognition problems in **Environmental/Biodiversity Monitoring and Conservation**, **Lifelong Chatbot**, **AI-generated content detection**, and **Agriculture/Food**.
+We are interested in the domain-specific open-world recognition problems in **Biodiversity Monitoring and Conservation**, **Autonomous Agroecology System**, and **Lifelong Chatbot**.
 
 ## Short Biography
 
 Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknologi Kalimantan at the Department of Informatics. I have been teaching several topics including algorithms and programming languages, data structures, functional programming, numerical methods, machine learning, artificial intelligence, deep learning, web intelligence, and software engineering. I have reviewed several articles in Springer and Elsevier Journals. My research interest includes:
 
 - Open-World Lifelong Machine Learning (OWLML)
-- Ecological and Environmental Informatics
-- Chatbot with OWLML
+- Autonomous Agroecologcal System
+- Autonomous Biodiversity Monitoring
+- OWLML for Knowledge Management Systems
 
 ## Main Projects
 
