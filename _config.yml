@@ -7,7 +7,7 @@ author: Gusti Ahmad Fanshuri Alfarisy                    # Used for copyright st
 
 # SOCIAL PROFILES
 social:
-  email: gusti.alfarisy@lecturer.itk.ac.id
+  email: gusti.alfarisy@gmail.com
   twitter:
   github:  gusti.alfarisy             # Can also be a github_username/repository
   mastodon:
@@ -25,7 +25,7 @@ colors:
   footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
-logo: /assets/theme/images/petri-dish_1f9eb.png # Logo in navbar, will be displayed with 30px height
+logo: /assets/theme/images/profil_pic_me.png # Logo in navbar, will be displayed with 30px height
 
 # BUILD SETTINGS
 markdown: kramdown

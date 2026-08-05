@@ -1,6 +1,7 @@
 ---
 title: "Lecture Notes 1: Introduction to Functional Programming"
 date: 2025-08-28
+last_modified_at: 2026-08-05
 background: "https://www-codecademy-com.translate.goog/resources/blog/wp-content/uploads/2022/12/programming-languages.png"
 
 author: Gusti Ahmad Fanshuri Alfarisy
@@ -12,22 +13,15 @@ toc: true
 
 # Lecture Notes 1: Introduction to Functional Programming
 
+We start learning programminng by understanding step-by-step instruction that programming language capable of. Sometimes, for the beginners, the algorithm at the abstract level is very usefull to understand how the program works. Then  we continue build the capability of the program by using some tools that programming language offer such as: IF, FOR LOOP, BREAK, etc. Using this approach in making a program shaping our prespective and thiking into procedural way which is common in nature. We asking "HOW" we solve this problem.
 
-## Definition
+The imperative paradigm is a step-by-step approach to writing code, describing how the solution should be derived. The execution generally follows the order of the code, but may also branch, loop, or call functions depending on the control flow. Procedural programming is a form of the imperative paradigm where the program is organized into procedures or functions. These procedures can be defined, called, and reused within the program.
 
-The most common way to code an algorithm is through the imperative or procedural paradigm, and the most widely used object-oriented paradigm.
+Further, due to the limitation of procedural prespective, object-oriented programming is a developed. This approach utilizes code as objects instantiated through abstraction (classes). An object consists of attributes (data) and methods (behavior). While it is often used to model real-world entities, it can also represent abstract concepts. This offer significant improvement in terms of code reusability. Instead of copy and paste followed by some changes to adjust the desired behavior, we can just instantiate the object through the class artefact. This concept saves our time in coding and makes it easier to read the code and maintain. This introduce the prespective of "ENCAPSULATION" with "HOW" to solve the problem.
 
-
-The imperative paradigm is a step-by-step approach to writing code, describing how the solution should be derived. The execution generally follows the order of the code, but may also branch, loop, or call functions depending on the control flow.
-
-Procedural programming is a form of the imperative paradigm where the program is organized into procedures or functions. These procedures can be defined, called, and reused within the program.
-
-Object-oriented programming is a development approach that utilizes code as objects instantiated through abstraction (classes). An object consists of attributes (data) and methods (behavior). While it is often used to model real-world entities, it can also represent abstract concepts.
-
-On the other hand, functional programming is a way to represent code through functions. The code is composed of functions, often combined or nested within one another. Functional programming emphasizes immutability and avoiding side effects, focusing on what to compute rather than how to compute it.
+Functional programming is a way to represent code through functions. The code is composed of functions, often combined or nested within one another. Hence, we solve the problem by orchestating many functions. This emphasizes immutability while avoid side effects, focusing on what to compute rather than how to compute it. This change the way our prespective from "HOW" to solve the problem into "WHAT" function to solve the problem.
 
 ## What is a Function?
-
 
 Before we dive into real programming, we need to understand what a function is. A function is actually a mathematical model of mapping from one thing to another, from a set called the domain to a set called the codomain.
 
@@ -79,7 +73,7 @@ Example: MapReduce (Google)
 
 Further reading: [https://blogs.cornell.edu/info2040/2019/10/28/using-mapreduce-to-compute-pagerank/](https://blogs.cornell.edu/info2040/2019/10/28/using-mapreduce-to-compute-pagerank/)
 
-Anoterh example: Google Search, (word, docid)
+<!-- Another example: Google Search, (word, docid) -->
 
 ## Key Concepts
 - function as first class citizen

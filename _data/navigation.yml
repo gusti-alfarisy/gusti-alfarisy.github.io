@@ -10,12 +10,12 @@
   href: /blog/
 - text: Course
   menu: # Dropdown menu (one level deep only)
-  - text: 'Web Intelligence'
-    href: /mk/web2026/
+  # - text: 'Web Intelligence'
+  #   href: /mk/web2026/
   - text: 'Functional Programming'
     href: /mk/fungsional2025/
-  - text: 'Artificial Intelligence'
-    href: /mk/ai2025/
+  # - text: 'Artificial Intelligence'
+  #   href: /mk/ai2025/
 #- text: Documentation
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Installation
