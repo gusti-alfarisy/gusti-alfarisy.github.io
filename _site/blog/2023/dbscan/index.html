@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+    <title>DBSCAN - Metode Clustering pada Data Berpotensi Noise - Gusti Ahmad Fanshuri Alfarisy</title>
+  
+
+   
+  
+  
+  
+
+  
+  
+  
+  
+    <meta name="author" content="Gusti Ahmad Fanshuri Alfarisy">
+  
+  
+
+  <meta property="og:url" content="http://localhost:4000/blog/2023/dbscan/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DBSCAN - Metode Clustering pada Data Berpotensi Noise">
+  
+  
+  
+    <meta property="og:image" content="https://miro.medium.com/v2/resize:fit:640/format:webp/1*TpKcWL4A90smnEGh9CuBqQ.png">
+  
+
+  <link rel="icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
+  <!-- Bootstrap CSS is included in main.css -->
+  <link rel="stylesheet" href="/assets/theme/css/main.css">
+  <link rel="stylesheet" href="/assets/theme/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="/assets/theme/css/academicons.min.css">
+  <link rel="stylesheet" href="/assets/theme/css/pygments.css">
+  
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
+  
+  <link rel="alternate" type="application/rss+xml" title="Gusti Ahmad Fanshuri Alfarisy - RSS feed" href="http://localhost:4000/feed.xml" >
+  <!-- Javascript libraries: loaded at top so templates can use these -->
+  <script src="/assets/theme/js/jquery.min.js"></script>
+  <script src="/assets/theme/js/popper.min.js"></script>
+  <script src="/assets/theme/js/bootstrap.min.js"></script>
+</head>
+
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light d-print-none" id="main-nav">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center" href="/">
+<!--      -->
+<!--        <img class="me-3" src="/assets/theme/images/petri-dish_1f9eb.png" alt="Gusti Ahmad Fanshuri Alfarisy">-->
+<!--      -->
+      Gusti Ahmad Fanshuri Alfarisy
+    </a>
+    
+    
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu">
+        Menu <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbar-menu">
+        <ul class="navbar-nav ms-auto">
+          
+            
+              <li class="navbar-item">
+                
+                <a class="nav-link" href="/">Home</a>
+              </li>
+            
+          
+            
+              <li class="navbar-item">
+                
+                <a class="nav-link" href="/publications/">Publications</a>
+              </li>
+            
+          
+            
+              <li class="navbar-item">
+                
+                <a class="nav-link" href="/blog/">Blog</a>
+              </li>
+            
+          
+            
+              <li class="navbar-item">
+                
+                <a class="nav-link" href="https://scholar.google.co.id/citations?user=giSF20kAAAAJ&hl=en" target="_blank">Google Scholar</a>
+              </li>
+            
+          
+            
+              <li class="navbar-item">
+                
+                <a class="nav-link" href="https://www.linkedin.com/in/gusti-alfarisy/" target="_blank">LinkedIn</a>
+              </li>
+            
+          
+        </ul>
+      </div>
+    
+  </div>
+</nav>
+
+
+    <main>
+      
+
+  <header class="header bg-image" style="background-image: url('https://miro.medium.com/v2/resize:fit:640/format:webp/1*TpKcWL4A90smnEGh9CuBqQ.png')">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 col-lg-8 position-relative mx-auto">
+          <h1>DBSCAN - Metode Clustering pada Data Berpotensi Noise</h1>
+          
+          <div class="lead">
+</div>
+          
+          
+            <p class="meta">
+              <time>January 18, 2023</time>
+              
+                &bull; Gusti Ahmad Fanshuri Alfarisy
+              
+            </p>
+          
+
+          <div class="tags">
+            
+              
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </header>
+
+
+      <div class="container content">
+          
+        <div class="row">
+  
+  <div class="col-md-10 col-lg-8 order-lg-first mx-auto">
+
+    <p>Density-based Spatial Clustering of Applications with Noise (DBSCAN) merupakan salah satu teknik clustering yang banyak digunakan dalam berbagai kasus sains data. Melalui DBSCAN, kita dapat memitigasi masukknya noise menjadi bagian dari suatu kluster. Berbeda dengan K-means yang mengharuskan adanya jumlah kluster terlebih dahulu, DBSCAN melalui estimasi kepadatan pada titik data dapat menemukan jumlah klusternya sendiri. Tergantung kasus, DBSCAN bisa menjadi pilihan yang cocok.</p>
+
+<p>Please visit the following links for more information: <a href="https://alfarisy.medium.com/dbscan-metode-clustering-pada-data-berpotensi-noise-fc5be4df7849" target="_blank">click here - my medium page</a></p>
+
+
+    
+      <div id="disqus_thread"></div>
+      <script>
+        // Configuration variables: https://disqus.com/admin/universalcode/#configuration-variables
+        var disqus_config = function () {
+          this.page.url = "http://localhost:4000/blog/2023/dbscan/";
+        };
+        (function() { // Don't edit below this line
+          var d = document, s = d.createElement("script");
+          s.src = "https://disqus_sitename.disqus.com/embed.js";
+          s.setAttribute("data-timestamp", +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+    
+  </div>
+</div>
+
+
+      </div>
+    </main>
+
+    <footer class="d-print-none">
+  <div class="container">
+    <div class="row">
+      
+        <div class="col-lg">
+          <ul class="list-inline">
+<!--            -->
+<!--              <li class="list-inline-item">-->
+<!--                <a href="mailto:name@example.com">-->
+<!--                  <span class="fa-stack fa-lg">-->
+<!--                    <i class="fas fa-circle fa-stack-2x"></i>-->
+<!--                    <i class="far fa-envelope fa-stack-1x fa-inverse"></i>-->
+<!--                  </span>-->
+<!--                </a>-->
+<!--              </li>-->
+<!--            -->
+
+<!--            -->
+<!--              <li class="list-inline-item">-->
+<!--                <a href="https://twitter.com/peterdesmet">-->
+<!--                  <span class="fa-stack fa-lg">-->
+<!--                    <i class="fas fa-circle fa-stack-2x"></i>-->
+<!--                    <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>-->
+<!--                  </span>-->
+<!--                </a>-->
+<!--              </li>-->
+<!--            -->
+
+<!--            -->
+<!--              <li class="list-inline-item">-->
+<!--                <a rel="me" href="https://mastodon.social/@mastodon_username">-->
+<!--                  <span class="fa-stack fa-lg">-->
+<!--                    <i class="fas fa-circle fa-stack-2x"></i>-->
+<!--                    <i class="fab fa-mastodon fa-stack-1x fa-inverse"></i>-->
+<!--                  </span>-->
+<!--                </a>-->
+<!--              </li>-->
+<!--            -->
+
+<!--            -->
+
+<!--            -->
+<!--              <li class="list-inline-item">-->
+<!--                <a href="https://github.com/github_username">-->
+<!--                  <span class="fa-stack fa-lg">-->
+<!--                    <i class="fas fa-circle fa-stack-2x"></i>-->
+<!--                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>-->
+<!--                  </span>-->
+<!--                </a>-->
+<!--              </li>-->
+<!--            -->
+
+<!--            -->
+<!--              <li class="list-inline-item">-->
+<!--                <a href="http://localhost:4000/feed.xml">-->
+<!--                  <span class="fa-stack fa-lg">-->
+<!--                    <i class="fas fa-circle fa-stack-2x"></i>-->
+<!--                    <i class="fas fa-rss fa-stack-1x fa-inverse"></i>-->
+<!--                  </span>-->
+<!--                </a>-->
+<!--              </li>-->
+<!--            -->
+          </ul>
+        </div>
+      
+
+      
+    </div>
+
+    <div class="small mt-2">
+      
+        <p>© Gusti Ahmad Fanshuri Alfarisy</p>
+      
+      
+      
+        
+<!--        <p>-->
+<!--          <a href="https://github.com/gusti-alfarisy/gusti-alfarisy.github.io/edit/main/_posts/2023-01-18-dbscan.md">-->
+<!--            <i class="fas fa-edit"></i> Edit this page-->
+<!--          </a>-->
+<!--        </p>-->
+      
+    </div>
+  </div>
+</footer>
+
+<script src="/assets/theme/js/anchor.min.js"></script>
+<script>
+  // Show anchors when hovering over headings, using anchor.js
+  (function () {
+    const headings = ".content h2[id], .content h3[id], .content h4[id], .content h5[id], .content h6[id]";
+    anchors.options = { placement: "right" };
+    anchors.add(headings);
+  })();
+</script>
+
+
+  </body>
+</html>

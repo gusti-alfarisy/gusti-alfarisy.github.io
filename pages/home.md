@@ -43,7 +43,7 @@ Current AI models demonstrate outstanding capabilities, yet they often struggle 
 1. Open-Set Recognition for AI-Generated Image Detection
 2. Open-Set Recognition for Palm Oil Disease Detection
 
-### Open-World Lifelong Learning for Biodiversity Monitoring
+### Open-World Lifelong Learning for Borneo Biodiversity Monitoring
 
 In a world teeming with diverse ecosystems, continuous and adaptive biodiversity monitoring is vital, as biodiversity plays a crucial role in our sustainability as humans. Open-world lifelong learning offers an innovative approach to monitoring that evolves alongside the environment. Unlike traditional models, which require retraining with new data and struggle to identify unknown classes, open-world lifelong learning systems autonomously learn and adapt over time, recognizing and integrating new species and ecological changes without restarting from scratch. The primary challenge lies in mitigating catastrophic interference to achieve true open-world capability.
 
