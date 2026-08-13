@@ -18,7 +18,7 @@ print("Greetings from Borneo Islands...!")
 
 <h2 class="profile-name">Gusti Ahmad Fanshuri Alfarisy, Ph.D.</h2>
 
-*AI Researcher | Lecturer | Environmental Intelligence | Open-World Lifelong Machine Learning* 
+*AI Researcher; Lecturer; Environmental Intelligence; Open-World Lifelong Machine Learning* 
 
 > **Developing adaptive AI and environmental informatics for biodiversity conservation and sustainable agriculture**
 
@@ -36,7 +36,7 @@ print("Greetings from Borneo Islands...!")
 <!-- <a href="/#" class="button">Publication</a>
 <a href="/#" class="button">EAIR Lab</a> -->
 ___
-## Research Agendas
+<!-- ## Research Agendas
 
 ![Current research agendas](assets/theme/images/main_illustration_final.png)
 > **We have experienced the outstanding performance of artificial intelligence surpassing human capability. Yet, they are unable to acknowledge fully that they do not know and learn the novel phenomenon continuously like humans. In my current research agenda, I am exploring a technique to enhance an agent to identify unknown categories and learn them continuously in domain-specific problem.  This will make the agent become reliable and able to adapt to the open-world environment in the agent interest only. The applications can be applied to ecology, agriculture, healthcare, robotics, chatbot systems or intelligent systems. We named this as _Domain-Specific Open-World Recognition_.**
@@ -105,4 +105,4 @@ In a world teeming with diverse ecosystems, continuous and adaptive biodiversity
 [//]: # (### Biodiversity and Forestry Portal in Borneo)
 
 [//]: # ()
-[//]: # (This project is carried out to create a comprehensive digital platform that integrates data, tools, and services to support biodiversity conservation and sustainable forestry management in the island of Borneo. The portal will serve as a centralized hub for researchers, policymakers, and local communities by providing access to species distribution data, forest cover maps, and real-time monitoring of deforestation or biodiversity. It will also enable the integration of AI-powered features, such as automated species identification and predictive models for forest health assessment. In the long term, the portal is envisioned as an open-access platform that facilitates collaboration, promotes public awareness, and contributes to balancing ecological conservation with economic development in the region.)
+[//]: # (This project is carried out to create a comprehensive digital platform that integrates data, tools, and services to support biodiversity conservation and sustainable forestry management in the island of Borneo. The portal will serve as a centralized hub for researchers, policymakers, and local communities by providing access to species distribution data, forest cover maps, and real-time monitoring of deforestation or biodiversity. It will also enable the integration of AI-powered features, such as automated species identification and predictive models for forest health assessment. In the long term, the portal is envisioned as an open-access platform that facilitates collaboration, promotes public awareness, and contributes to balancing ecological conservation with economic development in the region.) -->
