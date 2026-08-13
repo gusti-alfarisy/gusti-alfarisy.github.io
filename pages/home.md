@@ -16,9 +16,11 @@ print("Greetings from Borneo Islands...!")
 
 ![My picture - Gusti Ahmad Fanshuri Alfarisy](assets/theme/images/profil_pic_me.png "Hello"){:class="profil-picture"}
 
-<h2 class="profile-name">Gusti Ahmad Fanshuri Alfarisy, Ph.D.</h2>
+**Gusti Ahmad Fanshuri Alfarisy, Ph.D.**
+{: style="text-align:center;"}
 
 *AI Researcher; Lecturer; Environmental Intelligence; Open-World Lifelong Machine Learning* 
+{: style="text-align:center;"}
 
 > **Developing adaptive AI and environmental informatics for biodiversity conservation and sustainable agriculture**
 
