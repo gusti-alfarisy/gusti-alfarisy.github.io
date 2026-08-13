@@ -8,14 +8,23 @@ permalink: /
 
 [//]: # ([Petridish]&#40;https://github.com/peterdesmet/petridish&#41; is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly &#40;thanks to [Bootstrap 5]&#40;https://getbootstrap.com/docs/5.1/&#41;&#41;, free, easy to customize, and designed to work well with [GitHub Pages]&#40;https://pages.github.com/&#41;.)
 
-```python
+<!-- ```python
 from world import netizens
 print("Hello world!")
 print("Greetings from Borneo Islands...!")
-```
+``` -->
 
 ![My picture - Gusti Ahmad Fanshuri Alfarisy](assets/theme/images/profil_pic_me.png "Hello"){:class="profil-picture"}
 
+**Gusti Ahmad Fanshuri Alfarisy, Ph.D.**
+
+*AI Researcher | Lecturer | Environmental Intelligence | Open-World Lifelong Machine Learning* 
+
+> **Developing adaptive AI and environmental informatics for biodiversity conservation and sustainable agriculture**
+
+<a href="/#" class="button">About</a>
+<a href="/#" class="button">Publication</a>
+<a href="/#" class="button">EAIR Lab</a>
 ___
 ## Research Agendas
 
@@ -24,14 +33,14 @@ ___
 
 We are interested in the domain-specific open-world recognition problems in **Biodiversity Monitoring and Conservation**, **Autonomous Agroecology System**, and **Lifelong Chatbot**.
 
-## Short Biography
+<!-- ## Short Biography
 
 Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknologi Kalimantan at the Department of Informatics. I have been teaching several topics including algorithms and programming languages, data structures, functional programming, numerical methods, machine learning, artificial intelligence, deep learning, web intelligence, and software engineering. I have reviewed several articles in Springer and Elsevier Journals. My research interest includes:
 
 - Open-World Lifelong Machine Learning (OWLML)
 - Autonomous Agroecologcal System
 - Autonomous Biodiversity Monitoring
-- OWLML for Knowledge Management Systems
+- OWLML for Knowledge Management Systems -->
 
 ## Main Projects
 
