@@ -54,31 +54,6 @@ Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknol
 - Autonomous Biodiversity Monitoring
 - OWLML for Knowledge Management Systems -->
 
-## Main Projects
-
-### Domain-Specific Open-World Lifelong Artificial Intelligence
-
-Current AI models demonstrate outstanding capabilities, yet they often struggle in non-stationary environments. This limitation can lead to unreliable outputs or hallucinated predictions. Therefore, developing AI systems that can adapt to continuously changing environments, especially for domain-specific tasks, is crucial for improving efficiency and achieving more targeted outcomes. In this project, we explore AI models that integrate open-set recognition, active learning, continual learning, and novel class discovery across different modalities, such as vision and text.
-
-*Students Ongoing projects*
-
-1. Open-Set Recognition for AI-Generated Image Detection
-2. Open-Set Recognition for Palm Oil Disease Detection
-
-### Open-World Lifelong Learning for Borneo Biodiversity Monitoring
-
-In a world teeming with diverse ecosystems, continuous and adaptive biodiversity monitoring is vital, as biodiversity plays a crucial role in our sustainability as humans. Open-world lifelong learning offers an innovative approach to monitoring that evolves alongside the environment. Unlike traditional models, which require retraining with new data and struggle to identify unknown classes, open-world lifelong learning systems autonomously learn and adapt over time, recognizing and integrating new species and ecological changes without restarting from scratch. The primary challenge lies in mitigating catastrophic interference to achieve true open-world capability.
-
-*Ongoing research*
-
-1. Open-Set recognition with continual learning capability for plant species classification
-
-*Students Ongoing projects*
-
-1. Active Learning Strategies for Plant Species Classification
-2. An Integrated Biodiversity and Forestry Portal for Borneo
-3. Large-Scale Open-Set Plant-Species Recognition using Lightweight Deep-Learning Models
-
 [//]: # (### Adaptive Hybrid Multi-Modal RAG for Open-World Environments via Lifelong Learning)
 
 [//]: # ()
