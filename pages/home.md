@@ -22,6 +22,9 @@ print("Greetings from Borneo Islands...!")
 *AI Researcher; Lecturer; Environmental Intelligence; Open-World Lifelong Machine Learning* 
 {: style="text-align:center;"}
 
+Environmental and Agroecological Informatics Research Group (EAIR Lab)
+{: style="text-align:center;"}
+
 > **Developing adaptive AI and environmental informatics for biodiversity conservation and sustainable agriculture**
 
 [About](/#)
