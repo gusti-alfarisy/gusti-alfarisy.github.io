@@ -18,15 +18,13 @@ print("Greetings from Borneo Islands...!")
 
 **Gusti Ahmad Fanshuri Alfarisy, Ph.D.**
 {: style="text-align:center;"}
-**AI Researche . Lecturer . AI Consultant . Research Mentor for AI Topics;**
+**AI Researche . Lecturer . AI Consultant . Research Mentor for AI Topics**
 {: style="text-align:center;"}
 *Environmental Intelligence . Open-World Lifelong Machine Learning . Applied Artificial Intelligence* 
 {: style="text-align:center;"}
 
 **EAIR Lab**
-{: style="text-align:center;"}
 Environmental and Agroecological Informatics Research Group (EAIR Lab)
-{: style="text-align:center;"}
 
 > **Developing adaptive AI and environmental informatics for biodiversity conservation and sustainable agriculture**
 
