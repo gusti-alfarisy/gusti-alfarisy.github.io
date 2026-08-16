@@ -18,7 +18,7 @@ print("Greetings from Borneo Islands...!")
 
 **Gusti Ahmad Fanshuri Alfarisy, Ph.D.**
 {: style="text-align:center;"}
-**AI Researche . Lecturer . AI Consultant . Research Mentor for AI Topics**
+**AI Researcher . Lecturer . AI Consultant . Research Mentor for AI Topics**
 {: style="text-align:center;"}
 *Environmental Intelligence . Open-World Lifelong Machine Learning . Applied Artificial Intelligence* 
 {: style="text-align:center;"}
