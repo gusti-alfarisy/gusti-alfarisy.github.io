@@ -23,8 +23,8 @@ print("Greetings from Borneo Islands...!")
 *Environmental Intelligence . Open-World Lifelong Machine Learning . Applied Artificial Intelligence* 
 {: style="text-align:center;"}
 
-**EAIR Lab**
-Environmental and Agroecological Informatics Research Group (EAIR Lab)
+<!-- **EAIR Lab**
+Environmental and Agroecological Informatics Research Group (EAIR Lab) -->
 
 > **Developing adaptive AI and environmental informatics for biodiversity conservation and sustainable agriculture**
 
