@@ -17,6 +17,7 @@ Topics:
 - Pure Functions
 - Immutability
 - Benefits
+- Final Project, Class A: Smart Soil IoT and KalimantanBio Knowledge Explorer; Class B: Aerial Analytics Platform
 
 ---
 
@@ -27,13 +28,13 @@ Topics:
 - Variables
 - Function Abstraction
 - Function Application
-- Alpha, Beta, and Eta Reduction
+- Alpha Conversion, Beta Reduction, and Eta Reduction
 - Boolean Logic
 
 ---
 
 ### Week 3: Higher-Order Functions in Lambda Calculus
-[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln3-fp-hop-lambda-calculus/)
+<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln3-fp-hop-lambda-calculus/) -->
 
 Topics:
 - Church Encoding
@@ -43,7 +44,7 @@ Topics:
 ---
 
 ### Week 4: Recursion and Fixed-Point Combinators
-[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln4-fp-recursion/)
+<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln4-fp-recursion/) -->
 
 Topics:
 - Recursive Functions
@@ -53,7 +54,7 @@ Topics:
 ---
 
 ### Week 5: Functional Programming in Python
-[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln5-functional-programming-python/)
+<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln5-functional-programming-python/) -->
 
 Topics:
 - Lambda Functions
@@ -70,10 +71,8 @@ Topics:
 Topics:
 - `itertools`
 - `functools`
-- `map()`
-- `filter()`
-- `reduce()`
 - `partial()`
+- Exercises
 
 ---
 
@@ -141,21 +140,27 @@ Topics:
 
 ---
 
-### Week 13: AI-Assisted Functional Software Development (Vibe Coding)
+### Week 13: Agentic Functional Software Development
 
 Topics:
-- Introduction to Vibe Coding
-- Prompt Engineering for Functional Programming
-- AI-Assisted Code Generation
-- AI-Assisted Debugging
-- AI-Assisted Refactoring
-- AI-Assisted Testing
-- Human-in-the-Loop Code Review
-- Responsible AI Usage in Software Development
+- Introduction to Agentic Coding
+- From AI Coding Assistants to Coding Agents
+- Task Specification and Context Engineering
+- Agentic Code Generation in Rust
+- Agentic Debugging and Error Resolution
+- Agentic Refactoring
+- Agent-Generated Testing and Validation
+- Human–Agent Collaboration and Code Review
+- Verifying AI-Generated Code
+- Responsible Use of Coding Agents
 
-Activities:
-- Build a small Rust application using an AI coding assistant.
-- Critically evaluate, verify, and improve AI-generated code.
+<!-- Activities:
+- Build or extend a small Rust application using an AI coding agent.
+- Provide the agent with requirements, constraints, and relevant project context.
+- Delegate implementation, debugging, testing, and refactoring tasks to the agent.
+- Inspect and verify the agent's changes rather than accepting them automatically.
+- Identify violations of functional programming principles and instruct the agent to improve them.
+- Reflect on which decisions should be delegated to the agent and which should remain under human control. -->
 
 ---
 
@@ -180,5 +185,10 @@ Deliverables:
 ---
 
 ### Week 16: Final Exam (Project Presentation)
+
+
+- Presentation
+- Code
+- And Final Technical Report
 
 Good Luck!
