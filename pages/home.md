@@ -46,53 +46,40 @@ Environmental and Agroecological Informatics Research Group (EAIR Lab) -->
 [Collaboration](/#)
 {: .button}
 
-<!-- <a href="/#" class="button">About</a> -->
 
-<!-- <a href="/#" class="button">Publication</a>
-<a href="/#" class="button">EAIR Lab</a> -->
-___
-<!-- ## Research Agendas
+## Current Research
 
-![Current research agendas](assets/theme/images/main_illustration_final.png)
-> **We have experienced the outstanding performance of artificial intelligence surpassing human capability. Yet, they are unable to acknowledge fully that they do not know and learn the novel phenomenon continuously like humans. In my current research agenda, I am exploring a technique to enhance an agent to identify unknown categories and learn them continuously in domain-specific problem.  This will make the agent become reliable and able to adapt to the open-world environment in the agent interest only. The applications can be applied to ecology, agriculture, healthcare, robotics, chatbot systems or intelligent systems. We named this as _Domain-Specific Open-World Recognition_.**
+My current research focuses on three interconnected areas:
 
-We are interested in the domain-specific open-world recognition problems in **Biodiversity Monitoring and Conservation**, **Autonomous Agroecology System**, and **Lifelong Chatbot**.
+- **Open-World Lifelong Artificial Intelligence**  
+  Developing intelligent systems capable of recognizing unknown information and continuously learning from new data.
 
-<!-- ## Short Biography
+- **Biodiversity Informatics**  
+  Applying AI and computational methods to species recognition, biodiversity knowledge systems, and ecological data.
 
-Hi, greetings from Borneo Island! I am an assistant professor at Institut Teknologi Kalimantan at the Department of Informatics. I have been teaching several topics including algorithms and programming languages, data structures, functional programming, numerical methods, machine learning, artificial intelligence, deep learning, web intelligence, and software engineering. I have reviewed several articles in Springer and Elsevier Journals. My research interest includes:
+- **Environmental & Agroecological Intelligence**  
+  Developing sensing, geospatial, and intelligent systems for environmental monitoring and sustainable agroecosystems.
 
-- Open-World Lifelong Machine Learning (OWLML)
-- Autonomous Agroecologcal System
-- Autonomous Biodiversity Monitoring
-- OWLML for Knowledge Management Systems -->
+## Featured Projects
 
-[//]: # (### Adaptive Hybrid Multi-Modal RAG for Open-World Environments via Lifelong Learning)
+### KalimantanBio
+A biodiversity information and knowledge platform for species found in Kalimantan.
 
-[//]: # ()
-[//]: # (Ongoing:)
+[Explore KalimantanBio →](https://kalimantanbio.com/)
 
-[//]: # ()
-[//]: # (1. Advanced RAG for academic information)
+### Open-World Lifelong Plant Recognition
+AI research on recognizing known species, detecting unknown species, and continuously learning new plant species.
 
-[//]: # (### Open-World Detection of LLM-Generated Content)
+[Try the Plant Identifier →](https://kalimantanbio.com/identifier/)
 
-[//]: # ()
-[//]: # (With the rapid advancement of Large Language Models &#40;LLMs&#41;, an increasing amount of AI-generated and potentially misleading content has emerged online. As LLMs continuously evolve and improve their generalization capabilities, detecting machine-generated content becomes increasingly challenging in dynamic and open environments. This project aims to address this issue by leveraging open-world and lifelong learning approaches to develop adaptive detection systems capable of identifying LLM-generated content under continuously changing conditions.)
+<!-- ### Smart Soil IoT
+Low-cost sensing and environmental monitoring for tropical and wetland agroecosystems.
 
-[//]: # ()
-[//]: # (Ongoing:)
+### Aerial Analytics
+AI and geospatial analytics for environmental monitoring using drone and aerial imagery. -->
 
-[//]: # ()
-[//]: # (1. Open-Set Recognition for AI-Generated Image Detection)
+## EAIR Research Group
 
-[//]: # (### Lifelong Learning Chatbot for Academic Services and SMEs)
+The Environmental & Agroecological Informatics Research Group (EAIR) brings together research and student projects at the intersection of Artificial Intelligence, biodiversity, environmental informatics, and agroecology.
 
-[//]: # ()
-[//]: # (This project aims to develop a chatbot that continuously learns and evolves to support both academic and business contexts. In its initial stage, the chatbot will focus on providing accurate and reliable academic information within a university setting, such as course schedule and policy updates. Over time, it is envisioned to go beyond simple question answering by integrating with institutional APIs, enabling users to perform tasks such as course registration, document submission, and other administrative processes directly through natural conversation. In parallel, the chatbot will be extended to serve small and medium-sized enterprises &#40;SMEs&#41;. This lifelong learning approach ensures that the chatbot remains up-to-date, context-aware, and adaptable to evolving academic and business needs.)
-
-[//]: # ()
-[//]: # (### Biodiversity and Forestry Portal in Borneo)
-
-[//]: # ()
-[//]: # (This project is carried out to create a comprehensive digital platform that integrates data, tools, and services to support biodiversity conservation and sustainable forestry management in the island of Borneo. The portal will serve as a centralized hub for researchers, policymakers, and local communities by providing access to species distribution data, forest cover maps, and real-time monitoring of deforestation or biodiversity. It will also enable the integration of AI-powered features, such as automated species identification and predictive models for forest health assessment. In the long term, the portal is envisioned as an open-access platform that facilitates collaboration, promotes public awareness, and contributes to balancing ecological conservation with economic development in the region.) -->
+[Explore EAIR →](/eair/)
