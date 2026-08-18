@@ -8,7 +8,9 @@
   href: /team/
 - text: Blog
   href: /blog/
-- text: Course
+- text: Research Group
+  href: /eair/
+- text: Univ. Course
   menu: # Dropdown menu (one level deep only)
   # - text: 'Web Intelligence'
   #   href: /mk/web2026/
@@ -30,10 +32,20 @@
 #- text: GitHub
 #  href: https://github.com/peterdesmet/petridish/
 #  new_window: true
-
-- text: Google Scholar
-  href: https://scholar.google.co.id/citations?user=giSF20kAAAAJ&hl=en
-  new_window: true
-- text: LinkedIn
-  href: https://www.linkedin.com/in/gusti-alfarisy/
-  new_window: true
+- text: Profiles
+  menu:
+    - text: Google Scholar
+      href: https://scholar.google.co.id/citations?user=giSF20kAAAAJ&hl=en
+      new_window: true
+    - text: ORCID
+      href: https://orcid.org/0000-0002-0689-7002
+      new_window: true
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/gusti-alfarisy/
+      new_window: true
+# - text: Google Scholar
+#   href: https://scholar.google.co.id/citations?user=giSF20kAAAAJ&hl=en
+#   new_window: true
+# - text: LinkedIn
+#   href: https://www.linkedin.com/in/gusti-alfarisy/
+#   new_window: true
