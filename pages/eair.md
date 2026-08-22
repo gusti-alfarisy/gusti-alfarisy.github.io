@@ -5,7 +5,7 @@ permalink: /eair/
 
 # Environmental & Agroecological Informatics Research Group
 
-**EAIR** is an emerging academic research group exploring the intersection of Artificial Intelligence, Environmental Informatics, Biodiversity Informatics, and Agroecology**.
+**EAIR** is an emerging academic research group exploring the intersection of Artificial Intelligence, Environmental Informatics, Biodiversity Informatics, and Agroecology.
 
 The group brings together research and student projects that apply computational methods to real-world environmental and agroecological challenges, particularly those relevant to **Kalimantan (Borneo)** and tropical ecosystems.
 
