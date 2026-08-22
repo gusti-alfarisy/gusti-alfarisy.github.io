@@ -37,13 +37,13 @@ Environmental and Agroecological Informatics Research Group (EAIR Lab) -->
 [EAIR Group](/eair/)
 {: .button}
 
-[Consultation](/#)
+[Consultation](/consult/)
 {: .button}
 
-[Research Mentoring](/#)
+[Research Mentoring](/mentor/)
 {: .button}
 
-[Collaboration](/#)
+[Collaboration](/collaboration/)
 {: .button}
 
 

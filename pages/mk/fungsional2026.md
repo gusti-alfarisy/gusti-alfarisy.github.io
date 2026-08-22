@@ -1,16 +1,14 @@
 ---
 title: Functional Programming
 description: Functional Programming Syllabus 2026
-background: "https://spectrum.ieee.org/media-library/ferris-the-crab-known-as-the-unofficial-mascot-for-rust-s-programming-language-against-an-abstract-background-of-code.jpg"
+background: "https://cdn.buttercms.com/X7Y2vLTSrqqzljcievZr"
 permalink: /mk/fungsional2026/
 toc: true
 ---
 # Functional Programming
 
-Lecture Notes (LN)
-
 ### Week 1: Introduction to Functional Programming
-[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln1-fp-introduction/)
+<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln1-fp-introduction/) -->
 
 Topics:
 - Imperative vs. Functional Programming
@@ -22,7 +20,7 @@ Topics:
 ---
 
 ### Week 2: Introduction to Lambda Calculus
-[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln2-fp-lambda-calculus/)
+<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln2-fp-lambda-calculus/) -->
 
 Topics:
 - Variables
@@ -66,7 +64,7 @@ Topics:
 ---
 
 ### Week 6: Functional Programming Utilities in Python
-[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln6-fp-itertools-functools/)
+<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln6-fp-itertools-functools/) -->
 
 Topics:
 - `itertools`
