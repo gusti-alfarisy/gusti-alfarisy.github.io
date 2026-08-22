@@ -5,6 +5,8 @@ background:
 permalink: /consult/
 ---
 
+Bahasa: [Versi Bahasa Indonesia](/id/consult/)
+
 # AI Consultation & Research Services
 
 I provide consultation and technical support in *Artificial Intelligence, Machine Learning, and AI-driven research* with particular interest in computer vision, open-world learning, biodiversity, environmental informatics,agroecological applications, and applied AI in any fields
@@ -112,4 +114,4 @@ Research mentoring does not include ghostwriting or guaranteeing publication. Th
 
 If you have a research problem, dataset, or project idea and would like to explore how AI can be applied to it, feel free to contact me.
 
-[Contact Me](/contact/)
+You can contact me via [My LinkedIn](https://www.linkedin.com/in/gusti-alfarisy/) or send me an email directly at gusti.alfarisy[at]gmail.com.

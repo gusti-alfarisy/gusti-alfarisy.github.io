@@ -5,6 +5,8 @@ background:
 permalink: /mentor/
 ---
 
+Bahasa: [Versi Bahasa Indonesia](/id/mentor/)
+
 # AI Research Mentoring
 
 I provide one-to-one research mentoring in Artificial Intelligence and Machine Learning for students, researchers, and professionals who need technical guidance throughout their research journey.
@@ -134,5 +136,5 @@ If you are working on an AI-related research problem and would like an independe
 
 When contacting me, briefly describe your research topic, current research stage, and the main problem you would like to discuss.
 
-[Contact Me](/contact/)
+You can contact me via [My LinkedIn](https://www.linkedin.com/in/gusti-alfarisy/) or send me an email directly at gusti.alfarisy[at]gmail.com.
 
