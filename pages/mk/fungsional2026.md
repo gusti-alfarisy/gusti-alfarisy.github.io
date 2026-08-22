@@ -17,6 +17,8 @@ Topics:
 - Benefits
 - Final Project, Class A: Smart Soil IoT and KalimantanBio Knowledge Explorer; Class B: Aerial Analytics Platform
 
+[Project-Based Learning Information](https://gusti-alfarisy.github.io/blog/2026/pbl-fp-2026/)
+
 ---
 
 ### Week 2: Introduction to Lambda Calculus
