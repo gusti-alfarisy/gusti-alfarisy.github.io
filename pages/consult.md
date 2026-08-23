@@ -9,88 +9,81 @@ Bahasa: [Versi Bahasa Indonesia](/id/consult/)
 
 # AI Consultation & Research Services
 
-I provide consultation and technical support in *Artificial Intelligence, Machine Learning, and AI-driven research* with particular interest in computer vision, open-world learning, biodiversity, environmental informatics,agroecological applications, and applied AI in any fields
+I provide consultation and technical support in Artificial Intelligence, Machine Learning, and AI-driven research, with particular expertise in computer vision, open-world learning, biodiversity informatics, environmental and agroecological applications, and applied AI across different domains.
 
-My consultation services are intended for **researchers, students, research groups, institutions, and organizations** seeking technical guidance, research collaboration, or AI-based solutions.
+My services are intended for researchers, students, research groups, institutions, companies, and organizations seeking expert guidance, data and AI analytics, AI strategy and readiness assessment, research support, or the development of AI prototypes and proof-of-concept solutions.
 
 ---
 
-## AI Research Consultation
 
-Support for researchers and students working on AI and machine learning research.
+## AI Strategy & Readiness
+
+Consultation for organizations exploring how Artificial Intelligence and Machine Learning can be effectively applied to their operations, data, products, or services.
+
+The consultation can help organizations assess their current AI readiness, identify realistic AI opportunities, and determine appropriate next steps before investing in AI development.
 
 Potential services include:
 
-- Research problem formulation and methodology discussion
-- Machine learning and deep learning model selection
-- Experimental design and evaluation strategies
-- Open-set and open-world recognition
-- Continual and lifelong machine learning
-- Computer vision and image classification
-- Edge AI and lightweight deep learning
-- Interpretation and analysis of experimental results
-- Research prototype development
+- AI readiness assessment
+- AI opportunity and use-case identification
+- Data readiness assessment
+- AI feasibility assessment
+- AI solution recommendations
+- Technology and model recommendations
+- Build-vs-buy considerations
+- AI implementation roadmap
+- Evaluation of existing AI initiatives
+- Generative and Agentic AI opportunity assessment
+- AI adoption and research strategy
 
-The consultation focuses on helping researchers develop **technically sound and reproducible AI experiments**.
+The objective is not to introduce AI simply because it is available, but to determine **where AI can provide meaningful value, whether the organization is ready to implement it, and what approach is technically and operationally appropriate**.
 
 ---
 
+## Data & AI Analytics
 
-## Data & Experimental Analysis
-
-Technical assistance for extracting meaningful information from research datasets and experimental results.
+Technical assistance for extracting meaningful insights from organizational, research, and experimental data to support analysis, evaluation, and decision-making.
 
 Potential services include:
 
 - Exploratory Data Analysis (EDA)
 - Data preprocessing and quality assessment
 - Statistical and machine learning analysis
+- Predictive and pattern analysis
 - Model performance evaluation
 - Comparative model analysis
-- Visualization of experimental results
+- Data visualization and analytical reporting
 - Reproducible computational workflows
-- Interpretation of AI/ML experimental results
-
+- Interpretation of AI/ML analytical results
+- Recommendations based on analytical findings
+  
 ---
 
-## AI Prototype & Research System Development
+## AI Prototype & Proof-of-Concept Development
 
-Consultation and development support for research-oriented AI prototypes.
+Consultation and development support for organizations, research teams, and professionals seeking to explore, validate, or demonstrate AI-based solutions before full-scale implementation.
 
-Examples include:
+Potential solutions include:
 
 - Computer vision systems
-- Intelligent search systems
-- AI-powered research tools
-- Biodiversity information systems
-- Edge AI prototypes
-- Environmental monitoring systems
-- AI agents and tool-using AI systems
-- Research dashboards and analytical platforms
+- Intelligent search and information retrieval
+- AI-powered analytical tools
+- Generative and Agentic AI applications
+- Edge AI solutions
+- Environmental and agricultural monitoring systems
+- AI agents and workflow automation
+- Data analytics and decision-support dashboards
 
-The emphasis is on **research prototypes, proof-of-concept systems, and scientifically evaluable solutions**, rather than general-purpose software development.
+The development process may include:
 
----
+- Problem and use-case definition
+- Technical feasibility assessment
+- Prototype development
+- Model evaluation and validation
+- Proof-of-concept (PoC) development
+- Recommendations for further development and deployment
 
-<!-- ## Environmental & Agroecological AI
-
-AI and data-driven solutions for environmental, biodiversity, and agricultural applications.
-
-Potential areas include:
-
-- Biodiversity informatics
-- Plant species recognition
-- Environmental monitoring
-- Soil monitoring and intelligent agriculture
-- IoT-based environmental sensing
-- Drone and aerial image analytics
-- Remote sensing and environmental data analysis
-- Edge AI for field applications
-- Environmental and agroecological decision-support systems
-
-Projects may range from initial feasibility studies to research prototypes and experimental AI systems.
-
---- -->
+The emphasis is on developing practical AI prototypes and proof-of-concept solutions that allow organizations to evaluate technical feasibility and potential value before committing to full-scale implementation.
 
 ## Research Mentoring
 

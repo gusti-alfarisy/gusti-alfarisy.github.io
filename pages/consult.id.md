@@ -5,76 +5,107 @@ background:
 permalink: /id/consult/
 ---
 
-# Konsultasi AI & Layanan Riset
+# Layanan Konsultasi AI & Riset
 
-Saya menyediakan layanan konsultasi dan dukungan teknis dalam bidang *Kecerdasan Buatan, Pembelajaran Mesin, dan riset berbasis AI*, dengan fokus pada visi komputer, pembelajaran open-world, biodiversitas, informatika lingkungan, aplikasi agroekologi, dan penerapan AI lainnya.
+Saya menyediakan layanan konsultasi dan dukungan teknis di bidang Artificial Intelligence (AI), Machine Learning, dan riset berbasis AI dengan keahlian khusus dalam computer vision, open-world learning, informatika biodiversitas, aplikasi lingkungan dan agroekologi, serta penerapan AI pada berbagai bidang.
 
-Layanan ini ditujukan untuk **peneliti, mahasiswa, kelompok riset, institusi, dan organisasi** yang membutuhkan panduan teknis, kolaborasi riset, atau solusi berbasis AI.
-
----
-
-## Konsultasi Riset AI
-
-Layanan meliputi:
-
-- Perumusan masalah riset dan diskusi metodologi
-- Pemilihan model machine learning dan deep learning
-- Perancangan eksperimen dan strategi evaluasi
-- Open-set dan open-world recognition
-- Continual dan lifelong learning
-- Visi komputer dan klasifikasi citra
-- Edge AI dan model ringan
-- Interpretasi dan analisis hasil eksperimen
-- Pengembangan prototipe riset
-
-Konsultasi difokuskan untuk membantu peneliti mengembangkan eksperimen AI yang **secara teknis kuat dan dapat direproduksi**.
+Layanan ini ditujukan bagi peneliti, mahasiswa, kelompok riset, institusi, perusahaan, dan organisasi yang membutuhkan pendampingan ahli, analitik data dan AI, asesmen strategi dan kesiapan AI, dukungan penelitian, maupun pengembangan prototipe AI dan solusi proof-of-concept.
 
 ---
 
-## Analisis Data & Eksperimen
+## Strategi & Kesiapan AI
 
-Bantuan teknis untuk mengekstraksi informasi dari dataset dan hasil eksperimen.
+Layanan konsultasi bagi perusahaan dan organisasi yang ingin mengeksplorasi bagaimana Artificial Intelligence dan Machine Learning dapat diterapkan secara efektif pada proses operasional, data, produk, maupun layanan.
+
+Konsultasi dapat membantu organisasi menilai tingkat kesiapan dalam mengadopsi AI (*AI readiness*), mengidentifikasi peluang penerapan AI yang realistis, serta menentukan langkah yang tepat sebelum melakukan investasi dalam pengembangan AI.
+
+Layanan yang dapat diberikan meliputi:
+
+- Asesmen kesiapan AI (*AI Readiness Assessment*)
+- Identifikasi peluang dan use case AI
+- Asesmen kesiapan data (*Data Readiness Assessment*)
+- Asesmen kelayakan penerapan AI (*AI Feasibility Assessment*)
+- Rekomendasi solusi AI
+- Rekomendasi teknologi dan model
+- Pertimbangan pengembangan sendiri atau penggunaan solusi yang tersedia (*build vs. buy*)
+- Penyusunan roadmap implementasi AI
+- Evaluasi inisiatif AI yang sedang berjalan
+- Asesmen peluang Generative AI dan Agentic AI
+- Strategi adopsi dan pengembangan AI
+
+Tujuannya bukan sekadar menerapkan AI karena teknologinya tersedia, tetapi untuk menentukan di mana AI dapat memberikan nilai yang nyata, apakah organisasi telah siap mengimplementasikannya, serta pendekatan apa yang paling sesuai secara teknis dan operasional.
+
+---
+
+## Analitik Data & AI
+
+Dukungan teknis untuk memperoleh insight yang bermakna dari data organisasi, penelitian, maupun eksperimen guna mendukung proses analisis, evaluasi, dan pengambilan keputusan.
+
+Layanan yang dapat diberikan meliputi:
 
 - Exploratory Data Analysis (EDA)
-- Pra-pemrosesan data
-- Analisis statistik dan machine learning
+- Preprocessing data dan asesmen kualitas data
+- Analisis statistik dan Machine Learning
+- Analisis prediktif dan pola data
 - Evaluasi performa model
-- Visualisasi hasil eksperimen
-- Alur kerja komputasi yang dapat direproduksi
+- Analisis perbandingan model
+- Visualisasi data dan pelaporan analitik
+- Pengembangan workflow komputasi yang reproducible
+- Interpretasi hasil analisis AI/ML
+- Rekomendasi berdasarkan hasil analisis
 
 ---
 
-## Pengembangan Prototipe atau Model AI
+## Pengembangan Prototipe AI & Proof-of-Concept
 
-Contoh seperti:
+Layanan konsultasi dan dukungan pengembangan bagi organisasi, kelompok riset, dan profesional yang ingin mengeksplorasi, memvalidasi, atau mendemonstrasikan solusi berbasis AI sebelum melakukan implementasi dalam skala penuh.
 
-- Prototipe sistem visi komputer
-- Prototipe sistem pencarian cerdas
-- Prototipe Edge AI
-- Sistem monitoring lingkungan
-- Implementasi Model AI
-- Dokumentasi teknis
+Solusi yang dapat dikembangkan antara lain:
 
-Penekanan pada prototipe riset dan solusi yang dapat dievaluasi secara ilmiah.
+- Sistem computer vision
+- Intelligent search dan information retrieval
+- AI-powered analytical tools
+- Aplikasi Generative AI dan Agentic AI
+- Solusi Edge AI
+- Sistem monitoring lingkungan dan pertanian
+- AI agents dan workflow automation
+- Dashboard analitik data dan decision support
+
+Proses pengembangan dapat meliputi:
+
+- Definisi masalah dan use case
+- Asesmen kelayakan teknis
+- Pengembangan prototipe
+- Evaluasi dan validasi model
+- Pengembangan Proof-of-Concept (PoC)
+- Rekomendasi pengembangan dan deployment lebih lanjut
+
+Fokus layanan ini adalah mengembangkan prototipe AI dan solusi proof-of-concept yang praktis, sehingga organisasi dapat mengevaluasi kelayakan teknis dan potensi manfaat solusi sebelum melakukan investasi untuk implementasi dalam skala penuh.
 
 ---
 
-## Mentoring Riset
+## Pendampingan Riset
 
-Mentoring jangka panjang tersedia untuk mahasiswa dan peneliti yang membutuhkan bimbingan berkelanjutan.
+Pendampingan jangka panjang juga tersedia bagi mahasiswa dan peneliti yang membutuhkan arahan secara berkelanjutan selama menjalankan proyek penelitian terkait AI.
 
-- Diskusi riset berkala
+Pendampingan dapat meliputi:
+
+- Diskusi penelitian secara berkala
 - Pengembangan metodologi
 - Perencanaan eksperimen
 - Diskusi model dan algoritma
 - Interpretasi hasil
+- Penentuan arah riset dan pemecahan masalah
+- Umpan balik teknis terhadap implementasi penelitian
 
-Untuk informasi lebih lanjut, lihat halaman mentor dalam Bahasa Indonesia: [Versi Bahasa Indonesia Mentor](/id/mentor/)
+Pendampingan riset tidak mencakup *ghostwriting* maupun jaminan publikasi. Peneliti tetap bertanggung jawab atas pekerjaan ilmiah dan manuskrip yang dihasilkan.
+
+Informasi selengkapnya dapat dilihat pada [halaman Pendampingan Riset](https://gusti-alfarisy.github.io/id/mentor/).
 
 ---
 
-## Tertarik Bekerja Sama?
+## Tertarik untuk Bekerja Sama?
 
-Jika Anda memiliki masalah riset, dataset, atau ide proyek dan ingin mengeksplorasi penerapan AI, silakan hubungi saya.
+Jika Anda memiliki permasalahan penelitian, dataset, atau ide proyek dan ingin mengeksplorasi bagaimana AI dapat diterapkan untuk membantu menyelesaikannya, silakan menghubungi saya untuk mendiskusikan kebutuhan Anda.
 
-Via [My LinkedIn](https://www.linkedin.com/in/gusti-alfarisy/) atau email saya di gusti.alfarisy[at]gmail.com.
+Anda dapat menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/gusti-alfarisy/) atau mengirimkan email secara langsung ke **gusti.alfarisy[at]gmail.com**.

@@ -112,6 +112,10 @@ A typical 50 minutes session may involve reviewing your current research progres
 
 For ongoing mentoring, progress can be reviewed periodically as experiments and research questions evolve.
 
+For Publication Mentoring, the mentoring process can continue throughout the publication journey, from manuscript assessment and improvement to journal selection, submission preparation, peer review, revision, and resubmission. The mentoring may continue until the manuscript reaches acceptance, subject to the agreed mentoring scope and the progress of the manuscript.
+
+Publication Mentoring does not guarantee acceptance. Editorial and publication decisions remain entirely with the journal's editors and reviewers. The purpose of the mentoring is to help strengthen the manuscript and guide the author through the publication process while maintaining academic and research integrity.
+
 ---
 
 ## Research Integrity

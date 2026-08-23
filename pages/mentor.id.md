@@ -112,6 +112,10 @@ Satu sesi umumnya berlangsung selama **50 menit** dan dapat digunakan untuk meni
 
 Untuk pendampingan berkelanjutan, perkembangan penelitian dapat ditinjau secara berkala seiring dengan berkembangnya eksperimen dan pertanyaan penelitian.
 
+Untuk Pendampingan Publikasi (*Publication Mentoring*), proses pendampingan dapat dilakukan sepanjang perjalanan publikasi, mulai dari penilaian dan perbaikan manuskrip, pemilihan jurnal, persiapan submission, proses peer review, revisi, hingga resubmission. Pendampingan dapat berlanjut hingga manuskrip memperoleh acceptance, sesuai dengan ruang lingkup pendampingan yang telah disepakati dan perkembangan manuskrip.
+
+Pendampingan Publikasi tidak menjamin *acceptance*. Keputusan editorial dan publikasi sepenuhnya berada pada editor dan reviewer jurnal. Tujuan pendampingan adalah membantu memperkuat kualitas manuskrip dan mendampingi penulis dalam menjalani proses publikasi dengan tetap menjaga integritas akademik dan penelitian.
+
 ---
 
 ## Integritas Riset
