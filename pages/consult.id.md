@@ -13,27 +13,20 @@ Layanan ini ditujukan bagi peneliti, mahasiswa, kelompok riset, institusi, perus
 
 ---
 
-## Strategi & Kesiapan AI
+## AI Strategy & Readiness
 
-Layanan konsultasi bagi perusahaan dan organisasi yang ingin mengeksplorasi bagaimana Artificial Intelligence dan Machine Learning dapat diterapkan secara efektif pada proses operasional, data, produk, maupun layanan.
-
-Konsultasi dapat membantu organisasi menilai tingkat kesiapan dalam mengadopsi AI (*AI readiness*), mengidentifikasi peluang penerapan AI yang realistis, serta menentukan langkah yang tepat sebelum melakukan investasi dalam pengembangan AI.
+Konsultasi bagi organisasi yang ingin memahami di mana AI dapat memberikan nilai yang bermakna, apakah organisasi telah siap mengadopsinya, dan bagaimana langkah yang tepat untuk menerapkannya secara efektif.
 
 Layanan yang dapat diberikan meliputi:
 
-- Asesmen kesiapan AI (*AI Readiness Assessment*)
-- Identifikasi peluang dan use case AI
-- Asesmen kesiapan data (*Data Readiness Assessment*)
-- Asesmen kelayakan penerapan AI (*AI Feasibility Assessment*)
-- Rekomendasi solusi AI
-- Rekomendasi teknologi dan model
-- Pertimbangan pengembangan sendiri atau penggunaan solusi yang tersedia (*build vs. buy*)
-- Penyusunan roadmap implementasi AI
-- Evaluasi inisiatif AI yang sedang berjalan
-- Asesmen peluang Generative AI dan Agentic AI
-- Strategi adopsi dan pengembangan AI
-
-Tujuannya bukan sekadar menerapkan AI karena teknologinya tersedia, tetapi untuk menentukan di mana AI dapat memberikan nilai yang nyata, apakah organisasi telah siap mengimplementasikannya, serta pendekatan apa yang paling sesuai secara teknis dan operasional.
+- AI Readiness Assessment: menilai kesiapan organisasi, data, teknologi, SDM, proses, dan tata kelola dalam mengadopsi AI.
+- AI Opportunity & Use-Case Discovery: mengidentifikasi dan memprioritaskan peluang penerapan AI berdasarkan nilai, kelayakan, kesiapan, dan risiko.
+- AI Feasibility Assessment: mengevaluasi apakah use case AI yang diprioritaskan layak diterapkan secara teknis dan operasional.
+- AI Solution & Adoption Strategy: memberikan rekomendasi pendekatan, teknologi, model, arsitektur AI, serta pertimbangan build-vs-buy.
+- AI Implementation Roadmap: menyusun prioritas, inisiatif pilot, kebutuhan kapabilitas, dan tahapan implementasi AI.
+- Existing AI Initiative Evaluation (add-on): mengevaluasi sistem atau inisiatif AI yang telah berjalan serta memberikan rekomendasi pengembangan dan perbaikan.
+- Generative & Agentic AI Assessment (add-on): mengidentifikasi peluang penerapan Generative AI, RAG, AI agents, dan otomatisasi alur kerja berbasis AI.
+- Tujuan layanan ini adalah memberikan arah adopsi AI yang berbasis bukti dan dapat ditindaklanjuti sebelum organisasi mengalokasikan sumber daya yang signifikan untuk pengembangan atau pengadaan solusi AI.
 
 ---
 

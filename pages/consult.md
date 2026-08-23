@@ -18,27 +18,26 @@ My services are intended for researchers, students, research groups, institution
 
 ## AI Strategy & Readiness
 
-Consultation for organizations exploring how Artificial Intelligence and Machine Learning can be effectively applied to their operations, data, products, or services.
-
-The consultation can help organizations assess their current AI readiness, identify realistic AI opportunities, and determine appropriate next steps before investing in AI development.
+Consultation for organizations seeking to understand where AI can create meaningful value, whether the organization is ready to adopt it, and how to move forward effectively.
 
 Potential services include:
 
-- AI readiness assessment
-- AI opportunity and use-case identification
-- Data readiness assessment
-- AI feasibility assessment
-- AI solution recommendations
-- Technology and model recommendations
-- Build-vs-buy considerations
-- AI implementation roadmap
-- Evaluation of existing AI initiatives
-- Generative and Agentic AI opportunity assessment
-- AI adoption and research strategy
-
-The objective is not to introduce AI simply because it is available, but to determine **where AI can provide meaningful value, whether the organization is ready to implement it, and what approach is technically and operationally appropriate**.
+- AI Readiness Assessment: assess organizational, data, technology, people, process, and governance readiness.
+- AI Opportunity & Use-Case Discovery: identify and prioritize realistic AI opportunities based on value, feasibility, readiness, and risk.
+- AI Feasibility Assessment: evaluate whether prioritized AI use cases are technically and operationally feasible.
+- AI Solution & Adoption Strategy: recommend suitable AI approaches, technologies, models, architectures, and build-vs-buy options.
+- AI Implementation Roadmap: define practical priorities, pilot initiatives, capability requirements, and implementation phases.
+- Existing AI Initiative Evaluation (add-on): independently evaluate existing AI systems or initiatives and recommend improvements.
+- Generative & Agentic AI Assessment (add-on): explore specific opportunities for Generative AI, RAG, AI agents, and AI-enabled workflow automation.
+- The objective is to provide an evidence-informed and actionable direction for AI adoption before significant resources are committed to development or procurement.
 
 ---
+
+<!-- The objective is not simply to introduce AI, but to help organizations answer five fundamental questions:
+
+**Are we ready for AI? → Where can AI create value? → Is it feasible? → What approach should we take? → How should we implement it?**
+
+The outcome is a clearer and evidence-informed direction for AI adoption, helping organizations make better decisions **before committing significant resources to AI development or procurement**. -->
 
 ## Data & AI Analytics
 
