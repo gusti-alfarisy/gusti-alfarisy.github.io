@@ -40,6 +40,7 @@ Topics:
 - Function Application
 - Alpha Conversion, Beta Reduction, and Eta Reduction
 - Boolean Logic
+
 ---
 
 ### Week 3: Higher-Order Functions in Lambda Calculus
