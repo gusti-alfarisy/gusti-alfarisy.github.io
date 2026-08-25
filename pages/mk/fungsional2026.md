@@ -7,6 +7,16 @@ toc: true
 ---
 # Functional Programming
 
+## Score Components
+
+- Quiz 1: 5% (week 4)
+- Quiz 2: 5% (week 6)
+- Mid-Term Exam: 25%
+- Rust Presentation: 20%
+- Final Exam: 30%
+- Project Progress 1: 5% (week 5)
+- Project Progress 2: 10% (week 10)
+
 ### Week 1: Introduction to Functional Programming
 [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln1-fp-introduction/)
 
@@ -30,7 +40,6 @@ Topics:
 - Function Application
 - Alpha Conversion, Beta Reduction, and Eta Reduction
 - Boolean Logic
-
 ---
 
 ### Week 3: Higher-Order Functions in Lambda Calculus
