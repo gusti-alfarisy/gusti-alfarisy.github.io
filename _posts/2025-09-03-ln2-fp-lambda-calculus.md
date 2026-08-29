@@ -88,7 +88,7 @@ $$
 $$
 
 
-## Eta-Reduction ($\eta$-reduction)
+## Eta-Reduction ($$\eta$$-reduction)
 
 Eta-reduction expresses the idea that a function which does nothing more than pass its argument to another function can be simplified to that function itself.
 
