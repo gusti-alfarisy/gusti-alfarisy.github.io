@@ -32,7 +32,7 @@ Topics:
 ---
 
 ### Week 2: Introduction to Lambda Calculus
-<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln2-fp-lambda-calculus/) -->
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln2-fp-lambda-calculus/)
 
 Topics:
 - Variables

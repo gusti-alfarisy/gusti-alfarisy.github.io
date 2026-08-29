@@ -14,7 +14,7 @@ Lambda calculus is an important theoretical foundation for many functional-progr
 ## The Syntax
 
 * variable: x, y, z
-* abstraction: $\lambda x. M$ which is a function with a body M
+* abstraction: $$\lambda x. M$$ which is a function with a body M
 * application: (M N), function M applied to argument N
 
 Example:
@@ -53,7 +53,7 @@ let add10 = |x: i32| x + 10;
 println!("{}", add10(5)); // 15
 ```
 
-## Beta-reduction ($\beta-reduction$)
+## Beta-reduction ($$\beta-reduction$$)
 
 Beta-reduction is the operation that applies a function (an abstraction) to an argument. For example:
 
@@ -73,7 +73,7 @@ $$
 5 + 10 = 15
 $$
 
-## Alpha-conversion ($\alpha-conversion$)
+## Alpha-conversion ($$\alpha-conversion$$)
 
 Alpha-conversion is the renaming of bound variables to avoid name-capture with free variables. Example of a potential name clash:
 
@@ -99,7 +99,7 @@ $$
 \qquad \text{if } x \notin FV(f)
 $$
 
-where $FV(f)$ denotes the set of **free variables** occurring in $f$.
+where $$FV(f)$$ denotes the set of **free variables** occurring in $$f$$.
 
 For example,
 
@@ -115,7 +115,7 @@ $$
 \lambda x.\; g\,x
 $$
 
-takes an argument $x$ and immediately passes it to $g$. It therefore has the same functional behavior as $g$ itself.
+takes an argument $$x$$ and immediately passes it to $$g$$. It therefore has the same functional behavior as $$g$$ itself.
 
 Eta-reduction is valid only when
 
@@ -123,7 +123,7 @@ $$
 x \notin FV(f).
 $$
 
-This means that $f$ must not depend on the particular variable $x$ being removed.
+This means that $$f$$ must not depend on the particular variable $$x$$ being removed.
 
 For example,
 
@@ -137,7 +137,7 @@ $$
 x
 $$
 
-because in this case the first $x$ is part of the function being applied, and therefore $x$ occurs free in the corresponding $f$.
+because in this case the first $$x$$ is part of the function being applied, and therefore $x$ occurs free in the corresponding $$f$$.
 
 ### Eta-Expansion
 
@@ -243,7 +243,7 @@ Check `AND TRUE FALSE`:
 
 $$
 AND\; TRUE\; FALSE = (\lambda p. \lambda q. p\; q\; FALSE)\; TRUE\; FALSE
-	o (\lambda q. TRUE\; q\; FALSE)\; FALSE \to TRUE\; FALSE\; FALSE \to FALSE
+	\to (\lambda q. TRUE\; q\; FALSE)\; FALSE \to TRUE\; FALSE\; FALSE \to FALSE
 $$
 
 `AND TRUE TRUE` reduces to `TRUE`, and `AND FALSE _` reduces to `FALSE`.
