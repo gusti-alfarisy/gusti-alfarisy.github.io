@@ -3,6 +3,8 @@ title: "Lecture Notes 2: Introduction to Lambda Calculus"
 date: 2025-09-03
 last_modified_at: 2026-08-25
 background: "https://www-codecademy-com.translate.goog/resources/blog/wp-content/uploads/2022/12/programming-languages.png"
+comments: true
+toc: true
 ---
 
 A Turing machine is a computational model based on states. The machine reads the current state and, using its transition function (the instruction table), updates the state, optionally writes to the tape, and moves the tape head left or right. This model captures the essence of program execution.
@@ -137,7 +139,7 @@ $$
 x
 $$
 
-because in this case the first $$x$$ is part of the function being applied, and therefore $x$ occurs free in the corresponding $$f$$.
+because in this case the first $$x$$ is part of the function being applied, and therefore $$x$$ occurs free in the corresponding $$f$$.
 
 ### Eta-Expansion
 
