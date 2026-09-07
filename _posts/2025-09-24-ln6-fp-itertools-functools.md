@@ -275,7 +275,7 @@ The complete official documentation of functools can be found here:
 
 [functools official docs](https://docs.python.org/3/library/functools.html)
 
-## Assignment
+<!-- ## Assignment
 
 Please submit before 13 October!
 
@@ -326,4 +326,4 @@ LEN "abcde" -> 5
 def fib(n):
     if n <= 1: return n
     return fib(n-1) + fib(n-2)
-```
+``` -->

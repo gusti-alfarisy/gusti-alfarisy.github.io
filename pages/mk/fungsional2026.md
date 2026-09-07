@@ -44,7 +44,7 @@ Topics:
 ---
 
 ### Week 3: Higher-Order Functions in Lambda Calculus
-<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln3-fp-hop-lambda-calculus/) -->
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln3-fp-hop-lambda-calculus/)
 
 Topics:
 - Church Encoding

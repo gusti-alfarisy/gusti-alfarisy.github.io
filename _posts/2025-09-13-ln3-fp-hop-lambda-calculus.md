@@ -189,10 +189,10 @@ This means the function arguments are reversed. -->
 
 Composition is a classic higher-order function: it takes two functions and returns a new function that applies them in sequence. Please create HOFs for function composition.
 
-$$
+```
 compose square add_one
 compose 3
-$$
+```
 
 --> (3 + 1)^2 = 16
 

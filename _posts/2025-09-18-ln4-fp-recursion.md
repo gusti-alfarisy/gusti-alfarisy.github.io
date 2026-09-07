@@ -1,6 +1,7 @@
 ---
 title: "Lecture Notes 4: Recursion and Y-Combinator"
 date: 2025-09-18
+last_modified_at: 2026-09-01
 background: "https://blog.klipse.tech/assets/drawing-recursive.jpg"
 
 author: Gusti Ahmad Fanshuri Alfarisy
@@ -14,6 +15,14 @@ toc: true
 Recursion is a mechanism where a function call itself, replacing the loop in imperative paradigm.
 
 Can you show how factorial/fibbonaci solved in imperative and recursive way?
+
+$$
+f(n)=
+\begin{cases}
+\text{result}, & \text{base case} \\
+\text{recursive call}, & \text{otherwise}
+\end{cases}
+$$
 
 ## Looping in $$\lambda$$-calculus
 
@@ -44,6 +53,69 @@ $$
 f (f (f ( f (....))))
 $$
 
+
+## Fixed Points
+
+Before introducing the Y-combinator, we need the concept of a fixed point.
+
+A value $x$ is called a fixed point of a function $f$ if:
+
+$$
+f(x) = x
+$$
+
+For example, consider:
+
+$$
+f(x) = x^2
+$$
+
+Then $0$ and $1$ are fixed points because:
+
+$$
+f(0)=0
+$$
+
+and
+
+$$
+f(1)=1.
+$$
+
+The same idea can be applied to functions.
+
+Suppose we want a recursive function $R$. Instead of allowing $R$
+to directly refer to itself, we construct another function $F$ such that:
+
+$$
+R = F(R)
+$$
+
+Therefore, $R$ is a **fixed point** of $F$.
+
+Expanding this equation gives:
+
+$$
+R = F(R)
+$$
+
+$$
+R = F(F(R))
+$$
+
+$$
+R = F(F(F(R)))
+$$
+
+and so on.
+
+This is the connection between **fixed points and recursion**.
+
+The question is now:
+
+> Can we construct an operator that finds a fixed point of $F$?
+
+That operator is called a **fixed-point combinator**.
 
 ## Y-combinator
 
