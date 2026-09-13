@@ -58,7 +58,7 @@ $$
 
 Before introducing the Y-combinator, we need the concept of a fixed point.
 
-A value $x$ is called a fixed point of a function $f$ if:
+A value $$x$$ is called a fixed point of a function $$f$$ if:
 
 $$
 f(x) = x
@@ -84,7 +84,7 @@ $$
 
 The same idea can be applied to functions.
 
-Suppose we want a recursive function $R$. Instead of allowing $$R$$
+Suppose we want a recursive function $$R$$. Instead of allowing $$R$$
 to directly refer to itself, we construct another function $$F$$ such that:
 
 $$
@@ -109,13 +109,13 @@ $$
 
 and so on.
 
-This is the connection between **fixed points and recursion**.
+<!-- This is the connection between **fixed points and recursion**.
 
 The question is now:
 
 > Can we construct an operator that finds a fixed point of $$F$$?
 
-That operator is called a fixed-point combinator.
+That operator is called a fixed-point combinator. -->
 
 ## Y-combinator
 
