@@ -70,7 +70,7 @@ $$
 f(x) = x^2
 $$
 
-Then $0$ and $1$ are fixed points because:
+Then 0 and 1 are fixed points because:
 
 $$
 f(0)=0
@@ -84,14 +84,14 @@ $$
 
 The same idea can be applied to functions.
 
-Suppose we want a recursive function $R$. Instead of allowing $R$
-to directly refer to itself, we construct another function $F$ such that:
+Suppose we want a recursive function $R$. Instead of allowing $$R$$
+to directly refer to itself, we construct another function $$F$$ such that:
 
 $$
 R = F(R)
 $$
 
-Therefore, $R$ is a **fixed point** of $F$.
+Therefore, $$R$$ is a fixed point of $$F$$.
 
 Expanding this equation gives:
 
@@ -113,9 +113,9 @@ This is the connection between **fixed points and recursion**.
 
 The question is now:
 
-> Can we construct an operator that finds a fixed point of $F$?
+> Can we construct an operator that finds a fixed point of $$F$$?
 
-That operator is called a **fixed-point combinator**.
+That operator is called a fixed-point combinator.
 
 ## Y-combinator
 

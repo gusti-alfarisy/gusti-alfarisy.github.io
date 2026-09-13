@@ -54,7 +54,7 @@ Topics:
 ---
 
 ### Week 4: Recursion and Fixed-Point Combinators
-<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln4-fp-recursion/) -->
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln4-fp-recursion/)
 
 Topics:
 - Recursive Functions
