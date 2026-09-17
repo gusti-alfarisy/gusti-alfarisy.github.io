@@ -64,7 +64,7 @@ Topics:
 ---
 
 ### Week 5: Functional Programming in Python
-<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln5-functional-programming-python/) -->
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln5-functional-programming-python/)
 
 Topics:
 - Lambda Functions
