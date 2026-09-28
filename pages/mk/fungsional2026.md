@@ -76,7 +76,7 @@ Topics:
 ---
 
 ### Week 6: Functional Programming Utilities in Python
-<!-- [Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln6-fp-itertools-functools/) -->
+[Lecture Notes](https://gusti-alfarisy.github.io/blog/2025/ln6-fp-itertools-functools/)
 
 Topics:
 - `itertools`
