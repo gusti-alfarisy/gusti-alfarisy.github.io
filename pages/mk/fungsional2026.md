@@ -89,6 +89,7 @@ Topics:
 ### Week 7: Introduction to Rust
 
 [Getting Started](https://doc.rust-lang.org/stable/book/ch01-00-getting-started.html)
+
 [Common Concepts](https://doc.rust-lang.org/stable/book/ch03-00-common-programming-concepts.html)
 
 Topics:
