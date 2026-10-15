@@ -114,6 +114,8 @@ Please hit the books!
 
 ### Week 9: Functional Programming in Rust
 
+[Closures and Iterators](https://doc.rust-lang.org/book/ch13-00-functional-features.html)
+
 Topics:
 - Closures
 - Iterators
