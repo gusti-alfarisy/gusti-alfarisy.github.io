@@ -42,7 +42,7 @@ toc: true
 
 **Aerial Analytics Platform**
 
-**2 November 2026**
+*4 November 2026**
 
 | Waktu | Agenda |
 |---|---|
