@@ -143,6 +143,10 @@ Topics:
 
 ### Week 11: Advanced Functional Programming in Rust
 
+[Generics](https://doc.rust-lang.org/book/ch10-00-generics.html)
+
+[Trait Iterator](https://doc.rust-lang.org/std/iter/trait.Iterator.html)
+
 Topics:
 - Traits
 - Generics
