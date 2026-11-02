@@ -158,12 +158,19 @@ Topics:
 
 ### Week 12: Functional Concurrency in Rust
 
+[Concurrency](https://doc.rust-lang.org/book/ch16-00-concurrency.html)
+
+[Rayon](https://github.com/rayon-rs/rayon)
+
+[Async, Await, Futures, and Stream](https://doc.rust-lang.org/book/ch17-00-async-await.html)
+
 Topics:
 - Rayon
 - Parallel Iterators
 - Channels
 - Shared State
 - Functional Concurrency
+- Async, Await, Futures, and Stream
 
 ---
 
