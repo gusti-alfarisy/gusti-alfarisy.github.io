@@ -14,29 +14,29 @@ toc: true
 
 ### Smart Soil IoT
 
-**2 November 2026**
+**7 November 2026**
 
 | Waktu | Agenda |
 |---|---|
-| 13:00–13:15 | Kelompok 2 |
-| 13:15–13:30 | Kelompok 3 |
-| 13:30–14:00 | Pengajaran presentasi 1 |
-| 14:00–14:30 | Pengajaran presentasi 2 |
-| 14:30–14:45 | Kelompok 4 |
-| 14:45–15:00 | Kelompok 5 |
-| 15:00–15:15 | Kelompok 6 |
+| 08:00–08:15 | Kelompok 2 |
+| 08:15–08:30 | Kelompok 3 |
+| 08:30–09:00 | Pengajaran presentasi 1 |
+| 09:00–09:30 | Pengajaran presentasi 2 |
+| 09:30–09:45 | Kelompok 4 |
+| 09:45–10:00 | Kelompok 5 |
+| 10:00–10:15 | Kelompok 6 |
 
 ### Biodiversity Knowledge Platform (KalimantanBio)
 
-**2 November 2026**
+**7 November 2026**
 
 | Waktu | Agenda |
 |---|---|
-| 15:15–15:30 | Kelompok 1 |
-| 15:30–15:45 | Kelompok 2 |
-| 18:30–18:45 | Kelompok 3 |
-| 18:45–19:00 | Kelompok 4 |
-| 19:00–19:15 | Kelompok 5 |
+| 10:15–10:30 | Kelompok 1 |
+| 10:30–10:45 | Kelompok 2 |
+| 10:45–11:00 | Kelompok 3 |
+| 11:00–11:15 | Kelompok 4 |
+| 11:15–11:30 | Kelompok 5 |
 
 ## Kelas B
 
