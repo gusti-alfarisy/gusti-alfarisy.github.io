@@ -37,8 +37,8 @@ Environmental and Agroecological Informatics Research Group (EAIR Lab) -->
 [Publication](/publications/)
 {: .button}
 
-[EAIR Group](/eair/)
-{: .button}
+<!-- [EAIR Group](/eair/)
+{: .button} -->
 
 [Consultation](/consult/)
 {: .button}
