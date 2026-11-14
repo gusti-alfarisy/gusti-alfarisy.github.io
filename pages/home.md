@@ -16,17 +16,20 @@ print("Greetings from Borneo Islands...!")
 
 ![My picture - Gusti Ahmad Fanshuri Alfarisy](assets/theme/images/profil_pic_me.png "Hello"){:class="profil-picture"}
 
+
 **Gusti Ahmad Fanshuri Alfarisy, Ph.D.**
 {: style="text-align:center;"}
-**AI Researcher . Lecturer . AI Consultant . Research Mentor for AI Topics**
+
+**AI Researcher · Lecturer · AI Consultant · Research Mentor**
 {: style="text-align:center;"}
-*Environmental Intelligence . Open-World Lifelong Machine Learning . Applied Artificial Intelligence* 
+
+*Open-World Learning · Biodiversity & Agroecological Intelligence · Intelligent Software Engineering*
 {: style="text-align:center;"}
 
 <!-- **EAIR Lab**
 Environmental and Agroecological Informatics Research Group (EAIR Lab) -->
 
-> **Developing adaptive AI and environmental informatics for biodiversity conservation and sustainable agriculture**
+> **Advancing adaptive intelligence to discover the unknown, learn continuously, and address real-world challenges.**
 
 [About](/about/)
 {: .button}
