@@ -49,16 +49,16 @@ Environmental and Agroecological Informatics Research Group (EAIR Lab) -->
 
 ## Current Research
 
-My current research focuses on three interconnected areas:
+My research focuses on three interconnected areas:
 
-- **Open-World Lifelong Artificial Intelligence**  
-  Developing intelligent systems capable of recognizing unknown information and continuously learning from new data.
+- **Domain-Specific Open-World Learning**  
+  Developing adaptive learning methods that enable intelligent systems to identify unknown classes, discover emerging knowledge, and continuously learn from evolving data in domain-specific environments.
 
-- **Biodiversity Informatics**  
-  Applying AI and computational methods to species recognition, biodiversity knowledge systems, and ecological data.
+- **Biodiversity and Agroecological Intelligence**  
+  Applying artificial intelligence, sensing technologies, and geospatial computing to biodiversity monitoring, species recognition, ecological knowledge systems, and sustainable agroecosystem management.
 
-- **Environmental & Agroecological Intelligence**  
-  Developing sensing, geospatial, and intelligent systems for environmental monitoring and sustainable agroecosystems.
+- **Intelligent Software Engineering**  
+  Investigating AI-driven software engineering approaches, particularly agentic and specification-driven development, with an emphasis on intent understanding, unknown requirement detection, and continuous specification evolution through open-world learning.
 
 ## Featured Projects
 
