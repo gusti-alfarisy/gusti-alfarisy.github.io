@@ -61,7 +61,7 @@ My research focuses on three interconnected areas:
   Applying artificial intelligence, sensing technologies, and geospatial computing to biodiversity monitoring, species recognition, ecological knowledge systems, and sustainable agroecosystem management.
 
 - **Intelligent Software Engineering**  
-  Investigating AI-driven software engineering approaches, particularly agentic and specification-driven development, with an emphasis on intent understanding, unknown requirement detection, and continuous specification evolution through open-world learning.
+  Investigating AI-driven software engineering approaches, particularly agentic and specification-driven development, with an emphasis on unknown requirement and failure discovery, intelligent testing, and continuous evolution of specifications and autonomous AI systems through open-world learning.
 
 ## Featured Projects
 
@@ -80,9 +80,14 @@ Low-cost sensing and environmental monitoring for tropical and wetland agroecosy
 
 ### Aerial Analytics
 AI and geospatial analytics for environmental monitoring using drone and aerial imagery. -->
+<!-- 
+## AIR Research Group
 
-## EAIR Research Group
+The Environmental & Agroecological Informatics Research Group (EAIR) brings together research and student projects at the intersection of Artificial Intelligence, biodiversity, environmental informatics, and agroecology. -->
 
-The Environmental & Agroecological Informatics Research Group (EAIR) brings together research and student projects at the intersection of Artificial Intelligence, biodiversity, environmental informatics, and agroecology.
+<!-- [Explore EAIR →](/eair/) -->
 
-[Explore EAIR →](/eair/)
+## AIR Research Group
+**Adaptive Intelligence Research Group**
+
+AIR Research Group focuses on developing adaptive artificial intelligence methods and intelligent systems capable of recognizing unknown information, discovering emerging knowledge, and continuously learning from evolving environments. Our research covers domain-specific open-world learning, biodiversity and agroecological intelligence, and intelligent software engineering, with an emphasis on advancing adaptive AI technologies for real-world applications.
